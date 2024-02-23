@@ -1,0 +1,439 @@
+{
+  "Preloader.mobile.landscape": {
+    "name": "Preloader.mobile.landscape",
+    "dependencies": [
+      {
+        "path": "spritesheets/standalone/Preloader_BG.jpg",
+        "type": "image",
+        "size": 574595
+      },
+      {
+        "path": "Preloader.mobile.landscape.json",
+        "type": "layout",
+        "size": 36005
+      },
+      {
+        "path": "spritesheets/Preloader.mobile.landscape.json",
+        "type": "spritesheet",
+        "size": 125749
+      }
+    ]
+  },
+  "Preloader.mobile.portrait": {
+    "name": "Preloader.mobile.portrait",
+    "dependencies": [
+      {
+        "path": "spritesheets/standalone/Portrait_Preloader.jpg",
+        "type": "image",
+        "size": 481034
+      },
+      {
+        "path": "Preloader.mobile.portrait.json",
+        "type": "layout",
+        "size": 28152
+      }
+    ]
+  },
+  "FeatureScreen.mobile.landscape": {
+    "name": "FeatureScreen.mobile.landscape",
+    "dependencies": [
+      {
+        "path": "spritesheets/standalone/Feature5.jpg",
+        "type": "image",
+        "size": 158735
+      },
+      {
+        "path": "fonts/DUNGEONS.TTF",
+        "type": "font",
+        "size": 11668
+      },
+      {
+        "path": "spritesheets/standalone/Feature4.jpg",
+        "type": "image",
+        "size": 237841
+      },
+      {
+        "path": "spritesheets/standalone/Feature3wide.jpg",
+        "type": "image",
+        "size": 388222
+      },
+      {
+        "path": "spritesheets/standalone/Feature_2.jpg",
+        "type": "image",
+        "size": 336570
+      },
+      {
+        "path": "spritesheets/standalone/Feature_1.jpg",
+        "type": "image",
+        "size": 347095
+      },
+      {
+        "path": "FeatureScreen.mobile.landscape.json",
+        "type": "layout",
+        "size": 108056
+      },
+      {
+        "path": "spritesheets/FeatureScreen.mobile.landscape.json",
+        "type": "spritesheet",
+        "size": 158891
+      }
+    ]
+  },
+  "FeatureScreen.mobile.portrait": {
+    "name": "FeatureScreen.mobile.portrait",
+    "dependencies": [
+      {
+        "path": "spritesheets/standalone/Feature_3.jpg",
+        "type": "image",
+        "size": 369979
+      },
+      {
+        "path": "FeatureScreen.mobile.portrait.json",
+        "type": "layout",
+        "size": 134361
+      }
+    ]
+  },
+  "Main.mobile.landscape": {
+    "name": "Main.mobile.landscape",
+    "dependencies": [
+      {
+        "path": "spritesheets/standalone/WideBackground.jpg",
+        "type": "image",
+        "size": 553664
+      },
+      {
+        "type": "spineWithAtlas",
+        "spine": {
+          "path": "animations/spine/NearMiss-Mobile.json",
+          "type": "spine",
+          "size": 20998
+        },
+        "atlas": {
+          "path": "animations/spine/NearMiss-Mobile.atlas",
+          "type": "spineAtlas",
+          "size": 483
+        }
+      },
+      {
+        "type": "spineWithAtlas",
+        "spine": {
+          "path": "animations/spine/Special messages.json",
+          "type": "spine",
+          "size": 84810
+        },
+        "atlas": {
+          "path": "animations/spine/Special messages.atlas",
+          "type": "spineAtlas",
+          "size": 3119
+        }
+      },
+      {
+        "type": "spineWithAtlas",
+        "spine": {
+          "path": "animations/spine/IntroTransition-Mobile.json",
+          "type": "spine",
+          "size": 55601
+        },
+        "atlas": {
+          "path": "animations/spine/IntroTransition-Mobile.atlas",
+          "type": "spineAtlas",
+          "size": 1785
+        }
+      },
+      {
+        "type": "spineWithAtlas",
+        "spine": {
+          "path": "animations/spine/BackgroundAnimations-Mobile.json",
+          "type": "spine",
+          "size": 585700
+        },
+        "atlas": {
+          "path": "animations/spine/BackgroundAnimations-Mobile.atlas",
+          "type": "spineAtlas",
+          "size": 5174
+        }
+      },
+      {
+        "type": "spineWithAtlas",
+        "spine": {
+          "path": "animations/spine/FeaturesAnimations.json",
+          "type": "spine",
+          "size": 69619
+        },
+        "atlas": {
+          "path": "animations/spine/FeaturesAnimations-Mobile.atlas",
+          "type": "spineAtlas",
+          "size": 5423
+        }
+      },
+      {
+        "type": "spineWithAtlas",
+        "spine": {
+          "path": "animations/spine/wheelAnimation-Mobile.json",
+          "type": "spine",
+          "size": 54671
+        },
+        "atlas": {
+          "path": "animations/spine/wheelAnimation-Mobile.atlas",
+          "type": "spineAtlas",
+          "size": 385
+        }
+      },
+      {
+        "path": "Main.mobile.landscape.json",
+        "type": "layout",
+        "size": 1935540
+      },
+      {
+        "path": "spritesheets/Main.mobile.landscape.json",
+        "type": "spritesheet",
+        "size": 2690323
+      }
+    ]
+  },
+  "Main.mobile.portrait": {
+    "name": "Main.mobile.portrait",
+    "dependencies": [
+      {
+        "path": "spritesheets/standalone/upper_UI.jpg",
+        "type": "image",
+        "size": 663967
+      },
+      {
+        "type": "spineWithAtlas",
+        "spine": {
+          "path": "animations/spine/NearMiss-Mobile.json",
+          "type": "spine",
+          "size": 20998
+        },
+        "atlas": {
+          "path": "animations/spine/NearMiss-Mobile.atlas",
+          "type": "spineAtlas",
+          "size": 483
+        }
+      },
+      {
+        "type": "spineWithAtlas",
+        "spine": {
+          "path": "animations/spine/Special messages mobile.json",
+          "type": "spine",
+          "size": 84810
+        },
+        "atlas": {
+          "path": "animations/spine/Special messages mobile.atlas",
+          "type": "spineAtlas",
+          "size": 3093
+        }
+      },
+      {
+        "type": "spineWithAtlas",
+        "spine": {
+          "path": "animations/spine/Special messages.json",
+          "type": "spine",
+          "size": 84810
+        },
+        "atlas": {
+          "path": "animations/spine/Special messages.atlas",
+          "type": "spineAtlas",
+          "size": 3119
+        }
+      },
+      {
+        "type": "spineWithAtlas",
+        "spine": {
+          "path": "animations/spine/IntroTransition-Mobile.json",
+          "type": "spine",
+          "size": 55601
+        },
+        "atlas": {
+          "path": "animations/spine/IntroTransition-Mobile.atlas",
+          "type": "spineAtlas",
+          "size": 1785
+        }
+      },
+      {
+        "type": "spineWithAtlas",
+        "spine": {
+          "path": "animations/spine/FeaturesAnimations-Mobile.json",
+          "type": "spine",
+          "size": 69619
+        },
+        "atlas": {
+          "path": "animations/spine/FeaturesAnimations-Mobile.atlas",
+          "type": "spineAtlas",
+          "size": 5423
+        }
+      },
+      {
+        "type": "spineWithAtlas",
+        "spine": {
+          "path": "animations/spine/BackgroundAnimations-Mobile.json",
+          "type": "spine",
+          "size": 585700
+        },
+        "atlas": {
+          "path": "animations/spine/BackgroundAnimations-Mobile.atlas",
+          "type": "spineAtlas",
+          "size": 5174
+        }
+      },
+      {
+        "type": "spineWithAtlas",
+        "spine": {
+          "path": "animations/spine/wheelAnimation-Mobile.json",
+          "type": "spine",
+          "size": 54671
+        },
+        "atlas": {
+          "path": "animations/spine/wheelAnimation-Mobile.atlas",
+          "type": "spineAtlas",
+          "size": 385
+        }
+      },
+      {
+        "path": "Main.mobile.portrait.json",
+        "type": "layout",
+        "size": 1920463
+      }
+    ]
+  },
+  "Symbols.mobile.landscape": {
+    "name": "Symbols.mobile.landscape",
+    "dependencies": [
+      {
+        "type": "spineWithAtlas",
+        "spine": {
+          "path": "animations/spine/All-Symbols-Animation.json",
+          "type": "spine",
+          "size": 734825
+        },
+        "atlas": {
+          "path": "animations/spine/All-Symbols-Animation.atlas",
+          "type": "spineAtlas",
+          "size": 8647
+        }
+      },
+      {
+        "path": "Symbols.mobile.landscape.json",
+        "type": "layout",
+        "size": 1121570
+      },
+      {
+        "path": "spritesheets/Symbols.mobile.landscape.json",
+        "type": "spritesheet",
+        "size": 3244410
+      },
+      {
+        "path": "spritesheets/Symbols.mobile.landscape1.json",
+        "type": "spritesheet",
+        "size": 2395658
+      }
+    ]
+  },
+  "Symbols.mobile.portrait": {
+    "name": "Symbols.mobile.portrait",
+    "dependencies": [
+      {
+        "path": "Symbols.mobile.portrait.json",
+        "type": "layout",
+        "size": 6817
+      }
+    ]
+  },
+  "Paytable.mobile.landscape": {
+    "name": "Paytable.mobile.landscape",
+    "dependencies": [
+      {
+        "path": "Paytable.mobile.landscape.json",
+        "type": "layout",
+        "size": 557830
+      },
+      {
+        "path": "spritesheets/Paytable.mobile.landscape.json",
+        "type": "spritesheet",
+        "size": 71022
+      }
+    ]
+  },
+  "Paytable.mobile.portrait": {
+    "name": "Paytable.mobile.portrait",
+    "dependencies": [
+      {
+        "path": "Paytable.mobile.portrait.json",
+        "type": "layout",
+        "size": 556103
+      }
+    ]
+  },
+  "ReSpins.mobile.portrait": {
+    "name": "ReSpins.mobile.portrait",
+    "dependencies": [
+      {
+        "path": "spritesheets/standalone/Upper_BG.jpg",
+        "type": "image",
+        "size": 312878
+      },
+      {
+        "path": "spritesheets/standalone/Lower_UI_FS.jpg",
+        "type": "image",
+        "size": 204621
+      },
+      {
+        "path": "spritesheets/standalone/pop_upBG.jpg",
+        "type": "image",
+        "size": 284294
+      },
+      {
+        "path": "ReSpins.mobile.portrait.json",
+        "type": "layout",
+        "size": 2444397
+      },
+      {
+        "path": "spritesheets/ReSpins.mobile.portrait.json",
+        "type": "spritesheet",
+        "size": 794362
+      }
+    ]
+  },
+  "ReSpins.mobile.landscape": {
+    "name": "ReSpins.mobile.landscape",
+    "dependencies": [
+      {
+        "path": "spritesheets/standalone/reSpins_Background.jpg",
+        "type": "image",
+        "size": 631484
+      },
+      {
+        "path": "ReSpins.mobile.landscape.json",
+        "type": "layout",
+        "size": 2099236
+      }
+    ]
+  },
+  "WinText.mobile.landscape": {
+    "name": "WinText.mobile.landscape",
+    "dependencies": [
+      {
+        "path": "WinText.mobile.landscape.json",
+        "type": "layout",
+        "size": 50659
+      },
+      {
+        "path": "spritesheets/WinText.mobile.landscape.json",
+        "type": "spritesheet",
+        "size": 708893
+      }
+    ]
+  },
+  "WinText.mobile.portrait": {
+    "name": "WinText.mobile.portrait",
+    "dependencies": [
+      {
+        "path": "WinText.mobile.portrait.json",
+        "type": "layout",
+        "size": 50592
+      }
+    ]
+  }
+}

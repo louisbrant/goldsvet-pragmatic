@@ -1,0 +1,713 @@
+{
+  "skeleton": {
+    "images": "images/"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "root!@344894",
+      "parent": "root",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "WinText",
+      "parent": "root!@344894",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "WinGlow",
+      "parent": "WinText",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "SuperMegaAztecBigWin",
+      "parent": "WinText",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "SuperMegaWin",
+      "parent": "WinText",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "SuperBigWin",
+      "parent": "WinText",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": false,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "BigWin",
+      "parent": "WinText",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": false,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    }
+  ],
+  "slots": [
+    {
+      "name": "bigWin",
+      "bone": "WinGlow",
+      "attachment": "bigWin",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "bigWin!@344909",
+      "bone": "SuperMegaAztecBigWin",
+      "attachment": "bigWin!@344909",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Mega",
+      "bone": "SuperMegaAztecBigWin",
+      "attachment": "Mega",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "superLeft",
+      "bone": "SuperMegaAztecBigWin",
+      "attachment": "superLeft",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Aztec",
+      "bone": "SuperMegaAztecBigWin",
+      "attachment": "Aztec",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "bigWin!@344913",
+      "bone": "SuperMegaWin",
+      "attachment": "bigWin!@344913",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Mega!@344914",
+      "bone": "SuperMegaWin",
+      "attachment": "Mega!@344914",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "superLeft!@344915",
+      "bone": "SuperMegaWin",
+      "attachment": "superLeft!@344915",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "SBW_gold",
+      "bone": "SuperBigWin",
+      "attachment": "SBW_gold",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "bigWin!@344917",
+      "bone": "SuperBigWin",
+      "attachment": "bigWin!@344917",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "bigWin!@344918",
+      "bone": "BigWin",
+      "attachment": "bigWin!@344918",
+      "components": [],
+      "visibleAtInit": true
+    }
+  ],
+  "skins": {
+    "default": {
+      "bigWin": {
+        "bigWin": {
+          "x": 701,
+          "y": 1584,
+          "width": 792,
+          "height": 355,
+          "rotation": 0,
+          "scaleX": 3,
+          "scaleY": 3,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            305,
+            1406.5
+          ],
+          "offsetMax": [
+            1097,
+            1761.5
+          ],
+          "visibleSelf": true,
+          "name": "big glow",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "bigWin!@344909": {
+        "bigWin!@344909": {
+          "x": 724,
+          "y": 1795,
+          "width": 581,
+          "height": 129,
+          "rotation": 0,
+          "scaleX": 2,
+          "scaleY": 2,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            433.5,
+            1730.5
+          ],
+          "offsetMax": [
+            1014.5,
+            1859.5
+          ],
+          "visibleSelf": true,
+          "name": "BW_gold",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "Mega": {
+        "Mega": {
+          "x": 1089,
+          "y": 1271,
+          "width": 519,
+          "height": 183,
+          "rotation": 0,
+          "scaleX": 1.2,
+          "scaleY": 1.2,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            829.5,
+            1179.5
+          ],
+          "offsetMax": [
+            1348.5,
+            1362.5
+          ],
+          "visibleSelf": true,
+          "name": "Mega.gold",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "superLeft": {
+        "superLeft": {
+          "x": 392,
+          "y": 1273,
+          "width": 588,
+          "height": 186,
+          "rotation": 0,
+          "scaleX": 1.2,
+          "scaleY": 1.2,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            98,
+            1180
+          ],
+          "offsetMax": [
+            686,
+            1366
+          ],
+          "visibleSelf": true,
+          "name": "S2_gold",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "Aztec": {
+        "Aztec": {
+          "x": 697,
+          "y": 1519,
+          "width": 607,
+          "height": 172,
+          "rotation": 0,
+          "scaleX": 1.5,
+          "scaleY": 1.5,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            393.5,
+            1433
+          ],
+          "offsetMax": [
+            1000.5,
+            1605
+          ],
+          "visibleSelf": true,
+          "name": "Aztec_gold",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "bigWin!@344913": {
+        "bigWin!@344913": {
+          "x": 735,
+          "y": 1706,
+          "width": 581,
+          "height": 129,
+          "rotation": 0,
+          "scaleX": 2,
+          "scaleY": 2,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            444.5,
+            1641.5
+          ],
+          "offsetMax": [
+            1025.5,
+            1770.5
+          ],
+          "visibleSelf": true,
+          "name": "BW_gold",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "Mega!@344914": {
+        "Mega!@344914": {
+          "x": 1089,
+          "y": 1445,
+          "width": 519,
+          "height": 183,
+          "rotation": 0,
+          "scaleX": 1.2,
+          "scaleY": 1.2,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            829.5,
+            1353.5
+          ],
+          "offsetMax": [
+            1348.5,
+            1536.5
+          ],
+          "visibleSelf": true,
+          "name": "Mega.gold",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "superLeft!@344915": {
+        "superLeft!@344915": {
+          "x": 392,
+          "y": 1447,
+          "width": 588,
+          "height": 186,
+          "rotation": 0,
+          "scaleX": 1.2,
+          "scaleY": 1.2,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            98,
+            1354
+          ],
+          "offsetMax": [
+            686,
+            1540
+          ],
+          "visibleSelf": true,
+          "name": "S2_gold",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "SBW_gold": {
+        "SBW_gold": {
+          "x": 729,
+          "y": 1434,
+          "width": 601,
+          "height": 162,
+          "rotation": 0,
+          "scaleX": 2,
+          "scaleY": 2,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            428.5,
+            1353
+          ],
+          "offsetMax": [
+            1029.5,
+            1515
+          ],
+          "visibleSelf": true,
+          "name": "SBW_gold",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "bigWin!@344917": {
+        "bigWin!@344917": {
+          "x": 724,
+          "y": 1740,
+          "width": 581,
+          "height": 129,
+          "rotation": 0,
+          "scaleX": 2,
+          "scaleY": 2,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            433.5,
+            1675.5
+          ],
+          "offsetMax": [
+            1014.5,
+            1804.5
+          ],
+          "visibleSelf": true,
+          "name": "BW_gold",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "bigWin!@344918": {
+        "bigWin!@344918": {
+          "x": 720,
+          "y": 1584,
+          "width": 581,
+          "height": 129,
+          "rotation": 0,
+          "scaleX": 2.2,
+          "scaleY": 2.2,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            429.5,
+            1519.5
+          ],
+          "offsetMax": [
+            1010.5,
+            1648.5
+          ],
+          "visibleSelf": true,
+          "name": "BW_gold",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      }
+    }
+  },
+  "bpm": 100
+}

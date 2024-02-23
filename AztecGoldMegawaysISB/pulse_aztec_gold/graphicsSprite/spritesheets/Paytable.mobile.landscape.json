@@ -1,0 +1,173 @@
+{
+    "frames": {
+        "SettingsSeparator1.png": {
+            "frame": {
+                "x": 4,
+                "y": 4,
+                "w": 769,
+                "h": 2
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 769,
+                "h": 2
+            },
+            "sourceSize": {
+                "w": 769,
+                "h": 2
+            }
+        },
+        "SettingsSeparator3.png": {
+            "frame": {
+                "x": 785,
+                "y": 4,
+                "w": 768,
+                "h": 2
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 768,
+                "h": 2
+            },
+            "sourceSize": {
+                "w": 768,
+                "h": 2
+            }
+        },
+        "SettingsSeparator2.png": {
+            "frame": {
+                "x": 4,
+                "y": 18,
+                "w": 768,
+                "h": 2
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 768,
+                "h": 2
+            },
+            "sourceSize": {
+                "w": 768,
+                "h": 2
+            }
+        },
+        "Aztec-Features-Frame.png": {
+            "frame": {
+                "x": 4,
+                "y": 32,
+                "w": 524,
+                "h": 366
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 524,
+                "h": 366
+            },
+            "sourceSize": {
+                "w": 524,
+                "h": 366
+            }
+        },
+        "PT-Symbol-Payout.png": {
+            "frame": {
+                "x": 540,
+                "y": 32,
+                "w": 227,
+                "h": 117
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 227,
+                "h": 117
+            },
+            "sourceSize": {
+                "w": 227,
+                "h": 117
+            }
+        },
+        "Megaways1.png": {
+            "frame": {
+                "x": 540,
+                "y": 161,
+                "w": 200,
+                "h": 138
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 138
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 138
+            }
+        },
+        "Megaways3.png": {
+            "frame": {
+                "x": 779,
+                "y": 32,
+                "w": 107,
+                "h": 70
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 107,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 107,
+                "h": 70
+            }
+        },
+        "Megaways2.png": {
+            "frame": {
+                "x": 898,
+                "y": 32,
+                "w": 104,
+                "h": 70
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 104,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 104,
+                "h": 70
+            }
+        }
+    },
+    "meta": {
+        "image": "Paytable.mobile.landscape.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 2048,
+            "h": 512
+        },
+        "scale": "1"
+    }
+}

@@ -1,0 +1,1604 @@
+{
+  "skeleton": {
+    "images": "images/"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "root!@332967",
+      "parent": "root",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "WideBackground",
+      "parent": "root!@332967",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "FeatureScreenModuleAssets",
+      "parent": "root!@332967",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Main_portrait",
+      "parent": "WideBackground",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Main_portrait!@332974",
+      "parent": "FeatureScreenModuleAssets",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Normal",
+      "parent": "Main_portrait",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "content_portrait",
+      "parent": "Main_portrait!@332974",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Background",
+      "parent": "content_portrait",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "features",
+      "parent": "content_portrait",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Logo",
+      "parent": "content_portrait",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "MainUI",
+      "parent": "content_portrait",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [
+        {
+          "type": "contextReplacer",
+          "map": [
+            {
+              "contextName": "",
+              "componentName": "",
+              "localPath": ""
+            }
+          ]
+        }
+      ],
+      "visibleAtInit": true
+    },
+    {
+      "name": "feature_mask",
+      "parent": "content_portrait",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": false,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "page3",
+      "parent": "features",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "page2",
+      "parent": "features",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": false,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "page1",
+      "parent": "features",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": false,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    }
+  ],
+  "slots": [
+    {
+      "name": "Portrait_Preloader",
+      "bone": "Normal",
+      "attachment": "Portrait_Preloader",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Feature_Frame",
+      "bone": "Background",
+      "attachment": "Feature_Frame",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Feature5",
+      "bone": "page3",
+      "attachment": "Feature5",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Feature4",
+      "bone": "page3",
+      "attachment": "Feature4",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Frame_Divider",
+      "bone": "page3",
+      "attachment": "Frame_Divider",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "IntroScreenDescription3_2",
+      "bone": "page3",
+      "attachment": "IntroScreenDescription3_2",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "IntroScreenDescription3_1",
+      "bone": "page3",
+      "attachment": "IntroScreenDescription3_1",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Feature3",
+      "bone": "page2",
+      "attachment": "Feature3",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "IntroScreenDescription2_2",
+      "bone": "page2",
+      "attachment": "IntroScreenDescription2_2",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "IntroScreenDescription2_1",
+      "bone": "page2",
+      "attachment": "IntroScreenDescription2_1",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Feature2",
+      "bone": "page1",
+      "attachment": "Feature2",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Feature1",
+      "bone": "page1",
+      "attachment": "Feature1",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "IntroScreenDescription1_4",
+      "bone": "page1",
+      "attachment": "IntroScreenDescription1_4",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "IntroScreenDescription1_3",
+      "bone": "page1",
+      "attachment": "IntroScreenDescription1_3",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "IntroScreenDescription1_2",
+      "bone": "page1",
+      "attachment": "IntroScreenDescription1_2",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Frame_Divider!@333022",
+      "bone": "page1",
+      "attachment": "Frame_Divider!@333022",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "IntroScreenDescription1_1",
+      "bone": "page1",
+      "attachment": "IntroScreenDescription1_1",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "AGM_Logo",
+      "bone": "Logo",
+      "attachment": "AGM_Logo",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "mask_image_portrait",
+      "bone": "feature_mask",
+      "attachment": "mask_image_portrait",
+      "components": [],
+      "visibleAtInit": true
+    }
+  ],
+  "skins": {
+    "default": {
+      "Portrait_Preloader": {
+        "Portrait_Preloader": {
+          "x": 720,
+          "y": 1584,
+          "width": 720,
+          "height": 1584,
+          "rotation": 0,
+          "scaleX": 2,
+          "scaleY": 2,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            360,
+            792
+          ],
+          "offsetMax": [
+            1080,
+            2376
+          ],
+          "visibleSelf": true,
+          "name": "Portrait_Preloader",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "Feature_Frame": {
+        "Feature_Frame": {
+          "x": 720,
+          "y": 1084,
+          "width": 1440,
+          "height": 1936,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            0,
+            116
+          ],
+          "offsetMax": [
+            1440,
+            2052
+          ],
+          "visibleSelf": true,
+          "name": "Feature_Frame",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "Feature5": {
+        "Feature5": {
+          "x": 711,
+          "y": 1536,
+          "width": 794,
+          "height": 553,
+          "rotation": 0,
+          "scaleX": 1.35,
+          "scaleY": 1.35,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            314,
+            1259.5
+          ],
+          "offsetMax": [
+            1108,
+            1812.5
+          ],
+          "visibleSelf": true,
+          "name": "Feature5",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "Feature4": {
+        "Feature4": {
+          "x": 720,
+          "y": 826,
+          "width": 783,
+          "height": 509,
+          "rotation": 0,
+          "scaleX": 1.3,
+          "scaleY": 1.3,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            328.5,
+            571.5
+          ],
+          "offsetMax": [
+            1111.5,
+            1080.5
+          ],
+          "visibleSelf": true,
+          "name": "Feature4",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "Frame_Divider": {
+        "Frame_Divider": {
+          "x": 720,
+          "y": 1179,
+          "width": 1146,
+          "height": 32,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            147,
+            1163
+          ],
+          "offsetMax": [
+            1293,
+            1195
+          ],
+          "visibleSelf": true,
+          "name": "Frame_Divider",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "IntroScreenDescription3_2": {
+        "IntroScreenDescription3_2": {
+          "x": 711,
+          "y": 1921,
+          "width": 1038,
+          "height": 97,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            192,
+            1872.5
+          ],
+          "offsetMax": [
+            1230,
+            1969.5
+          ],
+          "visibleSelf": true,
+          "name": "IntroScreenDescription3_2",
+          "type": "textField",
+          "properties": {
+            "content": "TRIGGERED ON ANY SPIN\n\n\n",
+            "fontName": "Arial",
+            "fontSize": "85",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "bold",
+            "colors": [
+              "f9eed0"
+            ],
+            "gradientType": "horizontal",
+            "fillGradientStops": [
+              0.2,
+              0.2
+            ],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "7e0c0c",
+            "dropShadowAlpha": 5,
+            "dropShadowAngle": 90,
+            "dropShadowBlur": 10,
+            "dropShadowDistance": 10,
+            "wordWrap": false,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 1038,
+            "lineHeight": 110,
+            "padding": 85,
+            "trim": true
+          }
+        }
+      },
+      "IntroScreenDescription3_1": {
+        "IntroScreenDescription3_1": {
+          "x": 720,
+          "y": 500,
+          "width": 1011,
+          "height": 178,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            214.5,
+            411
+          ],
+          "offsetMax": [
+            1225.5,
+            589
+          ],
+          "visibleSelf": true,
+          "name": "IntroScreenDescription3_1",
+          "type": "textField",
+          "properties": {
+            "content": "WATCH OUT FOR \nMODIFIERS",
+            "fontName": "Arial",
+            "fontSize": "85",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "bold",
+            "colors": [
+              "f9eed0"
+            ],
+            "gradientType": "horizontal",
+            "fillGradientStops": [
+              0.2,
+              0.2
+            ],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "7e0c0c",
+            "dropShadowAlpha": 5,
+            "dropShadowAngle": 90,
+            "dropShadowBlur": 10,
+            "dropShadowDistance": 10,
+            "wordWrap": false,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 1011,
+            "lineHeight": 90,
+            "padding": 85,
+            "trim": true
+          }
+        }
+      },
+      "Feature3": {
+        "Feature3": {
+          "x": 718,
+          "y": 1198,
+          "width": 566,
+          "height": 450,
+          "rotation": 0,
+          "scaleX": 2,
+          "scaleY": 2,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            435,
+            973
+          ],
+          "offsetMax": [
+            1001,
+            1423
+          ],
+          "visibleSelf": true,
+          "name": "Feature_3",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "IntroScreenDescription2_2": {
+        "IntroScreenDescription2_2": {
+          "x": 720,
+          "y": 1875,
+          "width": 1002,
+          "height": 214,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            219,
+            1768
+          ],
+          "offsetMax": [
+            1221,
+            1982
+          ],
+          "visibleSelf": true,
+          "name": "IntroScreenDescription2_2",
+          "type": "textField",
+          "properties": {
+            "content": "ANY WIN TRIGGERS\nA CASCADE!\n",
+            "fontName": "Arial",
+            "fontSize": "100",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "bold",
+            "colors": [
+              "f8c616"
+            ],
+            "gradientType": "horizontal",
+            "fillGradientStops": [
+              0.2,
+              0.2
+            ],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "f3d026",
+            "dropShadowAlpha": 5,
+            "dropShadowAngle": 90,
+            "dropShadowBlur": 10,
+            "dropShadowDistance": 10,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 1002,
+            "lineHeight": 100,
+            "padding": 100,
+            "trim": true
+          }
+        }
+      },
+      "IntroScreenDescription2_1": {
+        "IntroScreenDescription2_1": {
+          "x": 720,
+          "y": 537,
+          "width": 988,
+          "height": 273,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            226,
+            400.5
+          ],
+          "offsetMax": [
+            1214,
+            673.5
+          ],
+          "visibleSelf": true,
+          "name": "IntroScreenDescription2_1",
+          "type": "textField",
+          "properties": {
+            "content": "CASCADING \nREELS!\n",
+            "fontName": "Arial",
+            "fontSize": "120",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "bold",
+            "colors": [
+              "f9eed0"
+            ],
+            "gradientType": "horizontal",
+            "fillGradientStops": [
+              0.2,
+              0.2
+            ],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "7e0c0c",
+            "dropShadowAlpha": 5,
+            "dropShadowAngle": 90,
+            "dropShadowBlur": 10,
+            "dropShadowDistance": 10,
+            "wordWrap": false,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 988,
+            "lineHeight": 120,
+            "padding": 120,
+            "trim": true
+          }
+        }
+      },
+      "Feature2": {
+        "Feature2": {
+          "x": 720,
+          "y": 1588,
+          "width": 693,
+          "height": 452,
+          "rotation": 0,
+          "scaleX": 1.3,
+          "scaleY": 1.3,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            373.5,
+            1362
+          ],
+          "offsetMax": [
+            1066.5,
+            1814
+          ],
+          "visibleSelf": true,
+          "name": "Feature_2",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "Feature1": {
+        "Feature1": {
+          "x": 718,
+          "y": 759,
+          "width": 756,
+          "height": 476,
+          "rotation": 0,
+          "scaleX": 1.3,
+          "scaleY": 1.3,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            340,
+            521
+          ],
+          "offsetMax": [
+            1096,
+            997
+          ],
+          "visibleSelf": true,
+          "name": "Feature_1",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "IntroScreenDescription1_4": {
+        "IntroScreenDescription1_4": {
+          "x": 720,
+          "y": 1913,
+          "width": 1071,
+          "height": 131,
+          "rotation": 0,
+          "scaleX": 0.9700000000000006,
+          "scaleY": 0.9700000000000273,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            184.5,
+            1847.5
+          ],
+          "offsetMax": [
+            1255.5,
+            1978.5
+          ],
+          "visibleSelf": true,
+          "name": "IntroScreenDescription1_4",
+          "type": "textField",
+          "properties": {
+            "content": "WATCH OUT FOR THE  MINI, MAJOR, \nMEGA SUN DISC SCATTERS!\n\n\n",
+            "fontName": "Arial",
+            "fontSize": "60",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "bold",
+            "colors": [
+              "f9eed0"
+            ],
+            "gradientType": "horizontal",
+            "fillGradientStops": [
+              0.2,
+              0.2
+            ],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "7e0c0c",
+            "dropShadowAlpha": 5,
+            "dropShadowAngle": 90,
+            "dropShadowBlur": 10,
+            "dropShadowDistance": 10,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 1071,
+            "lineHeight": 30,
+            "padding": 60,
+            "trim": true
+          }
+        }
+      },
+      "IntroScreenDescription1_3": {
+        "IntroScreenDescription1_3": {
+          "x": 720,
+          "y": 1259,
+          "width": 1054,
+          "height": 118,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            193,
+            1200
+          ],
+          "offsetMax": [
+            1247,
+            1318
+          ],
+          "visibleSelf": true,
+          "name": "IntroScreenDescription1_3",
+          "type": "textField",
+          "properties": {
+            "content": "FILL AN ENTIRE COLUMN \nTO WIN THE MULTIPLIER!\n\n",
+            "fontName": "Arial",
+            "fontSize": "60",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "bold",
+            "colors": [
+              "f9eed0"
+            ],
+            "gradientType": "horizontal",
+            "fillGradientStops": [
+              0.2,
+              0.2
+            ],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "7e0c0c",
+            "dropShadowAlpha": 5,
+            "dropShadowAngle": 90,
+            "dropShadowBlur": 10,
+            "dropShadowDistance": 10,
+            "wordWrap": false,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 1054,
+            "lineHeight": 60,
+            "padding": 60,
+            "trim": true
+          }
+        }
+      },
+      "IntroScreenDescription1_2": {
+        "IntroScreenDescription1_2": {
+          "x": 720,
+          "y": 1104,
+          "width": 1003,
+          "height": 125,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            218.5,
+            1041.5
+          ],
+          "offsetMax": [
+            1221.5,
+            1166.5
+          ],
+          "visibleSelf": true,
+          "name": "IntroScreenDescription1_2",
+          "type": "textField",
+          "properties": {
+            "content": "TRIGGER AZTEC GOLD CASH RESPINS!\n\n",
+            "fontName": "Arial",
+            "fontSize": "60",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "bold",
+            "colors": [
+              "f9eed0"
+            ],
+            "gradientType": "horizontal",
+            "fillGradientStops": [
+              0.2,
+              0.2
+            ],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "7e0c0c",
+            "dropShadowAlpha": 5,
+            "dropShadowAngle": 90,
+            "dropShadowBlur": 10,
+            "dropShadowDistance": 10,
+            "wordWrap": false,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 1003,
+            "lineHeight": 60,
+            "padding": 60,
+            "trim": true
+          }
+        }
+      },
+      "Frame_Divider!@333022": {
+        "Frame_Divider!@333022": {
+          "x": 720,
+          "y": 1179,
+          "width": 1146,
+          "height": 32,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            147,
+            1163
+          ],
+          "offsetMax": [
+            1293,
+            1195
+          ],
+          "visibleSelf": true,
+          "name": "Frame_Divider",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "IntroScreenDescription1_1": {
+        "IntroScreenDescription1_1": {
+          "x": 730,
+          "y": 458,
+          "width": 1041,
+          "height": 80,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            209.5,
+            418
+          ],
+          "offsetMax": [
+            1250.5,
+            498
+          ],
+          "visibleSelf": true,
+          "name": "IntroScreenDescription1_1",
+          "type": "textField",
+          "properties": {
+            "content": "5 OR MORE SUN DISC SCATTERS",
+            "fontName": "Arial",
+            "fontSize": "60",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "bold",
+            "colors": [
+              "f9eed0"
+            ],
+            "gradientType": "horizontal",
+            "fillGradientStops": [
+              0.2,
+              0.2
+            ],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "7e0c0c",
+            "dropShadowAlpha": 5,
+            "dropShadowAngle": 90,
+            "dropShadowBlur": 10,
+            "dropShadowDistance": 10,
+            "wordWrap": false,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 1041,
+            "lineHeight": 60,
+            "padding": 60,
+            "trim": true
+          }
+        }
+      },
+      "AGM_Logo": {
+        "AGM_Logo": {
+          "x": 720,
+          "y": 199,
+          "width": 684,
+          "height": 448,
+          "rotation": 0,
+          "scaleX": 0.8,
+          "scaleY": 0.8,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            378,
+            -25
+          ],
+          "offsetMax": [
+            1062,
+            423
+          ],
+          "visibleSelf": true,
+          "name": "AGM_Logo",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "mask_image_portrait": {
+        "mask_image_portrait": {
+          "x": 720,
+          "y": 1292,
+          "width": 755,
+          "height": 715,
+          "rotation": 0,
+          "scaleX": 1.9,
+          "scaleY": 1.9,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            342.5,
+            934.5
+          ],
+          "offsetMax": [
+            1097.5,
+            1649.5
+          ],
+          "visibleSelf": true,
+          "name": "introfeathermask",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      }
+    }
+  },
+  "bpm": 100
+}

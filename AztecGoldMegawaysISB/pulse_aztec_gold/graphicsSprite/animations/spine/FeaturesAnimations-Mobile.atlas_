@@ -1,0 +1,355 @@
+
+FeaturesAnimations-Mobile.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FrameGlow/Frame01
+  rotate: false
+  xy: 168, 1
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame02
+  rotate: false
+  xy: 1, 113
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame03
+  rotate: false
+  xy: 320, 1
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame04
+  rotate: false
+  xy: 153, 153
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame05
+  rotate: false
+  xy: 1, 265
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame06
+  rotate: false
+  xy: 305, 153
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame07
+  rotate: false
+  xy: 153, 305
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame08
+  rotate: false
+  xy: 1, 417
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame09
+  rotate: false
+  xy: 305, 305
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame10
+  rotate: false
+  xy: 153, 457
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame11
+  rotate: false
+  xy: 1, 569
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame12
+  rotate: false
+  xy: 305, 457
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame13
+  rotate: false
+  xy: 1, 721
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame14
+  rotate: false
+  xy: 1, 873
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame15
+  rotate: false
+  xy: 153, 609
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Glows/Light-1-red
+  rotate: false
+  xy: 457, 231
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Glows/light-1
+  rotate: false
+  xy: 457, 283
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Glows/MA-diamond-sparkle
+  rotate: false
+  xy: 457, 166
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+Glows/Rays-8
+  rotate: false
+  xy: 417, 699
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+Glows/ShockWave
+  rotate: false
+  xy: 305, 713
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Glows/sun-rays-1
+  rotate: true
+  xy: 1, 1
+  size: 110, 165
+  orig: 110, 165
+  offset: 0, 0
+  index: -1
+Multipliers/x3_glow
+  rotate: false
+  xy: 472, 1
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+Multipliers/x4_glow
+  rotate: false
+  xy: 472, 34
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+Multipliers/x5_glow
+  rotate: false
+  xy: 472, 67
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+Multipliers/x6_glow
+  rotate: false
+  xy: 472, 100
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+Multipliers/x7_glow
+  rotate: false
+  xy: 472, 133
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+SunDisc/Bg-Glow
+  rotate: false
+  xy: 305, 609
+  size: 110, 102
+  orig: 110, 102
+  offset: 0, 0
+  index: -1
+SunDisc/Overlay-Glow
+  rotate: true
+  xy: 417, 609
+  size: 88, 90
+  orig: 88, 90
+  offset: 0, 0
+  index: -1
+
+FeaturesAnimations-Mobile2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FullFrame
+  rotate: true
+  xy: 630, 1
+  size: 198, 345
+  orig: 198, 345
+  offset: 0, 0
+  index: -1
+Gold-Symbol-12-1
+  rotate: false
+  xy: 927, 566
+  size: 93, 73
+  orig: 93, 73
+  offset: 0, 0
+  index: -1
+Gold-Symbol-12-2
+  rotate: false
+  xy: 927, 641
+  size: 93, 60
+  orig: 93, 60
+  offset: 0, 0
+  index: -1
+Gold-Symbol-12-3
+  rotate: false
+  xy: 832, 648
+  size: 93, 52
+  orig: 93, 52
+  offset: 0, 0
+  index: -1
+Gold-Symbol-12-4
+  rotate: true
+  xy: 977, 1
+  size: 93, 46
+  orig: 93, 46
+  offset: 0, 0
+  index: -1
+Gold-Symbol-12
+  rotate: false
+  xy: 832, 553
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+increment
+  rotate: false
+  xy: 832, 309
+  size: 159, 91
+  orig: 159, 91
+  offset: 0, 0
+  index: -1
+increment2
+  rotate: false
+  xy: 832, 216
+  size: 180, 91
+  orig: 180, 91
+  offset: 0, 0
+  index: -1
+Multipliers/Frame-Glow
+  rotate: true
+  xy: 1, 703
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+Multipliers/Multiplier-Frame
+  rotate: false
+  xy: 832, 463
+  size: 130, 88
+  orig: 130, 88
+  offset: 0, 0
+  index: -1
+Multipliers/x3_gold
+  rotate: false
+  xy: 977, 176
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+Multipliers/x4_gold
+  rotate: true
+  xy: 980, 441
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+Multipliers/x5_gold
+  rotate: false
+  xy: 977, 96
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+Multipliers/x6_gold
+  rotate: false
+  xy: 977, 136
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+Multipliers/x7_gold
+  rotate: false
+  xy: 980, 402
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+SunDisc/Leaf1
+  rotate: true
+  xy: 993, 309
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+SunDisc/Leaf2
+  rotate: true
+  xy: 964, 487
+  size: 77, 54
+  orig: 77, 54
+  offset: 0, 0
+  index: -1
+SunDisc/Leaf3
+  rotate: false
+  xy: 1, 583
+  size: 36, 67
+  orig: 36, 67
+  offset: 0, 0
+  index: -1
+SunDisc/Sun-Disc-Text
+  rotate: true
+  xy: 630, 201
+  size: 490, 200
+  orig: 490, 200
+  offset: 0, 0
+  index: -1
+SunDisc/SunDisc
+  rotate: false
+  xy: 1, 1
+  size: 627, 580
+  orig: 627, 580
+  offset: 0, 0
+  index: -1
+SunDisc/Text-BG
+  rotate: false
+  xy: 832, 402
+  size: 146, 59
+  orig: 146, 59
+  offset: 0, 0
+  index: -1

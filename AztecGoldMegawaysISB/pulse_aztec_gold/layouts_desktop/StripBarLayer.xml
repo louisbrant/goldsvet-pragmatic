@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout name="stripbar_pixi">
+    <Main>
+        <Element name="props" depth="-1" layerY="0" layerX="0" type="layerProperties"/>
+        <Element name="sbBg" depth="1" type="image" resource="MainBalanceStrip" x="0" y="704" width="1584"
+                 height="18"/>
+        <Element name="sbContainer" depth="2" type="container" x="324" y="704" width="800" height="18">
+            <Element name="sbBalanceContainer" depth="2" type="container" x="146" y="0">
+                <Element name="stripBalanceLabel" class="textTitle"/>
+                <Element name="stripBalanceValue" class="textValue"/>
+            </Element>
+            <Element name="sbBetContainer" depth="2" type="container" x="300" y="0">
+                <Element name="stripTotalBetLabel" class="textTitle" singleLine="true"/>
+                <Element name="stripTotalBetValue" class="textValue"/>
+            </Element>
+            <Element name="sbWinContainer" depth="2" type="container" x="493" y="0">
+                <Element name="stripWinLabel" class="textTitle"/>
+                <Element name="stripWinValue" class="textValue"/>
+            </Element>
+            <Element name="sbCreditContainer" depth="2" type="container" x="647" y="0">
+                <Element name="stripCreditLabel" class="textTitle"/>
+                <Element name="stripCreditValue" class="textValue"/>
+            </Element>
+        </Element>
+        <Element name="sbContainerBonus" depth="2" type="container" x="100" y="704" width="800" height="18">
+            <Element name="sbBalanceContainerBonus" depth="2" type="container" x="493" y="0">
+                <Element name="stripBalanceBonusLabel" class="bonusTextTitle"/>
+            </Element>
+        </Element>
+    </Main>
+    <Styles>
+        <FontStyle name="sbStyleLabel" fontSize="11" fontColor="0xA2A2A2" align="right" vAlign="center" fontFamily="noto_sanscondensed_bold"/>
+        <FontStyle name="sbStyleValue" fontSize="11" fontColor="0xFFFFFF" align="left" vAlign="center" fontFamily="noto_sanscondensed_bold"/>
+    </Styles>
+    <Classes>
+        <Class name="textTitle" depth="3" type="textField" x="-3" y="0" width="75" height="18"
+               style="sbStyleLabel" singleLine="true"/>
+        <Class name="textValue" depth="3" type="textField" x="77" y="0" width="75" height="18"
+               style="sbStyleValue" singleLine="true"/>
+        <Class name="bonusTextTitle" depth="3" type="textField" x="-3" y="0" width="300" height="18"
+               style="sbStyleLabel" singleLine="true"/>
+    </Classes>
+</Layout>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout name="autoplay_pixi">
+    <Main_landscape name="Main_landscape">
+        <Element name="props" depth="-1" layerY="0" layerX="0" type="layerProperties"/>
+        <Element name="apSettingsContainer" depth="1" type="container" x="150" y="0" width="700" height="510">
+            <Element name="apSubContainer" depth="2" type="scrollingContainer" x="0" y="0" width="700" height="490"
+                     mask="false">
+
+                <Element name="autoplaySettingsWindowTotalGamesDescription" depth="1" type="textField" x="0" y="0"
+                         width="700" height="40" style="apBody0Center"/>
+
+                <Element name="apNumberSpinsStepper" depth="2" type="stepper" minValue="0" maxValue="2000"
+                         middle="150" x="200" y="70" width="300" height="75" fontSize="32" initial="1"/>
+
+                <Element name="apContainerAdvSettingsTitle" depth="3" type="container" x="0" y="190">
+
+                    <Element name="autoplayLossLimittBgMiddle" depth="2" type="image"
+                             resource="AdvancedSettingsStripFade" x="0" y="0" width="700" height="40"/>
+                    <Element name="autoplaySettingsAdvancedSettings" depth="2" type="textField" x="0" y="0" width="500"
+                             height="40" style="apBody0Center" label=""/>
+                    <Element name="autoplayAdvSettingsArrow" depth="2" type="image"
+                             resource="AdvancedSettingsArrowOpen" x="500" y="10" width="20" height="20"/>
+                </Element>
+
+                <Element name="apContainerAdvSettingsContent" depth="3" type="container" x="0" y="280">
+                    <Element name="autoplaySettingsConditionCreditDescription" depth="2" type="textField" x="0" y="0"
+                             width="350" height="80" style="apBody1"/>
+                    <Element name="apContainerLossLimitButton" depth="2" type="container" x="350" y="0">
+                        <Element name="autoplayLossLimittBgMiddle" depth="2" type="image"
+                                 resource="EditInputBackground" x="0" y="0" width="340" height="80"/>
+                        <Element name="autoplaySettingsLossLimitButton" depth="20" type="graphicsButton"
+                                 cornerRadius="5"
+                                 x="0" y="0" width="340" height="80" alpha="0"
+                                 upState="0x333333" pressedState="0x222222" overState="0x555555"
+                                 disabledState="0x333333"
+                                 labelStyle="apAmountsLabel" labelWidth="340" labelHeight="80"/>
+                    </Element>
+
+                    <Element name="autoplayseparator1" depth="3" type="image" resource="SettingsSeparator" x="0"
+                             y="107" width="700" height="3"/>
+                    <Element name="autoplaySettingsStopAutoSpin" depth="3" type="textField" x="0" y="134" width="700"
+                             height="40" style="apBody1" label=""/>
+
+                    
+                    <Element name="autoplaySettingsConditionWinDescription" depth="3" type="textField" x="0" y="200"
+                             width="350" height="80" style="apBody2"/>
+                    
+                    <Element name="apContainerWinLimitButton" depth="2" type="container" x="350" y="200">
+                        <Element name="autoplayWinLimittBgMiddle" depth="2" type="image"
+                                 resource="EditInputBackground" x="0" y="0" width="340" height="80"/>
+                        <Element name="autoplaySettingsWinLimitButton" depth="20" type="graphicsButton" cornerRadius="5"
+                                 x="0" y="0" width="340" height="80" alpha="0"
+                                 upState="0x333333" pressedState="0x222222" overState="0x555555"
+                                 disabledState="0x333333"
+                                 labelStyle="apAmountsLabel" labelWidth="340" labelHeight="80"/>
+                    </Element>
+
+                    <Element name="apJackpotContainer" depth="2" type="container" x="0" y="300">
+                        
+                        <Element name="autoplaySettingsConditionJackpotDescription" depth="16" type="textField" x="0"
+                                 y="0" width="350" height="80" style="apBody2"/>
+                        
+                        <Element name="autoplaySettingsWindowJackpotButton" depth="16" type="toggleButton" x="540"
+                                 y="10" width="150" height="60"
+                                 onState="MUIToggleButtonOn" offState="MUIToggleButtonOff" defaultState="on"
+                                 assetsType=""/>
+                    </Element>
+
+                </Element>
+
+                <Element name="autoplaySettingsWindowActivateButtonLabel" depth="20" type="button"
+                         cornerRadius="5" x="200" y="640" width="300" height="75"
+                         upState="MUIGenericButtonUp" pressedState="MUIGenericButtonDown" overState="MUIGenericButtonOver"
+                         disabledState="MUIGenericButtonDIsable"
+                         labelStyle="apStartLabel" labelWidth="300" labelHeight="75"/>
+
+                <Element name="apTurboContainer" depth="1" type="container" x="0" y="800">
+                    <Element name="spinSeparatorTurbo" depth="3" type="image" resource="SettingsSeparator" x="0"
+                             y="0" width="700" height="3"/>
+                    <Element name="menuTurboModeLabel" depth="16" type="textField" x="0" y="25"
+                             width="350" height="80" style="apBody1"/>
+                    <Element name="spinSettingsTurboButton" depth="16" type="toggleButton" x="540" y="35" width="150"
+                             height="60"
+                             onState="MUIToggleButtonOn" offState="MUIToggleButtonOff" defaultState="on" assetsType=""/>
+                </Element>
+
+
+            </Element>
+            <Element name="keyboardSlide" depth="1" type="container" x="90" y="0" width="700" height="510">
+                <Element name="autoplaySettingsKeypadTitle" depth="2" type="textField" x="0" y="2" width="490"
+                         height="80" labelFontSize="30" labelFontColor="0xFFFFFF" singleLine="true" align="center" vAlign="bottom"/>
+
+                <Element name="apKeyboardDisplayContainer" depth="1" type="container" x="0" y="90">
+                    <Element name="autoplayAmountBgMiddle" depth="2" type="image"
+                             resource="EditInputBackground" x="0" y="0" width="490" height="80"/>
+                    <Element name="autoplaySettingsKeypadAmountField" depth="3" type="textField" x="0" y="0"
+                             width="430" height="80" labelFontSize="30" labelFontColor="0xFFFFFF" align="right"
+                             vAlign="center" singleLine="true"/>
+                    <Element name="autoplaySettingsKeypadClearButton" depth="20" type="button" x="440" y="25"
+                             width="40" height="30" upState="KeyPadClearButtonUp" pressedState="KeyPadClearButtonDown"
+                             overState="KeyPadClearButtonUp" disabledState="KeyPadClearButtonDown"/>
+                </Element>
+
+
+                <Element name="apkeysContainer" depth="1" type="container" x="0" y="180">
+                    <Element name="KeyPad1" x="0" y="0" class="keypadButtonLandscape"
+                             upState="KeyPad1ButtonUp" pressedState="KeyPad1ButtonDown" overState="KeyPad1ButtonUp"
+                             disabledState="KeyPad1ButtonUp"/>
+                    <Element name="KeyPad2" x="100" y="0" class="keypadButtonLandscape"
+                             upState="KeyPad2ButtonUp" pressedState="KeyPad2ButtonDown" overState="KeyPad2ButtonUp"
+                             disabledState="KeyPad2ButtonUp"/>
+                    <Element name="KeyPad3" x="200" y="0" class="keypadButtonLandscape"
+                             upState="KeyPad3ButtonUp" pressedState="KeyPad3ButtonDown" overState="KeyPad3ButtonUp"
+                             disabledState="KeyPad3ButtonUp"/>
+                    <Element name="KeyPad4" x="300" y="0" class="keypadButtonLandscape"
+                             upState="KeyPad4ButtonUp" pressedState="KeyPad4ButtonDown" overState="KeyPad4ButtonUp"
+                             disabledState="KeyPad4ButtonUp"/>
+                    <Element name="KeyPad5" x="400" y="0" class="keypadButtonLandscape"
+                             upState="KeyPad5ButtonUp" pressedState="KeyPad5ButtonDown" overState="KeyPad5ButtonUp"
+                             disabledState="KeyPad5ButtonUp"/>
+                    <Element name="KeyPad6" x="0" y="100" class="keypadButtonLandscape"
+                             upState="KeyPad6ButtonUp" pressedState="KeyPad6ButtonDown" overState="KeyPad6ButtonUp"
+                             disabledState="KeyPad6ButtonUp"/>
+                    <Element name="KeyPad7" x="100" y="100" class="keypadButtonLandscape"
+                             upState="KeyPad7ButtonUp" pressedState="KeyPad7ButtonDown" overState="KeyPad7ButtonUp"
+                             disabledState="KeyPad7ButtonUp"/>
+                    <Element name="KeyPad8" x="200" y="100" class="keypadButtonLandscape"
+                             upState="KeyPad8ButtonUp" pressedState="KeyPad8ButtonDown" overState="KeyPad8ButtonUp"
+                             disabledState="KeyPad8ButtonUp"/>
+                    <Element name="KeyPad9" x="300" y="100" class="keypadButtonLandscape"
+                             upState="KeyPad9ButtonUp" pressedState="KeyPad9ButtonDown" overState="KeyPad9ButtonUp"
+                             disabledState="KeyPad9ButtonUp"/>
+                    <Element name="KeyPad0" x="400" y="100" class="keypadButtonLandscape"
+                             upState="KeyPad0ButtonUp" pressedState="KeyPad0ButtonDown" overState="KeyPad0ButtonUp"
+                             disabledState="KeyPad0ButtonUp"/>
+                    <Element name="KeyPadBack" x="0" y="200" class="keypadButtonLandscape" width="240"
+                             upState="KeyPadLandscapeBackButtonUp" pressedState="KeyPadLandscapeBackButtonDown"
+                             overState="KeyPadLandscapeBackButtonUp" disabledState="KeyPadLandscapeBackButtonUp"/>
+                    <Element name="KeyPadDone" x="250" y="200" class="keypadButtonLandscape" width="240"
+                             upState="KeyPadLanscapeDoneButtonUp" pressedState="KeyPadLandscapeDoneButtonDown"
+                             overState="KeyPadLanscapeDoneButtonUp" disabledState="KeyPadLanscapeDoneButtonUp"/>
+                </Element>
+            </Element>
+        </Element>
+    </Main_landscape>
+    <Main_portrait name="Main_portrait">
+        <Element name="props" depth="-1" layerY="0" layerX="0" type="layerProperties"/>
+        <Element name="apSettingsContainer" depth="1" type="container" x="50" y="20" width="700" height="1100">
+            <Element name="apSubContainer" depth="2" type="container" x="0" y="0" width="800" height="1100"
+                     mask="false">
+
+                <Element name="autoplaySettingsWindowTotalGamesDescription" depth="1" type="textField" x="0" y="0"
+                         width="700" height="40" style="apBody0Center"/>
+
+                <Element name="apNumberSpinsStepper" depth="2" type="stepper" minValue="0" maxValue="2000"
+                         middle="150" x="200" y="70" width="300" height="75" fontSize="32" initial="1"/>
+
+                <Element name="apContainerAdvSettingsTitle" depth="3" type="container" x="0" y="190">
+                    <Element name="autoplayLossLimittBgMiddle" depth="2" type="image"
+                             resource="AdvancedSettingsStripFade" x="0" y="0" width="700" height="40"/>
+                    <Element name="autoplaySettingsAdvancedSettings" depth="2" type="textField" x="0" y="0" width="500"
+                             height="40" style="apBody0Center" label=""/>
+                    <Element name="autoplayAdvSettingsArrow" depth="2" type="image"
+                             resource="AdvancedSettingsArrowOpen" x="500" y="10" width="20" height="20"/>
+                </Element>
+
+                <Element name="apContainerAdvSettingsContent" depth="3" type="container" x="0" y="280">
+                    <Element name="autoplaySettingsConditionCreditDescription" depth="2" type="textField" x="0" y="0"
+                             width="350" height="80" style="apBody1"/>
+                    <Element name="apContainerLossLimitButton" depth="2" type="container" x="350" y="0">
+                        <Element name="autoplayLossLimittBgMiddle" depth="2" type="image"
+                                 resource="EditInputBackground" x="0" y="0" width="340" height="80"/>
+                        <Element name="autoplaySettingsLossLimitButton" depth="4" type="graphicsButton" cornerRadius="5"
+                                 x="0" y="0" width="340" height="80" alpha="0"
+                                 upState="0x333333" pressedState="0x222222" overState="0x555555"
+                                 disabledState="0x333333"
+                                 labelStyle="apAmountsLabel" labelWidth="340" labelHeight="80"/>
+                    </Element>
+
+                    <Element name="autoplayseparator1" depth="3" type="image" resource="SettingsSeparator" x="0"
+                             y="107"
+                             width="700" height="3"/>
+                    <Element name="autoplaySettingsStopAutoSpin" depth="3" type="textField" x="0" y="134" width="700"
+                             height="40" style="apBody1" label=""/>
+                    
+                    <Element name="autoplaySettingsConditionWinDescription" depth="3" type="textField" x="0" y="200"
+                             width="350" height="80" style="apBody2"/>
+                    
+                    <Element name="apContainerWinLimitButton" depth="2" type="container" x="350" y="200">
+                        <Element name="autoplayWinLimittBgMiddle" depth="2" type="image"
+                                 resource="EditInputBackground" x="0" y="0" width="340" height="80"/>
+                        <Element name="autoplaySettingsWinLimitButton" depth="20" type="graphicsButton" cornerRadius="5"
+                                 x="0" y="0" width="340" height="80" alpha="0"
+                                 upState="0x333333" pressedState="0x222222" overState="0x555555"
+                                 disabledState="0x333333"
+                                 labelStyle="apAmountsLabel" labelWidth="340" labelHeight="80"/>
+                    </Element>
+
+                    <Element name="apJackpotContainer" depth="2" type="container" x="0" y="320">
+                        
+                        <Element name="autoplaySettingsConditionJackpotDescription" depth="16" type="textField" x="0"
+                                 y="0" width="350" height="80" style="apBody2"/>
+                        
+                        <Element name="autoplaySettingsWindowJackpotButton" depth="16" type="toggleButton" x="540"
+                                 y="10" width="150" height="60"
+                                 onState="MUIToggleButtonOn" offState="MUIToggleButtonOff" defaultState="on"
+                                 assetsType=""/>
+                    </Element>
+                </Element>
+
+                <Element name="autoplaySettingsWindowActivateButtonLabel" depth="20" type="button" cornerRadius="5"
+                        x="200" y="640" width="300" height="75"
+                        upState="MUIGenericButtonUp" pressedState="MUIGenericButtonDown" overState="MUIGenericButtonOver"
+                        disabledState="MUIGenericButtonDIsable"
+                        labelStyle="apStartLabel" labelWidth="300" labelHeight="75"/>
+
+                <Element name="apTurboContainer" depth="1" type="container" x="0" y="810">
+                    <Element name="spinSeparatorTurbo" depth="3" type="image" resource="SettingsSeparator" x="0"
+                             y="0" width="700" height="3"/>
+                    <Element name="menuTurboModeLabel" depth="16" type="textField" x="0" y="25"
+                             width="350" height="80" style="apBody1"/>
+                    <Element name="spinSettingsTurboButton" depth="16" type="toggleButton" x="540" y="35" width="150"
+                             height="60"
+                             onState="MUIToggleButtonOn" offState="MUIToggleButtonOff" defaultState="on" assetsType=""/>
+                </Element>
+
+
+            </Element>
+
+            <Element name="keyboardSlide" depth="1" type="container" x="80" y="50" width="700" height="1100">
+                <Element name="autoplaySettingsKeypadTitle" depth="2" type="textField" x="0" y="0" width="540"
+                         height="100" labelFontSize="50" labelFontColor="0xFFFFFF" singleLine="true" align="center" vAlign="bottom"/>
+
+                <Element name="apKeyboardDisplayContainer" depth="1" type="container" x="0" y="120">
+                    <Element name="autoplayAmountBgMiddle" depth="2" type="image"
+                             resource="EditInputBackground" x="0" y="0" width="540" height="100"/>
+                    <Element name="autoplaySettingsKeypadAmountField" depth="3" type="textField" x="0" y="0"
+                             width="430" height="100" labelFontSize="50" labelFontColor="0xFFFFFF" align="right"
+                             vAlign="center"/>
+                    <Element name="autoplaySettingsKeypadClearButton" depth="20" type="button" x="470" y="30"
+                             width="60" height="40" upState="KeyPadClearButtonUp" pressedState="KeyPadClearButtonDown"
+                             overState="KeyPadClearButtonUp" disabledState="KeyPadClearButtonDown"/>
+                </Element>
+
+                <Element name="apkeysContainer" depth="1" type="container" x="0" y="240">
+                    <Element name="KeyPad1" x="0" y="0" class="keypadButtonPortrait"
+                             upState="KeyPad1ButtonUp" pressedState="KeyPad1ButtonDown" overState="KeyPad1ButtonUp"
+                             disabledState="KeyPad1ButtonUp"/>
+                    <Element name="KeyPad2" x="190" y="0" class="keypadButtonPortrait"
+                             upState="KeyPad2ButtonUp" pressedState="KeyPad2ButtonDown" overState="KeyPad2ButtonUp"
+                             disabledState="KeyPad2ButtonUp"/>
+                    <Element name="KeyPad3" x="380" y="0" class="keypadButtonPortrait"
+                             upState="KeyPad3ButtonUp" pressedState="KeyPad3ButtonDown" overState="KeyPad3ButtonUp"
+                             disabledState="KeyPad3ButtonUp"/>
+                    <Element name="KeyPad4" x="0" y="190" class="keypadButtonPortrait"
+                             upState="KeyPad4ButtonUp" pressedState="KeyPad4ButtonDown" overState="KeyPad4ButtonUp"
+                             disabledState="KeyPad4ButtonUp"/>
+                    <Element name="KeyPad5" x="190" y="190" class="keypadButtonPortrait"
+                             upState="KeyPad5ButtonUp" pressedState="KeyPad5ButtonDown" overState="KeyPad5ButtonUp"
+                             disabledState="KeyPad5ButtonUp"/>
+                    <Element name="KeyPad6" x="380" y="190" class="keypadButtonPortrait"
+                             upState="KeyPad6ButtonUp" pressedState="KeyPad6ButtonDown" overState="KeyPad6ButtonUp"
+                             disabledState="KeyPad6ButtonUp"/>
+                    <Element name="KeyPad7" x="0" y="380" class="keypadButtonPortrait"
+                             upState="KeyPad7ButtonUp" pressedState="KeyPad7ButtonDown" overState="KeyPad7ButtonUp"
+                             disabledState="KeyPad7ButtonUp"/>
+                    <Element name="KeyPad8" x="190" y="380" class="keypadButtonPortrait"
+                             upState="KeyPad8ButtonUp" pressedState="KeyPad8ButtonDown" overState="KeyPad8ButtonUp"
+                             disabledState="KeyPad8ButtonUp"/>
+                    <Element name="KeyPad9" x="380" y="380" class="keypadButtonPortrait"
+                             upState="KeyPad9ButtonUp" pressedState="KeyPad9ButtonDown" overState="KeyPad9ButtonUp"
+                             disabledState="KeyPad9ButtonUp"/>
+                    <Element name="KeyPadBack" x="0" y="570" class="keypadButtonPortrait"
+                             upState="KeyPadBackButtonUp" pressedState="KeyPadBackButtonDown"
+                             overState="KeyPadBackButtonUp" disabledState="KeyPadBackButtonUp"/>
+                    <Element name="KeyPad0" x="190" y="570" class="keypadButtonPortrait"
+                             upState="KeyPad0ButtonUp" pressedState="KeyPad0ButtonDown" overState="KeyPad0ButtonUp"
+                             disabledState="KeyPad0ButtonUp"/>
+                    <Element name="KeyPadDone" x="380" y="570" class="keypadButtonPortrait"
+                             upState="KeyPadDoneButtonUp" pressedState="KeyPadDoneButtonDown"
+                             overState="KeyPadDoneButtonUp" disabledState="KeyPadDoneButtonUp"/>
+                </Element>
+            </Element>
+        </Element>
+    </Main_portrait>
+    <Styles>
+        <FontStyle name="apTitle" fontSize="35" fontColor="0xFFFFFF" align="center" vAlign="top"/>
+        <FontStyle name="apBody0Center" fontSize="30" fontColor="0xFFFFFF" align="center" vAlign="center"/>
+        <FontStyle name="apBody0" fontSize="30" fontColor="0xFFFFFF" align="left" vAlign="top"/>
+        <FontStyle name="apBody1" fontSize="30" fontColor="0xFFFFFF" align="left" vAlign="center"/>
+        <FontStyle name="apBody2" fontSize="25" fontColor="0xFFFFFF" align="left" vAlign="center"/>
+        <FontStyle name="apStartLabel" fontSize="28" fontColor="0x000000" align="center" vAlign="center"/>
+        <FontStyle name="apAmountsLabel" fontSize="28" fontColor="0xFFFFFF" align="center" vAlign="center"/>
+        <FontStyle name="apKeypadAmount" fontSize="40" fontColor="0xFFFFFF" align="center" vAlign="left"/>
+    </Styles>
+    <Classes>
+
+        <Class name="keypadButtonLandscape" depth="3" type="button" width="90" height="90"/>
+        <Class name="keypadButtonPortrait" depth="3" type="button" width="160" height="160"/>
+    </Classes>
+</Layout>

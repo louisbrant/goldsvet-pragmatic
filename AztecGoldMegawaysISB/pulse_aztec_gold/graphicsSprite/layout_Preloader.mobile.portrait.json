@@ -1,0 +1,315 @@
+{
+  "skeleton": {
+    "images": "images/"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "root!@332845",
+      "parent": "root",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "PreloaderModuleAssets",
+      "parent": "root!@332845",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Main_portrait",
+      "parent": "PreloaderModuleAssets",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "background",
+      "parent": "Main_portrait",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "content",
+      "parent": "Main_portrait",
+      "x": 720,
+      "y": 1584,
+      "width": 1440,
+      "height": 3168,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        1440,
+        3168
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    }
+  ],
+  "slots": [
+    {
+      "name": "Portrait_Preloader",
+      "bone": "background",
+      "attachment": "Portrait_Preloader",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "AGM_Logo",
+      "bone": "content",
+      "attachment": "AGM_Logo",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "legal_text",
+      "bone": "content",
+      "attachment": "legal_text",
+      "components": [],
+      "visibleAtInit": true
+    }
+  ],
+  "skins": {
+    "default": {
+      "Portrait_Preloader": {
+        "Portrait_Preloader": {
+          "x": 720,
+          "y": 1584,
+          "width": 720,
+          "height": 1584,
+          "rotation": 0,
+          "scaleX": 2,
+          "scaleY": 2,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            360,
+            792
+          ],
+          "offsetMax": [
+            1080,
+            2376
+          ],
+          "visibleSelf": true,
+          "name": "Portrait_Preloader",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "AGM_Logo": {
+        "AGM_Logo": {
+          "x": 689,
+          "y": 800,
+          "width": 737,
+          "height": 480,
+          "rotation": 0,
+          "scaleX": 1.9,
+          "scaleY": 1.9,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            320.5,
+            560
+          ],
+          "offsetMax": [
+            1057.5,
+            1040
+          ],
+          "visibleSelf": true,
+          "name": "AGM_Logo",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "legal_text": {
+        "legal_text": {
+          "x": 720,
+          "y": 1376,
+          "width": 896,
+          "height": 98,
+          "rotation": 0,
+          "scaleX": 1.35,
+          "scaleY": 1.35,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            272,
+            1327
+          ],
+          "offsetMax": [
+            1168,
+            1425
+          ],
+          "visibleSelf": true,
+          "name": "legal_text",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      }
+    }
+  },
+  "bpm": 100
+}

@@ -1,0 +1,6067 @@
+{
+  "skeleton": {
+    "images": "images/"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "root!@329576",
+      "parent": "root",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "PayTableModuleAssets",
+      "parent": "root!@329576",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "ptMainContainer",
+      "parent": "PayTableModuleAssets",
+      "x": 1584,
+      "y": 5195,
+      "width": 3171,
+      "height": 10398,
+      "widthRelative": 100.09469696969697,
+      "heightRelative": 722.0833333333334,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        -1.5,
+        -4
+      ],
+      "offsetMax": [
+        3169.5,
+        10394
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Page 5",
+      "parent": "ptMainContainer",
+      "x": 1657.5300000000002,
+      "y": 6702.19,
+      "width": 1751.8149999999998,
+      "height": 1214.3849999999748,
+      "widthRelative": 55.244875433617146,
+      "heightRelative": 11.679024812463693,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        781.6225000000002,
+        6094.997500000012
+      ],
+      "offsetMax": [
+        2533.4375,
+        7309.382499999987
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Page 4",
+      "parent": "ptMainContainer",
+      "x": 1627.5,
+      "y": 4948.75,
+      "width": 1636,
+      "height": 1984.5,
+      "widthRelative": 51.59255755282245,
+      "heightRelative": 19.08540103866128,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        809.5,
+        3956.5
+      ],
+      "offsetMax": [
+        2445.5,
+        5941
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Page 3",
+      "parent": "ptMainContainer",
+      "x": 1585.5,
+      "y": 3286.75,
+      "width": 1604,
+      "height": 1172.5,
+      "widthRelative": 50.583412172816146,
+      "heightRelative": 11.276206962877476,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        783.5,
+        2700.5
+      ],
+      "offsetMax": [
+        2387.5,
+        3873
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Page 2",
+      "parent": "ptMainContainer",
+      "x": 1585.5,
+      "y": 2193,
+      "width": 1800,
+      "height": 1035,
+      "widthRelative": 56.76442762535478,
+      "heightRelative": 9.953837276399307,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        685.5,
+        1675.5
+      ],
+      "offsetMax": [
+        2485.5,
+        2710.5
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Page 1",
+      "parent": "ptMainContainer",
+      "x": 1585.5,
+      "y": 5199,
+      "width": 3171,
+      "height": 10398,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3171,
+        10398
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    }
+  ],
+  "slots": [
+    {
+      "name": "GameVersion",
+      "bone": "Page 5",
+      "attachment": "GameVersion",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "textDisclaimer",
+      "bone": "Page 5",
+      "attachment": "textDisclaimer",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "paytableDisplayRulesDescription",
+      "bone": "Page 5",
+      "attachment": "paytableDisplayRulesDescription",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "paytableDisplayRulesTitle",
+      "bone": "Page 5",
+      "attachment": "paytableDisplayRulesTitle",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "RulesButton_noExport",
+      "bone": "Page 5",
+      "attachment": "RulesButton_noExport",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "paytableBasicRulesDescription",
+      "bone": "Page 5",
+      "attachment": "paytableBasicRulesDescription",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "paytableBasicRulesTitle",
+      "bone": "Page 5",
+      "attachment": "paytableBasicRulesTitle",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "paytableTitleRules",
+      "bone": "Page 5",
+      "attachment": "paytableTitleRules",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "PT_ways_text_7",
+      "bone": "Page 4",
+      "attachment": "PT_ways_text_7",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "PT_ways_text_6",
+      "bone": "Page 4",
+      "attachment": "PT_ways_text_6",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "PT Symbol Payout",
+      "bone": "Page 4",
+      "attachment": "PT Symbol Payout",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "PT_ways_text_5",
+      "bone": "Page 4",
+      "attachment": "PT_ways_text_5",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "PT_ways_text_4",
+      "bone": "Page 4",
+      "attachment": "PT_ways_text_4",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "PT_ways_text_3",
+      "bone": "Page 4",
+      "attachment": "PT_ways_text_3",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "SettingsSeparator4",
+      "bone": "Page 4",
+      "attachment": "SettingsSeparator4",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Megaways_Description3",
+      "bone": "Page 4",
+      "attachment": "Megaways_Description3",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "PT_ways_text_8",
+      "bone": "Page 4",
+      "attachment": "PT_ways_text_8",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Megaways_Description2",
+      "bone": "Page 4",
+      "attachment": "Megaways_Description2",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Megaways_Description1",
+      "bone": "Page 4",
+      "attachment": "Megaways_Description1",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Feature-7-Image",
+      "bone": "Page 4",
+      "attachment": "Feature-7-Image",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Feature-6-Image",
+      "bone": "Page 4",
+      "attachment": "Feature-6-Image",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Feature-5-Image",
+      "bone": "Page 4",
+      "attachment": "Feature-5-Image",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "PTMegawaysTitle",
+      "bone": "Page 4",
+      "attachment": "PTMegawaysTitle",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "SettingsSeparator3",
+      "bone": "Page 3",
+      "attachment": "SettingsSeparator3",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "AztecGoldCashRespins_description1",
+      "bone": "Page 3",
+      "attachment": "AztecGoldCashRespins_description1",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Feature-4-Image",
+      "bone": "Page 3",
+      "attachment": "Feature-4-Image",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Feature-3-Image",
+      "bone": "Page 3",
+      "attachment": "Feature-3-Image",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "PTAztecGoldCashRespinsTitle",
+      "bone": "Page 3",
+      "attachment": "PTAztecGoldCashRespinsTitle",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "SettingsSeparator2",
+      "bone": "Page 2",
+      "attachment": "SettingsSeparator2",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "CascadingWins_Description1",
+      "bone": "Page 2",
+      "attachment": "CascadingWins_Description1",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Feature-2-Image",
+      "bone": "Page 2",
+      "attachment": "Feature-2-Image",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Feature-1-Image",
+      "bone": "Page 2",
+      "attachment": "Feature-1-Image",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "PTCascadingWinsTitle",
+      "bone": "Page 2",
+      "attachment": "PTCascadingWinsTitle",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "SettingsSeparator1",
+      "bone": "Page 1",
+      "attachment": "SettingsSeparator1",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "paytablePayoutsCoinValue",
+      "bone": "Page 1",
+      "attachment": "paytablePayoutsCoinValue",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Symbol-1",
+      "bone": "Page 1",
+      "attachment": "Symbol-1",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s1_0",
+      "bone": "Page 1",
+      "attachment": "s1_0",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s1_1",
+      "bone": "Page 1",
+      "attachment": "s1_1",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s1_2",
+      "bone": "Page 1",
+      "attachment": "s1_2",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s1_3",
+      "bone": "Page 1",
+      "attachment": "s1_3",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Symbol-2",
+      "bone": "Page 1",
+      "attachment": "Symbol-2",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s2_0",
+      "bone": "Page 1",
+      "attachment": "s2_0",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s2_1",
+      "bone": "Page 1",
+      "attachment": "s2_1",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s2_2",
+      "bone": "Page 1",
+      "attachment": "s2_2",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s2_3",
+      "bone": "Page 1",
+      "attachment": "s2_3",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Symbol-3",
+      "bone": "Page 1",
+      "attachment": "Symbol-3",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s3_0",
+      "bone": "Page 1",
+      "attachment": "s3_0",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s3_1",
+      "bone": "Page 1",
+      "attachment": "s3_1",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s3_2",
+      "bone": "Page 1",
+      "attachment": "s3_2",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s3_3",
+      "bone": "Page 1",
+      "attachment": "s3_3",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Symbol-4",
+      "bone": "Page 1",
+      "attachment": "Symbol-4",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s4_3",
+      "bone": "Page 1",
+      "attachment": "s4_3",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s4_2",
+      "bone": "Page 1",
+      "attachment": "s4_2",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s4_1",
+      "bone": "Page 1",
+      "attachment": "s4_1",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s4_0",
+      "bone": "Page 1",
+      "attachment": "s4_0",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Symbol-5",
+      "bone": "Page 1",
+      "attachment": "Symbol-5",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s5_0",
+      "bone": "Page 1",
+      "attachment": "s5_0",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s5_1",
+      "bone": "Page 1",
+      "attachment": "s5_1",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s5_2",
+      "bone": "Page 1",
+      "attachment": "s5_2",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s5_3",
+      "bone": "Page 1",
+      "attachment": "s5_3",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Symbol-6",
+      "bone": "Page 1",
+      "attachment": "Symbol-6",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s6_0",
+      "bone": "Page 1",
+      "attachment": "s6_0",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s6_1",
+      "bone": "Page 1",
+      "attachment": "s6_1",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s6_2",
+      "bone": "Page 1",
+      "attachment": "s6_2",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s6_3",
+      "bone": "Page 1",
+      "attachment": "s6_3",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Symbol-7",
+      "bone": "Page 1",
+      "attachment": "Symbol-7",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s7_0",
+      "bone": "Page 1",
+      "attachment": "s7_0",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s7_1",
+      "bone": "Page 1",
+      "attachment": "s7_1",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s7_2",
+      "bone": "Page 1",
+      "attachment": "s7_2",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s7_3",
+      "bone": "Page 1",
+      "attachment": "s7_3",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Symbol-8",
+      "bone": "Page 1",
+      "attachment": "Symbol-8",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s8_0",
+      "bone": "Page 1",
+      "attachment": "s8_0",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s8_1",
+      "bone": "Page 1",
+      "attachment": "s8_1",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s8_2",
+      "bone": "Page 1",
+      "attachment": "s8_2",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s8_3",
+      "bone": "Page 1",
+      "attachment": "s8_3",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Symbol-9",
+      "bone": "Page 1",
+      "attachment": "Symbol-9",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s9_3",
+      "bone": "Page 1",
+      "attachment": "s9_3",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s9_2",
+      "bone": "Page 1",
+      "attachment": "s9_2",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s9_1",
+      "bone": "Page 1",
+      "attachment": "s9_1",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s9_0",
+      "bone": "Page 1",
+      "attachment": "s9_0",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Symbol-10",
+      "bone": "Page 1",
+      "attachment": "Symbol-10",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s10_4",
+      "bone": "Page 1",
+      "attachment": "s10_4",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s10_3",
+      "bone": "Page 1",
+      "attachment": "s10_3",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s10_2",
+      "bone": "Page 1",
+      "attachment": "s10_2",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s10_1",
+      "bone": "Page 1",
+      "attachment": "s10_1",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "s10_0",
+      "bone": "Page 1",
+      "attachment": "s10_0",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "PTBonusDescription",
+      "bone": "Page 1",
+      "attachment": "PTBonusDescription",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Symbol-11",
+      "bone": "Page 1",
+      "attachment": "Symbol-11",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "PTWildDescription",
+      "bone": "Page 1",
+      "attachment": "PTWildDescription",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Symbol-12",
+      "bone": "Page 1",
+      "attachment": "Symbol-12",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "paytableTitlePayouts",
+      "bone": "Page 1",
+      "attachment": "paytableTitlePayouts",
+      "components": [],
+      "visibleAtInit": true
+    }
+  ],
+  "skins": {
+    "default": {
+      "GameVersion": {
+        "GameVersion": {
+          "x": 1300,
+          "y": 1091,
+          "width": 913,
+          "height": 172,
+          "rotation": 0,
+          "scaleX": 0.9900000000000091,
+          "scaleY": 0.9899999999997817,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            843.5,
+            1005
+          ],
+          "offsetMax": [
+            1756.5,
+            1177
+          ],
+          "visibleSelf": true,
+          "name": "GameVersion",
+          "type": "textField",
+          "properties": {
+            "content": "Game Version:S.7.V.2.0.3\n          Game Server:2.5.0.2\nGMAPI:B.1.0.GS:2.5.1 FR:v4",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "999999"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "right",
+            "vAlign": "top",
+            "wordWrapWidth": 913,
+            "lineHeight": 51,
+            "padding": 30,
+            "trim": false
+          }
+        }
+      },
+      "textDisclaimer": {
+        "textDisclaimer": {
+          "x": 876,
+          "y": 938,
+          "width": 1624,
+          "height": 57,
+          "rotation": 0,
+          "scaleX": 0.9899999999999949,
+          "scaleY": 0.9899999999997817,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            64,
+            909.5
+          ],
+          "offsetMax": [
+            1688,
+            966.5
+          ],
+          "visibleSelf": true,
+          "name": "textDisclaimer",
+          "type": "textField",
+          "properties": {
+            "content": "Payment and game activity will be void in the event of a malfunction",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "top",
+            "wordWrapWidth": 1624,
+            "lineHeight": 51,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "paytableDisplayRulesDescription": {
+        "paytableDisplayRulesDescription": {
+          "x": 741,
+          "y": 782,
+          "width": 1260,
+          "height": 217,
+          "rotation": 0,
+          "scaleX": 0.9900000000000091,
+          "scaleY": 0.9899999999997817,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            111,
+            673.5
+          ],
+          "offsetMax": [
+            1371,
+            890.5
+          ],
+          "visibleSelf": true,
+          "name": "paytableDisplayRulesDescription",
+          "type": "textField",
+          "properties": {
+            "content": "CREDIT indicates the amount of credit available\naccording to the COIN VALUE you choose.\nBALANCE indicates the amount of real money available.\nBET indicates the amount that you will bet on the next spin.\nWIN indicates the amount won in the previous game\nand is already multiplied by the selected coin value.",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "top",
+            "wordWrapWidth": 1260,
+            "lineHeight": 30,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "paytableDisplayRulesTitle": {
+        "paytableDisplayRulesTitle": {
+          "x": 741,
+          "y": 617,
+          "width": 1260,
+          "height": 55,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            111,
+            589.5
+          ],
+          "offsetMax": [
+            1371,
+            644.5
+          ],
+          "visibleSelf": true,
+          "name": "paytableDisplayRulesTitle",
+          "type": "textField",
+          "properties": {
+            "content": "DISPLAY",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "45",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "top",
+            "wordWrapWidth": 1260,
+            "lineHeight": 19,
+            "padding": 45,
+            "trim": false
+          }
+        }
+      },
+      "RulesButton_noExport": {
+        "RulesButton_noExport": {
+          "x": 221,
+          "y": 541,
+          "width": 219,
+          "height": 49,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            111.5,
+            516.5
+          ],
+          "offsetMax": [
+            330.5,
+            565.5
+          ],
+          "visibleSelf": true,
+          "name": "",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "paytableBasicRulesDescription": {
+        "paytableBasicRulesDescription": {
+          "x": 917,
+          "y": 333,
+          "width": 1606,
+          "height": 337,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            114,
+            164.5
+          ],
+          "offsetMax": [
+            1720,
+            501.5
+          ],
+          "visibleSelf": true,
+          "name": "paytableBasicRulesDescription",
+          "type": "textField",
+          "properties": {
+            "content": "1.Select the COIN VALUE that you want to use.\n2.This game is a MEGAWAYS™ slot with up to 117,649 winning ways.\n3.Each spin will cost 20 x selected coin value.\n4.Press on SPIN to start the game.\n5.Use AUTO SPIN to set your own automatic play settings.\n6. Only the highest win per line is awarded.\n\n\n All winnings are paid from left to right except for SCATTERS.\n\n\n\n\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "top",
+            "wordWrapWidth": 1606,
+            "lineHeight": 25,
+            "padding": 50,
+            "trim": true
+          }
+        }
+      },
+      "paytableBasicRulesTitle": {
+        "paytableBasicRulesTitle": {
+          "x": 349.8799999999958,
+          "y": 97,
+          "width": 478,
+          "height": 56,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            110.87999999999579,
+            69
+          ],
+          "offsetMax": [
+            588.8799999999958,
+            125
+          ],
+          "visibleSelf": true,
+          "name": "paytableBasicRulesTitle",
+          "type": "textField",
+          "properties": {
+            "content": "BASIC RULES",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "45",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "top",
+            "wordWrapWidth": 478,
+            "lineHeight": 19,
+            "padding": 45,
+            "trim": false
+          }
+        }
+      },
+      "paytableTitleRules": {
+        "paytableTitleRules": {
+          "x": 803.8799999999958,
+          "y": 31,
+          "width": 351,
+          "height": 62,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            628.3799999999958,
+            0
+          ],
+          "offsetMax": [
+            979.3799999999958,
+            62
+          ],
+          "visibleSelf": true,
+          "name": "paytableTitleRules",
+          "type": "textField",
+          "properties": {
+            "content": "rules",
+            "fontName": "DUNGEONS",
+            "fontSize": "50",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ff8c2a",
+              "ffff48",
+              "ff7616"
+            ],
+            "gradientType": "horizontal",
+            "fillGradientStops": [
+              0.2,
+              0.6,
+              0.2
+            ],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": true,
+            "dropShadowColor": "7e0c0c",
+            "dropShadowAlpha": 5,
+            "dropShadowAngle": 90,
+            "dropShadowBlur": 10,
+            "dropShadowDistance": 10,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 351,
+            "lineHeight": 60,
+            "padding": 50,
+            "trim": false
+          }
+        }
+      },
+      "PT_ways_text_7": {
+        "PT_ways_text_7": {
+          "x": 782,
+          "y": 1799,
+          "width": 1200,
+          "height": 89,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            182,
+            1754.5
+          ],
+          "offsetMax": [
+            1382,
+            1843.5
+          ],
+          "visibleSelf": true,
+          "name": "PT_ways_text_7",
+          "type": "textField",
+          "properties": {
+            "content": "12 (ways) x 50 (payout) = 600 coins",
+            "fontName": "NotoSans-Bold",
+            "fontSize": "50",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "f9f1a4"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "miter",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": false,
+            "breakWords": false,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 1200,
+            "lineHeight": 60,
+            "padding": 0,
+            "trim": false
+          }
+        }
+      },
+      "PT_ways_text_6": {
+        "PT_ways_text_6": {
+          "x": 782,
+          "y": 1709,
+          "width": 1200,
+          "height": 40,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            182,
+            1689
+          ],
+          "offsetMax": [
+            1382,
+            1729
+          ],
+          "visibleSelf": true,
+          "name": "PT_ways_text_6",
+          "type": "textField",
+          "properties": {
+            "content": "TOTAL WINNINGS IN THIS EXAMPLE:",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "miter",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": false,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 1200,
+            "lineHeight": 40,
+            "padding": 0,
+            "trim": false
+          }
+        }
+      },
+      "PT Symbol Payout": {
+        "PT Symbol Payout": {
+          "x": 797,
+          "y": 1524,
+          "width": 454,
+          "height": 233,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            570,
+            1407.5
+          ],
+          "offsetMax": [
+            1024,
+            1640.5
+          ],
+          "visibleSelf": true,
+          "name": "PT-Symbol-Payout",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "PT_ways_text_5": {
+        "PT_ways_text_5": {
+          "x": 782,
+          "y": 1328,
+          "width": 1200,
+          "height": 120,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            182,
+            1268
+          ],
+          "offsetMax": [
+            1382,
+            1388
+          ],
+          "visibleSelf": true,
+          "name": "PT_ways_text_5",
+          "type": "textField",
+          "properties": {
+            "content": "THE WINNING SYMBOL PAYOUT IS MULTIPLIED BY THE NUMBER OF WINNING WAYS TO GIVE THE TOTAL WIN:\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "miter",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": false,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 1200,
+            "lineHeight": 40,
+            "padding": 0,
+            "trim": false
+          }
+        }
+      },
+      "PT_ways_text_4": {
+        "PT_ways_text_4": {
+          "x": 782,
+          "y": 1169,
+          "width": 843,
+          "height": 109,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            360.5,
+            1114.5
+          ],
+          "offsetMax": [
+            1203.5,
+            1223.5
+          ],
+          "visibleSelf": true,
+          "name": "PT_ways_text_4",
+          "type": "textField",
+          "properties": {
+            "content": "2 x 3 x 1 x 2 = 12",
+            "fontName": "NotoSans-Bold",
+            "fontSize": "80",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "f9f1a4"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "miter",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": false,
+            "breakWords": false,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 843,
+            "lineHeight": 80,
+            "padding": 0,
+            "trim": false
+          }
+        }
+      },
+      "PT_ways_text_3": {
+        "PT_ways_text_3": {
+          "x": 782,
+          "y": 1034,
+          "width": 1600,
+          "height": 150,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            -18,
+            959
+          ],
+          "offsetMax": [
+            1582,
+            1109
+          ],
+          "visibleSelf": true,
+          "name": "PT_ways_text_3",
+          "type": "textField",
+          "properties": {
+            "content": "MULTIPLY THE NUMBER OF ADJACENT WINNING SYMBOLS ON EACH OF THE REELS TO GIVE THE TOTAL NUMBER OF WINNING WAYS … IN THE ABOVE EXAMPLE YOU HAVE 12:",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": false,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 1600,
+            "lineHeight": 40,
+            "padding": 30,
+            "trim": false
+          }
+        }
+      },
+      "SettingsSeparator4": {
+        "SettingsSeparator4": {
+          "x": 787,
+          "y": 2083,
+          "width": 1536,
+          "height": 3,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            19,
+            2081.5
+          ],
+          "offsetMax": [
+            1555,
+            2084.5
+          ],
+          "visibleSelf": true,
+          "name": "SettingsSeparator3",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "Megaways_Description3": {
+        "Megaways_Description3": {
+          "x": 782,
+          "y": 2030,
+          "width": 798,
+          "height": 60,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            383,
+            2000
+          ],
+          "offsetMax": [
+            1181,
+            2060
+          ],
+          "visibleSelf": true,
+          "name": "Megaways_Description3",
+          "type": "textField",
+          "properties": {
+            "content": "Megaways under license from BTG\n\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "top",
+            "wordWrapWidth": 798,
+            "lineHeight": 50,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "PT_ways_text_8": {
+        "PT_ways_text_8": {
+          "x": 782,
+          "y": 1920,
+          "width": 1298,
+          "height": 100,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            133,
+            1870
+          ],
+          "offsetMax": [
+            1431,
+            1970
+          ],
+          "visibleSelf": true,
+          "name": "PT_ways_text_8",
+          "type": "textField",
+          "properties": {
+            "content": "Combinaisons dont les gains peuvent être générés à partir de plusieurs symboles à chaque tour & cascade.\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "top",
+            "wordWrapWidth": 1298,
+            "lineHeight": 50,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "Megaways_Description2": {
+        "Megaways_Description2": {
+          "x": 413,
+          "y": 799,
+          "width": 649,
+          "height": 279,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            88.5,
+            659.5
+          ],
+          "offsetMax": [
+            737.5,
+            938.5
+          ],
+          "visibleSelf": true,
+          "name": "Megaways_Description2",
+          "type": "textField",
+          "properties": {
+            "content": "Wins are awarded on left to right adjacent symbols regardless of size. Payouts are multiplied by stake.\n\n\n\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 649,
+            "lineHeight": 50,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "Megaways_Description1": {
+        "Megaways_Description1": {
+          "x": 414,
+          "y": 330,
+          "width": 651,
+          "height": 342,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            88.5,
+            159
+          ],
+          "offsetMax": [
+            739.5,
+            501
+          ],
+          "visibleSelf": true,
+          "name": "Megaways_Description1",
+          "type": "textField",
+          "properties": {
+            "content": "Each spin can have up to 117,649 ways to win!",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 651,
+            "lineHeight": 50,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "Feature-7-Image": {
+        "Feature-7-Image": {
+          "x": 1423,
+          "y": 798,
+          "width": 213,
+          "height": 139,
+          "rotation": 0,
+          "scaleX": 2,
+          "scaleY": 2,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1316.5,
+            728.5
+          ],
+          "offsetMax": [
+            1529.5,
+            867.5
+          ],
+          "visibleSelf": true,
+          "name": "Megaways3",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "Feature-6-Image": {
+        "Feature-6-Image": {
+          "x": 955,
+          "y": 798,
+          "width": 208,
+          "height": 139,
+          "rotation": 0,
+          "scaleX": 2,
+          "scaleY": 2,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            851,
+            728.5
+          ],
+          "offsetMax": [
+            1059,
+            867.5
+          ],
+          "visibleSelf": true,
+          "name": "Megaways2",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "Feature-5-Image": {
+        "Feature-5-Image": {
+          "x": 1151,
+          "y": 331,
+          "width": 400,
+          "height": 276,
+          "rotation": 0,
+          "scaleX": 1.25,
+          "scaleY": 1.25,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            951,
+            193
+          ],
+          "offsetMax": [
+            1351,
+            469
+          ],
+          "visibleSelf": true,
+          "name": "Megaways1",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "PTMegawaysTitle": {
+        "PTMegawaysTitle": {
+          "x": 776,
+          "y": 28,
+          "width": 393,
+          "height": 56,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            579.5,
+            0
+          ],
+          "offsetMax": [
+            972.5,
+            56
+          ],
+          "visibleSelf": true,
+          "name": "Megaways_Logo",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "SettingsSeparator3": {
+        "SettingsSeparator3": {
+          "x": 802,
+          "y": 1171,
+          "width": 1536,
+          "height": 3,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            34,
+            1169.5
+          ],
+          "offsetMax": [
+            1570,
+            1172.5
+          ],
+          "visibleSelf": true,
+          "name": "SettingsSeparator2",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "AztecGoldCashRespins_description1": {
+        "AztecGoldCashRespins_description1": {
+          "x": 802,
+          "y": 978,
+          "width": 1604,
+          "height": 352,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            0,
+            802
+          ],
+          "offsetMax": [
+            1604,
+            1154
+          ],
+          "visibleSelf": true,
+          "name": "AztecGoldCashRespins_description1",
+          "type": "textField",
+          "properties": {
+            "content": "Get 5 Gold Scatters to trigger the Aztec Gold Cash Respins feature.\nStart with 3 Cash Respins and if another Scatter lands in view the number of respins will reset to 3.Watch out for the Mini, Major and Mega Scatters for even bigger wins.Fill an entire reel to activate the multiplier for all Scatters on that reel.\nWhen the Cash Respins end all Scatter values in view will be paid.",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "top",
+            "wordWrapWidth": 1604,
+            "lineHeight": 50,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "Feature-4-Image": {
+        "Feature-4-Image": {
+          "x": 802,
+          "y": 470,
+          "width": 756,
+          "height": 476,
+          "rotation": 0,
+          "scaleX": 1.2,
+          "scaleY": 1.2000000000000455,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            424,
+            232
+          ],
+          "offsetMax": [
+            1180,
+            708
+          ],
+          "visibleSelf": true,
+          "name": "Feature_1",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "Feature-3-Image": {
+        "Feature-3-Image": {
+          "x": 802,
+          "y": 429,
+          "width": 1048,
+          "height": 731,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            278,
+            63.5
+          ],
+          "offsetMax": [
+            1326,
+            794.5
+          ],
+          "visibleSelf": true,
+          "name": "Aztec-Features-Frame",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "PTAztecGoldCashRespinsTitle": {
+        "PTAztecGoldCashRespinsTitle": {
+          "x": 802,
+          "y": 43,
+          "width": 890,
+          "height": 86,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            357,
+            0
+          ],
+          "offsetMax": [
+            1247,
+            86
+          ],
+          "visibleSelf": true,
+          "name": "PTAztecGoldCashRespinsTitle",
+          "type": "textField",
+          "properties": {
+            "content": "AZTEC GOLD CASH RESPINS\n\n",
+            "fontName": "DUNGEONS",
+            "fontSize": "50",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ff8c2a",
+              "ffff48",
+              "ff7616"
+            ],
+            "gradientType": "horizontal",
+            "fillGradientStops": [
+              0.2,
+              0.6,
+              0.2
+            ],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": true,
+            "dropShadowColor": "7e0c0c",
+            "dropShadowAlpha": 5,
+            "dropShadowAngle": 90,
+            "dropShadowBlur": 10,
+            "dropShadowDistance": 10,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 890,
+            "lineHeight": 49,
+            "padding": 50,
+            "trim": true
+          }
+        }
+      },
+      "SettingsSeparator2": {
+        "SettingsSeparator2": {
+          "x": 900,
+          "y": 974,
+          "width": 1536,
+          "height": 3,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            132,
+            972.5
+          ],
+          "offsetMax": [
+            1668,
+            975.5
+          ],
+          "visibleSelf": true,
+          "name": "SettingsSeparator2",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "CascadingWins_Description1": {
+        "CascadingWins_Description1": {
+          "x": 900,
+          "y": 865,
+          "width": 1800,
+          "height": 110,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            0,
+            810
+          ],
+          "offsetMax": [
+            1800,
+            920
+          ],
+          "visibleSelf": true,
+          "name": "CascadingWins_Description1",
+          "type": "textField",
+          "properties": {
+            "content": "Every winning symbol is part of a reaction and is replaced by cascading symbols from above the reels.",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 1800,
+            "lineHeight": 50,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "Feature-2-Image": {
+        "Feature-2-Image": {
+          "x": 900,
+          "y": 465,
+          "width": 877,
+          "height": 579,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            461.5,
+            175.5
+          ],
+          "offsetMax": [
+            1338.5,
+            754.5
+          ],
+          "visibleSelf": true,
+          "name": "Feature3wide",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "Feature-1-Image": {
+        "Feature-1-Image": {
+          "x": 900,
+          "y": 450,
+          "width": 1048,
+          "height": 731,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            376,
+            84.5
+          ],
+          "offsetMax": [
+            1424,
+            815.5
+          ],
+          "visibleSelf": true,
+          "name": "Aztec-Features-Frame",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "PTCascadingWinsTitle": {
+        "PTCascadingWinsTitle": {
+          "x": 900,
+          "y": 49.5,
+          "width": 808,
+          "height": 99,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            496,
+            0
+          ],
+          "offsetMax": [
+            1304,
+            99
+          ],
+          "visibleSelf": true,
+          "name": "PTCascadingWinsTitle",
+          "type": "textField",
+          "properties": {
+            "content": "Cascading Wins\n",
+            "fontName": "DUNGEONS",
+            "fontSize": "50",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ff8c2a",
+              "ffff48",
+              "ff7616"
+            ],
+            "gradientType": "horizontal",
+            "fillGradientStops": [
+              0.2,
+              0.6,
+              0.2
+            ],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": true,
+            "dropShadowColor": "7e0c0c",
+            "dropShadowAlpha": 5,
+            "dropShadowAngle": 90,
+            "dropShadowBlur": 10,
+            "dropShadowDistance": 10,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 808,
+            "lineHeight": 49,
+            "padding": 50,
+            "trim": true
+          }
+        }
+      },
+      "SettingsSeparator1": {
+        "SettingsSeparator1": {
+          "x": 1585.5,
+          "y": 1620,
+          "width": 1537,
+          "height": 3,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            817,
+            1618.5
+          ],
+          "offsetMax": [
+            2354,
+            1621.5
+          ],
+          "visibleSelf": true,
+          "name": "SettingsSeparator1",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "paytablePayoutsCoinValue": {
+        "paytablePayoutsCoinValue": {
+          "x": 1585.5,
+          "y": 1524,
+          "width": 1635,
+          "height": 110,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            768,
+            1469
+          ],
+          "offsetMax": [
+            2403,
+            1579
+          ],
+          "visibleSelf": true,
+          "name": "paytablePayoutsCoinValue",
+          "type": "textField",
+          "properties": {
+            "content": "Payouts shown are in coins.\nAll payouts will be multiplied by the selected coin value.",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 1635,
+            "lineHeight": 33,
+            "padding": 30,
+            "trim": false
+          }
+        }
+      },
+      "Symbol-1": {
+        "Symbol-1": {
+          "x": 2644,
+          "y": 1159,
+          "width": 326,
+          "height": 326,
+          "rotation": 0,
+          "scaleX": 0.7000000000000455,
+          "scaleY": 0.6999999999998181,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2481,
+            996
+          ],
+          "offsetMax": [
+            2807,
+            1322
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-1",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "s1_0": {
+        "s1_0": {
+          "x": 2676,
+          "y": 1426,
+          "width": 141,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2605.5,
+            1409.5
+          ],
+          "offsetMax": [
+            2746.5,
+            1442.5
+          ],
+          "visibleSelf": true,
+          "name": "s1_0",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 141,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s1_1": {
+        "s1_1": {
+          "x": 2676,
+          "y": 1386,
+          "width": 141,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2605.5,
+            1369.5
+          ],
+          "offsetMax": [
+            2746.5,
+            1402.5
+          ],
+          "visibleSelf": true,
+          "name": "s1_1",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 141,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s1_2": {
+        "s1_2": {
+          "x": 2676,
+          "y": 1346,
+          "width": 142,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2605,
+            1329.5
+          ],
+          "offsetMax": [
+            2747,
+            1362.5
+          ],
+          "visibleSelf": true,
+          "name": "s1_2",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 142,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s1_3": {
+        "s1_3": {
+          "x": 2676,
+          "y": 1306,
+          "width": 141,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2605.5,
+            1289.5
+          ],
+          "offsetMax": [
+            2746.5,
+            1322.5
+          ],
+          "visibleSelf": true,
+          "name": "s1_3",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 141,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "Symbol-2": {
+        "Symbol-2": {
+          "x": 2221,
+          "y": 1159,
+          "width": 326,
+          "height": 326,
+          "rotation": 0,
+          "scaleX": 0.7000000000000455,
+          "scaleY": 0.6999999999998181,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2058,
+            996
+          ],
+          "offsetMax": [
+            2384,
+            1322
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-2",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "s2_0": {
+        "s2_0": {
+          "x": 2265,
+          "y": 1426,
+          "width": 169,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2180.5,
+            1409.5
+          ],
+          "offsetMax": [
+            2349.5,
+            1442.5
+          ],
+          "visibleSelf": true,
+          "name": "s2_0",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 169,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s2_1": {
+        "s2_1": {
+          "x": 2265,
+          "y": 1386,
+          "width": 169,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2180.5,
+            1369.5
+          ],
+          "offsetMax": [
+            2349.5,
+            1402.5
+          ],
+          "visibleSelf": true,
+          "name": "s2_1",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 169,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s2_2": {
+        "s2_2": {
+          "x": 2265,
+          "y": 1346,
+          "width": 169,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2180.5,
+            1329.5
+          ],
+          "offsetMax": [
+            2349.5,
+            1362.5
+          ],
+          "visibleSelf": true,
+          "name": "s2_2",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 169,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s2_3": {
+        "s2_3": {
+          "x": 2265,
+          "y": 1306,
+          "width": 169,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2180.5,
+            1289.5
+          ],
+          "offsetMax": [
+            2349.5,
+            1322.5
+          ],
+          "visibleSelf": true,
+          "name": "s2_3",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 169,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "Symbol-3": {
+        "Symbol-3": {
+          "x": 1797,
+          "y": 1159,
+          "width": 326,
+          "height": 326,
+          "rotation": 0,
+          "scaleX": 0.6999999999999886,
+          "scaleY": 0.6999999999998181,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1634,
+            996
+          ],
+          "offsetMax": [
+            1960,
+            1322
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-3",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "s3_0": {
+        "s3_0": {
+          "x": 1844,
+          "y": 1426,
+          "width": 169,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1759.5,
+            1409.5
+          ],
+          "offsetMax": [
+            1928.5,
+            1442.5
+          ],
+          "visibleSelf": true,
+          "name": "s3_0",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 169,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s3_1": {
+        "s3_1": {
+          "x": 1844,
+          "y": 1386,
+          "width": 169,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1759.5,
+            1369.5
+          ],
+          "offsetMax": [
+            1928.5,
+            1402.5
+          ],
+          "visibleSelf": true,
+          "name": "s3_1",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 169,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s3_2": {
+        "s3_2": {
+          "x": 1844,
+          "y": 1346,
+          "width": 169,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1759.5,
+            1329.5
+          ],
+          "offsetMax": [
+            1928.5,
+            1362.5
+          ],
+          "visibleSelf": true,
+          "name": "s3_2",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 169,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s3_3": {
+        "s3_3": {
+          "x": 1844,
+          "y": 1306,
+          "width": 169,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1759.5,
+            1289.5
+          ],
+          "offsetMax": [
+            1928.5,
+            1322.5
+          ],
+          "visibleSelf": true,
+          "name": "s3_3",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 169,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "Symbol-4": {
+        "Symbol-4": {
+          "x": 1374,
+          "y": 1159,
+          "width": 326,
+          "height": 326,
+          "rotation": 0,
+          "scaleX": 0.6999999999999886,
+          "scaleY": 0.6999999999998181,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1211,
+            996
+          ],
+          "offsetMax": [
+            1537,
+            1322
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-4",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "s4_3": {
+        "s4_3": {
+          "x": 1426,
+          "y": 1306,
+          "width": 169,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1341.5,
+            1289.5
+          ],
+          "offsetMax": [
+            1510.5,
+            1322.5
+          ],
+          "visibleSelf": true,
+          "name": "s4_3",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 169,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s4_2": {
+        "s4_2": {
+          "x": 1426,
+          "y": 1346,
+          "width": 169,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1341.5,
+            1329.5
+          ],
+          "offsetMax": [
+            1510.5,
+            1362.5
+          ],
+          "visibleSelf": true,
+          "name": "s4_2",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 169,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s4_1": {
+        "s4_1": {
+          "x": 1426,
+          "y": 1386,
+          "width": 169,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1341.5,
+            1369.5
+          ],
+          "offsetMax": [
+            1510.5,
+            1402.5
+          ],
+          "visibleSelf": true,
+          "name": "s4_1",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 169,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s4_0": {
+        "s4_0": {
+          "x": 1426,
+          "y": 1426,
+          "width": 169,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1341.5,
+            1409.5
+          ],
+          "offsetMax": [
+            1510.5,
+            1442.5
+          ],
+          "visibleSelf": true,
+          "name": "s4_0",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 169,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "Symbol-5": {
+        "Symbol-5": {
+          "x": 950,
+          "y": 1159,
+          "width": 326,
+          "height": 326,
+          "rotation": 0,
+          "scaleX": 0.7000000000000455,
+          "scaleY": 0.6999999999998181,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            787,
+            996
+          ],
+          "offsetMax": [
+            1113,
+            1322
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-5",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "s5_0": {
+        "s5_0": {
+          "x": 993,
+          "y": 1426,
+          "width": 169,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            908.5,
+            1409.5
+          ],
+          "offsetMax": [
+            1077.5,
+            1442.5
+          ],
+          "visibleSelf": true,
+          "name": "s5_0",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 169,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s5_1": {
+        "s5_1": {
+          "x": 993,
+          "y": 1386,
+          "width": 169,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            908.5,
+            1369.5
+          ],
+          "offsetMax": [
+            1077.5,
+            1402.5
+          ],
+          "visibleSelf": true,
+          "name": "s5_1",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 169,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s5_2": {
+        "s5_2": {
+          "x": 993,
+          "y": 1346,
+          "width": 169,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            908.5,
+            1329.5
+          ],
+          "offsetMax": [
+            1077.5,
+            1362.5
+          ],
+          "visibleSelf": true,
+          "name": "s5_2",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 169,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s5_3": {
+        "s5_3": {
+          "x": 993,
+          "y": 1306,
+          "width": 169,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            908.5,
+            1289.5
+          ],
+          "offsetMax": [
+            1077.5,
+            1322.5
+          ],
+          "visibleSelf": true,
+          "name": "s5_3",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 169,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "Symbol-6": {
+        "Symbol-6": {
+          "x": 527,
+          "y": 1159,
+          "width": 326,
+          "height": 326,
+          "rotation": 0,
+          "scaleX": 0.7000000000000455,
+          "scaleY": 0.6999999999998181,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            364,
+            996
+          ],
+          "offsetMax": [
+            690,
+            1322
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-6",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "s6_0": {
+        "s6_0": {
+          "x": 569,
+          "y": 1426,
+          "width": 169,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            484.5,
+            1409.5
+          ],
+          "offsetMax": [
+            653.5,
+            1442.5
+          ],
+          "visibleSelf": true,
+          "name": "s6_0",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 169,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s6_1": {
+        "s6_1": {
+          "x": 569,
+          "y": 1386,
+          "width": 169,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            484.5,
+            1369.5
+          ],
+          "offsetMax": [
+            653.5,
+            1402.5
+          ],
+          "visibleSelf": true,
+          "name": "s6_1",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 169,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s6_2": {
+        "s6_2": {
+          "x": 569,
+          "y": 1346,
+          "width": 169,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            484.5,
+            1329.5
+          ],
+          "offsetMax": [
+            653.5,
+            1362.5
+          ],
+          "visibleSelf": true,
+          "name": "s6_2",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 169,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s6_3": {
+        "s6_3": {
+          "x": 569,
+          "y": 1306,
+          "width": 169,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            484.5,
+            1289.5
+          ],
+          "offsetMax": [
+            653.5,
+            1322.5
+          ],
+          "visibleSelf": true,
+          "name": "s6_3",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 169,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "Symbol-7": {
+        "Symbol-7": {
+          "x": 2278,
+          "y": 803,
+          "width": 326,
+          "height": 326,
+          "rotation": 0,
+          "scaleX": 0.8999999999999773,
+          "scaleY": 0.9000000000005457,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2115,
+            640
+          ],
+          "offsetMax": [
+            2441,
+            966
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-7",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "s7_0": {
+        "s7_0": {
+          "x": 2520,
+          "y": 871,
+          "width": 150,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2445,
+            854.5
+          ],
+          "offsetMax": [
+            2595,
+            887.5
+          ],
+          "visibleSelf": true,
+          "name": "s7_0",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 150,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s7_1": {
+        "s7_1": {
+          "x": 2520,
+          "y": 831,
+          "width": 150,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2445,
+            814.5
+          ],
+          "offsetMax": [
+            2595,
+            847.5
+          ],
+          "visibleSelf": true,
+          "name": "s7_1",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 150,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s7_2": {
+        "s7_2": {
+          "x": 2520,
+          "y": 791,
+          "width": 150,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2445,
+            774.5
+          ],
+          "offsetMax": [
+            2595,
+            807.5
+          ],
+          "visibleSelf": true,
+          "name": "s7_2",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 150,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s7_3": {
+        "s7_3": {
+          "x": 2520,
+          "y": 751,
+          "width": 150,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2445,
+            734.5
+          ],
+          "offsetMax": [
+            2595,
+            767.5
+          ],
+          "visibleSelf": true,
+          "name": "s7_3",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 150,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "Symbol-8": {
+        "Symbol-8": {
+          "x": 1816,
+          "y": 803,
+          "width": 326,
+          "height": 326,
+          "rotation": 0,
+          "scaleX": 0.9000000000000057,
+          "scaleY": 0.9000000000005457,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1653,
+            640
+          ],
+          "offsetMax": [
+            1979,
+            966
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-8",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "s8_0": {
+        "s8_0": {
+          "x": 2060,
+          "y": 871,
+          "width": 150,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1985,
+            854.5
+          ],
+          "offsetMax": [
+            2135,
+            887.5
+          ],
+          "visibleSelf": true,
+          "name": "s8_0",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 150,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s8_1": {
+        "s8_1": {
+          "x": 2060,
+          "y": 831,
+          "width": 150,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1985,
+            814.5
+          ],
+          "offsetMax": [
+            2135,
+            847.5
+          ],
+          "visibleSelf": true,
+          "name": "s8_1",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 150,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s8_2": {
+        "s8_2": {
+          "x": 2060,
+          "y": 791,
+          "width": 150,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1985,
+            774.5
+          ],
+          "offsetMax": [
+            2135,
+            807.5
+          ],
+          "visibleSelf": true,
+          "name": "s8_2",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 150,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s8_3": {
+        "s8_3": {
+          "x": 2060,
+          "y": 751,
+          "width": 150,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1985,
+            734.5
+          ],
+          "offsetMax": [
+            2135,
+            767.5
+          ],
+          "visibleSelf": true,
+          "name": "s8_3",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 150,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "Symbol-9": {
+        "Symbol-9": {
+          "x": 1354,
+          "y": 803,
+          "width": 326,
+          "height": 326,
+          "rotation": 0,
+          "scaleX": 0.8999999999999773,
+          "scaleY": 0.9000000000005457,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1191,
+            640
+          ],
+          "offsetMax": [
+            1517,
+            966
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-9",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "s9_3": {
+        "s9_3": {
+          "x": 1595,
+          "y": 752,
+          "width": 150,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1520,
+            735.5
+          ],
+          "offsetMax": [
+            1670,
+            768.5
+          ],
+          "visibleSelf": true,
+          "name": "s9_3",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 150,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s9_2": {
+        "s9_2": {
+          "x": 1595,
+          "y": 792,
+          "width": 150,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1520,
+            775.5
+          ],
+          "offsetMax": [
+            1670,
+            808.5
+          ],
+          "visibleSelf": true,
+          "name": "s9_2",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 150,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s9_1": {
+        "s9_1": {
+          "x": 1595,
+          "y": 832,
+          "width": 150,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1520,
+            815.5
+          ],
+          "offsetMax": [
+            1670,
+            848.5
+          ],
+          "visibleSelf": true,
+          "name": "s9_1",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 150,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s9_0": {
+        "s9_0": {
+          "x": 1595,
+          "y": 872,
+          "width": 150,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1520,
+            855.5
+          ],
+          "offsetMax": [
+            1670,
+            888.5
+          ],
+          "visibleSelf": true,
+          "name": "s9_0",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 150,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "Symbol-10": {
+        "Symbol-10": {
+          "x": 892,
+          "y": 803,
+          "width": 326,
+          "height": 326,
+          "rotation": 0,
+          "scaleX": 0.8999999999999773,
+          "scaleY": 0.8999999999996362,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            729,
+            640
+          ],
+          "offsetMax": [
+            1055,
+            966
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-10",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "s10_4": {
+        "s10_4": {
+          "x": 1134,
+          "y": 730,
+          "width": 150,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1059,
+            713.5
+          ],
+          "offsetMax": [
+            1209,
+            746.5
+          ],
+          "visibleSelf": true,
+          "name": "s10_4",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 150,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s10_3": {
+        "s10_3": {
+          "x": 1134,
+          "y": 770,
+          "width": 150,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1059,
+            753.5
+          ],
+          "offsetMax": [
+            1209,
+            786.5
+          ],
+          "visibleSelf": true,
+          "name": "s10_3",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 150,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s10_2": {
+        "s10_2": {
+          "x": 1134,
+          "y": 810,
+          "width": 150,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1059,
+            793.5
+          ],
+          "offsetMax": [
+            1209,
+            826.5
+          ],
+          "visibleSelf": true,
+          "name": "s10_2",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 150,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s10_1": {
+        "s10_1": {
+          "x": 1134,
+          "y": 850,
+          "width": 150,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1059,
+            833.5
+          ],
+          "offsetMax": [
+            1209,
+            866.5
+          ],
+          "visibleSelf": true,
+          "name": "s10_1",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 150,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "s10_0": {
+        "s10_0": {
+          "x": 1134,
+          "y": 890,
+          "width": 150,
+          "height": 33,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1059,
+            873.5
+          ],
+          "offsetMax": [
+            1209,
+            906.5
+          ],
+          "visibleSelf": true,
+          "name": "s10_0",
+          "type": "textField",
+          "properties": {
+            "content": "5 - 0.5\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "left",
+            "vAlign": "center",
+            "wordWrapWidth": 150,
+            "lineHeight": 36,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "PTBonusDescription": {
+        "PTBonusDescription": {
+          "x": 1866,
+          "y": 576,
+          "width": 517,
+          "height": 132,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1607.5,
+            510
+          ],
+          "offsetMax": [
+            2124.5,
+            642
+          ],
+          "visibleSelf": true,
+          "name": "PTBonusDescription",
+          "type": "textField",
+          "properties": {
+            "content": "Wild substitutes for all symbols except Scatter",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 517,
+            "lineHeight": 25,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "Symbol-11": {
+        "Symbol-11": {
+          "x": 1866,
+          "y": 320,
+          "width": 326,
+          "height": 326,
+          "rotation": 0,
+          "scaleX": 1.1000000000000227,
+          "scaleY": 1.1000000000003638,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1703,
+            157
+          ],
+          "offsetMax": [
+            2029,
+            483
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-11",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "PTWildDescription": {
+        "PTWildDescription": {
+          "x": 1306,
+          "y": 577,
+          "width": 522,
+          "height": 132,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1045,
+            511
+          ],
+          "offsetMax": [
+            1567,
+            643
+          ],
+          "visibleSelf": true,
+          "name": "PTWildDescription",
+          "type": "textField",
+          "properties": {
+            "content": "5 or more Scatters trigger Cash Respins\n\n\n\n\n\n\n",
+            "fontName": "NotoSans-Regular",
+            "fontSize": "30",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 522,
+            "lineHeight": 30,
+            "padding": 30,
+            "trim": true
+          }
+        }
+      },
+      "Symbol-12": {
+        "Symbol-12": {
+          "x": 1306,
+          "y": 320,
+          "width": 320,
+          "height": 320,
+          "rotation": 0,
+          "scaleX": 1.1000000000000227,
+          "scaleY": 1.1000000000003638,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1146,
+            160
+          ],
+          "offsetMax": [
+            1466,
+            480
+          ],
+          "visibleSelf": true,
+          "name": "Symbol-12",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "paytableTitlePayouts": {
+        "paytableTitlePayouts": {
+          "x": 1585.5,
+          "y": 59.5,
+          "width": 482,
+          "height": 88,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1344.5,
+            15.5
+          ],
+          "offsetMax": [
+            1826.5,
+            103.5
+          ],
+          "visibleSelf": true,
+          "name": "paytableTitlePayouts",
+          "type": "textField",
+          "properties": {
+            "content": "PAYOUTS",
+            "fontName": "DUNGEONS",
+            "fontSize": "50",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ff8c2a",
+              "ffff48",
+              "ff7616"
+            ],
+            "gradientType": "horizontal",
+            "fillGradientStops": [
+              0.2,
+              0.6,
+              0.2
+            ],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": true,
+            "dropShadowColor": "7e0c0c",
+            "dropShadowAlpha": 5,
+            "dropShadowAngle": 90,
+            "dropShadowBlur": 10,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 482,
+            "lineHeight": 50,
+            "padding": 50,
+            "trim": true
+          }
+        }
+      }
+    }
+  },
+  "bpm": 100
+}

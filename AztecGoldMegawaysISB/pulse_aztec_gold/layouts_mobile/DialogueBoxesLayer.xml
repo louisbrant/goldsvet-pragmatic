@@ -1,0 +1,97 @@
+<Layout name="dialogue_boxes_pixi">
+    <Main_landscape name="Main_landscape">
+        <Element name="props" depth="-1" layerY="0" layerX="0" type="layerProperties"/>
+        <Element name="defaultDialogueBox" type="container" x="0" y="0" depth="1" visible="false">
+            <Element name="errorIcon" type="image" resource="PreErrorAlertIcon" x="727" y="35" width="130"
+                     height="130" depth="1"/>
+            <Element name="separator" type="image" resource="SettingsSeparator" x="492" y="200" width="600"
+                     height="2" depth="2"/>
+            <Element name="messageDefault" type="textField" x="492" y="220" width="600" height="400" depth="3"
+                     class="dialogBodyLandscape"/>
+            <Element name="defaultButton0" x="10" y="470" depth="3" class="genericbuttonLandscape"/>
+            <Element name="defaultButton1" x="10" y="470" depth="4" class="genericbuttonLandscape"/>
+            <Element name="defaultButton2" x="10" y="470" depth="5" class="genericbuttonLandscape"/>
+        </Element>
+        <Element name="realityCheckClientDialogueBox" type="container" x="0" y="0" depth="2" visible="false">
+            <Element name="realityCheckClientTitle" type="textField" x="492" y="0" width="600" height="140" depth="3"
+                     class="dialogHeaderLandscape"/>
+            <Element name="separator" type="image" resource="SettingsSeparator" x="492" y="140" width="600"
+                     height="2" depth="2"/>
+            <Element name="messageRCClient" type="textField" x="492" y="150" width="600" height="316" depth="3"
+                     class="dialogBodyLandscape"/>
+            <Element name="rcClientStepper" depth="2" type="stepper" minValue="0" maxValue="2000"
+                     middle="89" x="662" y="380" width="260" height="66" fontSize="30" initial="1"/>
+            <Element name="rcClientButton0" x="10" y="470" depth="3" class="genericbuttonLandscape"/>
+            <Element name="rcClientButton1" x="10" y="470" depth="4" class="genericbuttonLandscape"/>
+            <Element name="rcClientButton2" x="10" y="470" depth="5" class="genericbuttonLandscape"/>
+        </Element>
+        <Element name="realityCheckServerDialogueBox" type="container" x="0" y="0" depth="3" visible="false">
+            <Element name="realityCheckServerTitle" type="textField" x="492" y="0" width="600" height="140" depth="3"
+                     class="dialogHeaderLandscape"/>
+            <Element name="separator" type="image" resource="SettingsSeparator" x="492" y="140" width="600"
+                     height="2" depth="2"/>
+            <Element name="messageRCServer" type="textField" x="492" y="150" width="600" height="316" depth="3"
+                     class="dialogBodyLandscape"/>
+            <Element name="rcServerStepper" depth="2" type="stepper" minValue="0" maxValue="2000"
+                     middle="89" x="662" y="380" width="260" height="66" fontSize="30" initial="1"/>
+            <Element name="rcServerButton0" x="10" y="470" depth="3" class="genericbuttonLandscape"/>
+            <Element name="rcServerButton1" x="10" y="470" depth="4" class="genericbuttonLandscape"/>
+            <Element name="rcServerButton2" x="10" y="470" depth="5" class="genericbuttonLandscape"/>
+        </Element>
+    </Main_landscape>
+    <Main_portrait name="Main_portrait">
+        <Element name="props" depth="-1" layerY="0" layerX="0" type="layerProperties"/>
+        <Element name="defaultDialogueBox" type="container" x="0" y="0" depth="1" visible="false">
+            <Element name="errorIcon" type="image" resource="PreErrorAlertIcon" x="707" y="12" width="170"
+                     height="170" depth="1"/>
+            <Element name="separator" type="image" resource="SettingsSeparator" x="492" y="230" width="600"
+                     height="2" depth="2"/>
+            <Element name="messageDefault" type="textField" x="442" y="250" width="700" height="600" depth="3"
+                     class="dialogBodyPortrait"/>
+            <Element name="defaultButton0" x="10" y="570" depth="3" class="genericbuttonPortrait"/>
+            <Element name="defaultButton1" x="10" y="570" depth="4" class="genericbuttonPortrait"/>
+            <Element name="defaultButton2" x="10" y="570" depth="5" class="genericbuttonPortrait"/>
+        </Element>
+        <Element name="realityCheckClientDialogueBox" type="container" x="0" y="0" depth="2" visible="false">
+            <Element name="realityCheckClientTitle" type="textField" x="442" y="0" width="700" height="150" depth="3"
+                     class="dialogHeaderPortrait"/>
+            <Element name="separator" type="image" resource="SettingsSeparator" x="492" y="150" width="600"
+                     height="2" depth="2"/>
+            <Element name="messageRCClient" type="textField" x="442" y="160" width="700" height="576" depth="3"
+                     class="dialogBodyPortrait"/>
+            <Element name="rcClientStepper" depth="2" type="stepper" minValue="0" maxValue="2000"
+                     middle="116" x="617" y="460" width="350" height="86" fontSize="36" initial="1"/>
+            <Element name="rcClientButton0" x="10" y="570" depth="3" class="genericbuttonPortrait"/>
+            <Element name="rcClientButton1" x="10" y="570" depth="4" class="genericbuttonPortrait"/>
+            <Element name="rcClientButton2" x="10" y="570" depth="5" class="genericbuttonPortrait"/>
+        </Element>
+        <Element name="realityCheckServerDialogueBox" type="container" x="0" y="0" depth="3" visible="false">
+            <Element name="realityCheckServerTitle" type="textField" x="442" y="0" width="700" height="150" depth="3"
+                     class="dialogHeaderPortrait"/>
+            <Element name="separator" type="image" resource="SettingsSeparator" x="492" y="150" width="600"
+                     height="2" depth="2"/>
+            <Element name="messageRCServer" type="textField" x="442" y="160" width="700" height="576" depth="3"
+                     class="dialogBodyPortrait"/>
+            <Element name="rcServerStepper" depth="2" type="stepper" minValue="0" maxValue="2000"
+                     middle="116" x="617" y="460" width="350" height="86" fontSize="36" initial="1"/>
+            <Element name="rcServerButton0" x="10" y="570" depth="3" class="genericbuttonPortrait"/>
+            <Element name="rcServerButton1" x="10" y="570" depth="4" class="genericbuttonPortrait"/>
+            <Element name="rcServerButton2" x="10" y="570" depth="5" class="genericbuttonPortrait"/>
+        </Element>
+    </Main_portrait>
+    <Classes>
+        <Class name="dialogHeaderLandscape" labelFontSize="36" align="center" vAlign="center"
+               labelFontColor="0xffffff"/>
+        <Class name="dialogHeaderPortrait" labelFontSize="50" align="center" vAlign="center" labelFontColor="0xffffff"/>
+        <Class name="dialogBodyPortrait" labelFontSize="32" align="center" vAlign="center" labelFontColor="0xffffff"/>
+        <Class name="dialogBodyLandscape" labelFontSize="24" align="center" vAlign="center" labelFontColor="0xffffff"/>
+        <Class name="genericbuttonLandscape" labelX="0" labelY="0" width="260" height="70" alpha="1"
+               labelWidth="240" labelHeight="70" upState="MUIGenericButtonUp" pressedState="MUIGenericButtonDown"
+               overState="MUIGenericButtonOver" disabledState="MUIGenericButtonDIsable" type="button"
+               labelFontSize="30" align="center" vAlign="center" labelFontColor="0x333333"/>
+        <Class name="genericbuttonPortrait" labelX="0" labelY="0" width="350" height="95" alpha="1"
+               labelWidth="330" labelHeight="95" upState="MUIGenericButtonUp" pressedState="MUIGenericButtonDown"
+               overState="MUIGenericButtonOver" disabledState="MUIGenericButtonDIsable" type="button"
+               labelFontSize="36" align="center" vAlign="center" labelFontColor="0x333333"/>
+    </Classes>
+</Layout>

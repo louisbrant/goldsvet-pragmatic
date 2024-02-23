@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Layout name="free_rounds_start_popups_pixi">
+    <Main>
+        <Element name="props" depth="-1" layerY="0" layerX="0" type="layerProperties"/>
+        <Element name="startPopUpHolder" type="image" resource="x@0.5_FR-Popup" x="315" y="0" width="955.2" height="502.4" depth="0"/>
+        <Element name="startPopUpTexts" type="container" x="627.5" y="200" depth="1">
+            <Element name="startPopUpCongratulationText" type="textField" x="-5" y="10" height="70" depth="3" class="dialogTitle"/>
+            <Element name="startPopUpPrizeText" type="textField" x="-35" y="85" depth="3" class="dialogBody"/>
+            <Element name="acceptButton" x="0" y="210" depth="3" labelStyle="buttonLabelStyle" class="genericbutton"/>
+            <Element name="declineButton" x="210" y="210" depth="3" labelStyle="buttonLabelStyle" class="genericbutton"/>
+            <Element name="resumeButton" x="102.5" y="210" depth="3" labelStyle="buttonLabelStyle" class="genericbutton"/>
+            <Element name="resumePendingButton" x="102.5" y="210" depth="3" labelStyle="buttonLabelStyle" class="genericbutton"/>
+            <Element name="tapButton" type="container" depth="4" x="0" y="170">
+                <Element name="tapButtonLabel" type="textField" y="0" height="40" depth="3" class="dialogHeader" labelFontSize="34"/>
+            </Element>
+        </Element>
+    </Main>
+    <Styles>
+        <FontStyle name="buttonLabelStyle" fontLabelY="5" fontSize="18" fontColor="0xFCFB44" fontWeight="bold" align="center" vAlign="center" fontFamily="noto_sanscondensed_bold"/>
+    </Styles>
+    <Classes>
+        <Class name="dialogHeader" labelFontSize="35" x="10" width="270" align="center" vAlign="center" labelFontColor="0xFCFB44" labelFont="noto_sanscondensed_bold"/>
+        <Class name="dialogTitle" labelFontSize="34" x="10" width="350" align="center" vAlign="center" labelFontColor="0xFCFB44" labelFont="noto_sanscondensed_bold"/>
+        <Class name="dialogBody" labelFontSize="22" x="0" width="400" height="100" align="center" vAlign="center" labelFontColor="0xffffff" labelFont="noto_sanscondensed_bold"/>
+        <Class name="genericbutton" labelX="0" labelY="-3" width="127" height="42"
+               labelWidth="100" labelHeight="25" upState="x@0.5_FR-Button-Up" pressedState="x@0.5_FR-Button-Down"
+               overState="x@0.5_FR-Button-Over" disabledState="x@0.5_FR-Button-Down" type="button"
+               labelFontSize="18" align="center" vAlign="center" labelFontColor="0xFDC131"/>
+    </Classes>
+</Layout>

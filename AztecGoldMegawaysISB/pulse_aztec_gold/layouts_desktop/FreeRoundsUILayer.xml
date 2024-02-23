@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Layout name="free_rounds_start_popups_pixi">
+    <Main>
+        <Element name="props" depth="-1" layerX="300" layerY="50" type="layerProperties"/>
+        <Element name="panelHolder" type="container" width="79" height="79" x="0" y="50" depth="1">
+            <Element name="starHolder" type="image" resource="x@0.5_FR-Star" x="20" y="20" width="79" height="79" depth="0"/>
+            <Element name="freeRoundsLeftText" type="textField" x="5" y="3" height="40" depth="3" class="dialogStar"/>
+        </Element>
+        <Element name="panelPopUpHolder" type="container" x="50" y="0" depth="1">
+            <Element name="panelPopUpHolderBackground" type="image" resource="x@0.5_FR-Roll-Over-Panel" x="0" y="0" width="324" height="148" depth="0 "/>
+            <Element name="freeRoundsExpireText" type="textField" x="20" y="10" height="60" depth="3" class="dialogHeader" width="300"/>
+            <Element name="freeRoundsExpireValueText" type="textField" x="70" y="90" height="40" depth="3" class="dialogBody"/>
+        </Element>
+    </Main>
+    <Classes>
+        <Class name="dialogHeader" labelFontSize="18" width="350" align="center" vAlign="center" labelFontColor="0xFCFB44" labelFont="noto_sanscondensed_bold"/>
+        <Class name="dialogBody" labelFontSize="16" width="200" align="center" vAlign="center" labelFontColor="0xffffff" labelFont="noto_sanscondensed_bold"/>
+        <Class name="dialogStar" labelFontSize="16" width="30" align="center" vAlign="center" labelFontColor="0x000000" labelFont="noto_sanscondensed_bold"/>
+        <Class name="genericbutton" labelX="2" labelY="0" width="80" height="22"
+               labelWidth="76" labelHeight="22" upState="genericbuttonup" pressedState="genericbuttondown"
+               overState="genericbuttonover" disabledState="genericbuttondisable" type="buttonSVG"
+               labelFontSize="10" align="center" vAlign="center" labelFontColor="0x333333" labelFont="noto_sanscondensed_bold"/>
+    </Classes>
+</Layout>

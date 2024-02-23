@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Layout name="cashrespins_ui_pixi">
+    <Main_landscape name="Main_landscape">
+        <Element name="props" depth="-1" layerY="0" layerX="392" type="layerProperties"/>
+        <Element name="CashRespinsUILayer" type="container" x="667" y="642" depth="0">
+            <Element name="bg" x="0" y="50" width="250" height="-50" depth="0" type="image"
+                     resource="MUILandscapeFreeSpinsBackground"/>
+            <Element name="fieldsContainer" type="container" x="40" y="0" depth="1">
+                <Element name="totalWinsContainer" type="container" x="0" y="0" depth="1">
+                    <Element name="freeSpinsTotalWinLabel" class="defaultLabelLandscape"/>
+                    <Element name="freeSpinsTotalWinValue" class="defaultValueLandscape"/>
+                </Element>
+            </Element>
+        </Element>
+    </Main_landscape>
+    <Main_portrait name="Main_portrait">
+        <Element name="props" depth="-1" layerY="0" layerX="392" type="layerProperties"/>
+        <Element name="uiContainer" type="container" x="400" y="600" depth="0">
+            <Element name="bg" x="0" y="0" width="800" height="600" depth="0" type="image"
+                     resource="FS-Portrait_background"/>
+            <Element name="fieldsContainer" type="container" x="0" y="200" depth="1">
+                <Element name="totalWinsContainer" type="container" x="117" y="70" depth="1">
+                    <Element name="totalWinsBG" x="0" y="0" width="550" height="145" depth="0" type="image"
+                             resource="MUIPortraitFreeSpinsTotalWin"/>
+                    <Element name="freeSpinsTotalWinLabel" y="25" height="45" depth="0" class="highlightLabelPortrait"/>
+                    <Element name="freeSpinsTotalWinValue" y="70" height="65" depth="0" class="highlightValuePortrait"/>
+                </Element>
+            </Element>
+        </Element>
+    </Main_portrait>
+    <Classes>
+        <Class name="highlightLabelLandscape" type="textField" x="0" width="140" labelFontSize="18" align="center"
+               vAlign="center" labelFontColor="0xcccccc" labelFont="noto_sanscondensed_bold"/>
+        <Class name="highlightValueLandscape" type="textField" x="0" width="140" labelFontSize="24" align="center"
+               vAlign="center" labelFontColor="0xffffff" labelFont="noto_sanscondensed_bold"/>
+        <Class name="defaultLabelLandscape" type="textField" x="0" y="6" height="15" depth="1" width="168"
+               labelFontSize="22" align="center" vAlign="center" labelFontColor="0xcccccc" labelFont="noto_sanscondensed_bold"/>
+        <Class name="defaultValueLandscape" type="textField" x="0" y="27" height="22" depth="2" width="168"
+               labelFontSize="29" align="center" vAlign="center" labelFontColor="0xffffff" labelFont="noto_sanscondensed_bold"/>
+        <Class name="highlightLabelPortrait" type="textField" x="35" width="480" labelFontSize="48" align="center"
+               vAlign="center" labelFontColor="0xcccccc" labelFont="noto_sanscondensed_bold"/>
+        <Class name="highlightValuePortrait" type="textField" x="35" width="480" labelFontSize="60" align="center"
+               vAlign="center" labelFontColor="0xffffff" labelFont="noto_sanscondensed_bold"/>
+        <Class name="defaultLabelPortrait" type="textField" x="35" y="12" width="370" height="28" depth="1"
+               labelFontSize="30" align="center" vAlign="center" labelFontColor="0xcccccc" labelFont="noto_sanscondensed_bold"/>
+        <Class name="defaultValuePortrait" type="textField" x="35" y="45" width="370" height="40" depth="1"
+               labelFontSize="40" align="center" vAlign="center" labelFontColor="0xffffff" labelFont="noto_sanscondensed_bold"/>
+        <Class name="bgSmallPortrait" x="0" y="0" width="440" height="90" depth="0" type="image"
+               resource="MUIPortraitFreeSpinsInfoPanel" labelFont="noto_sanscondensed_bold"/>
+    </Classes>
+</Layout>

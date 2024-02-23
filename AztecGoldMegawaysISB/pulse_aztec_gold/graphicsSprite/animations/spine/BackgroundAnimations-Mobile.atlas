@@ -1,0 +1,313 @@
+
+BackgroundAnimations-Mobile.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FS/FS-Spins-Left-Glow-Portrait
+  rotate: true
+  xy: 467, 323
+  size: 94, 38
+  orig: 94, 38
+  offset: 0, 0
+  index: -1
+FS/FS-Spins-Left-Glow
+  rotate: true
+  xy: 467, 283
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+Main Stage/Main-Liana1
+  rotate: false
+  xy: 371, 112
+  size: 116, 169
+  orig: 124, 191
+  offset: 4, 20
+  index: -1
+Main Stage/Main-Liana2
+  rotate: false
+  xy: 1, 496
+  size: 109, 99
+  orig: 123, 107
+  offset: 7, 6
+  index: -1
+Main Stage/Main-Plant
+  rotate: true
+  xy: 285, 316
+  size: 87, 67
+  orig: 87, 67
+  offset: 0, 0
+  index: -1
+Main Stage/Main-Plant2
+  rotate: false
+  xy: 1, 316
+  size: 282, 178
+  orig: 282, 178
+  offset: 0, 0
+  index: -1
+Main Stage/Main-Plant3
+  rotate: false
+  xy: 354, 353
+  size: 111, 66
+  orig: 111, 66
+  offset: 0, 0
+  index: -1
+Main Stage/Main-Plant4
+  rotate: true
+  xy: 285, 480
+  size: 188, 197
+  orig: 188, 197
+  offset: 0, 0
+  index: -1
+Main Stage/Main-Plant5
+  rotate: false
+  xy: 1, 1
+  size: 368, 122
+  orig: 368, 123
+  offset: 0, 0
+  index: -1
+Main Stage/Main-Plant6
+  rotate: false
+  xy: 1, 125
+  size: 351, 189
+  orig: 351, 189
+  offset: 0, 0
+  index: -1
+Main Stage/Main-Plant7
+  rotate: false
+  xy: 349, 421
+  size: 160, 57
+  orig: 160, 57
+  offset: 0, 0
+  index: -1
+Main Stage/Main-Plant8
+  rotate: false
+  xy: 354, 283
+  size: 111, 68
+  orig: 111, 68
+  offset: 0, 0
+  index: -1
+Main Stage/Main-Plant9
+  rotate: false
+  xy: 285, 405
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1
+Other/Leaf
+  rotate: false
+  xy: 489, 112
+  size: 18, 43
+  orig: 18, 43
+  offset: 0, 0
+  index: -1
+Other/Rock-Blurr
+  rotate: true
+  xy: 285, 433
+  size: 33, 56
+  orig: 33, 86
+  offset: 0, 15
+  index: -1
+Other/Rock1
+  rotate: false
+  xy: 371, 1
+  size: 133, 109
+  orig: 133, 109
+  offset: 0, 0
+  index: -1
+Other/Small-Rock
+  rotate: false
+  xy: 112, 496
+  size: 28, 28
+  orig: 40, 30
+  offset: 6, 1
+  index: -1
+
+BackgroundAnimations-Mobile2.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FS/Gold-Glow1
+  rotate: false
+  xy: 1, 39
+  size: 398, 181
+  orig: 398, 181
+  offset: 0, 0
+  index: -1
+FS/Gold-Glow2
+  rotate: false
+  xy: 1, 222
+  size: 396, 179
+  orig: 396, 180
+  offset: 0, 1
+  index: -1
+FS/Gold-Glow3
+  rotate: false
+  xy: 1, 403
+  size: 396, 176
+  orig: 396, 176
+  offset: 0, 0
+  index: -1
+FS/MA-Coin-Spec
+  rotate: true
+  xy: 503, 215
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+FS/Rays-10
+  rotate: false
+  xy: 1, 581
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+FS/sparkles_1
+  rotate: false
+  xy: 399, 305
+  size: 100, 76
+  orig: 100, 76
+  offset: 0, 0
+  index: -1
+Glows/fly-yellow
+  rotate: false
+  xy: 465, 1
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Glows/light-1
+  rotate: false
+  xy: 104, 581
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Glows/Line Left
+  rotate: true
+  xy: 1, 1
+  size: 36, 462
+  orig: 36, 462
+  offset: 0, 0
+  index: -1
+Glows/MA-diamond-sparkle
+  rotate: true
+  xy: 473, 619
+  size: 54, 34
+  orig: 54, 63
+  offset: 0, 14
+  index: -1
+Glows/MA-Star-Red
+  rotate: true
+  xy: 482, 383
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+Glows/spakles-1
+  rotate: true
+  xy: 185, 581
+  size: 63, 177
+  orig: 73, 197
+  offset: 10, 10
+  index: -1
+Glows/sun-rays-1
+  rotate: false
+  xy: 401, 48
+  size: 110, 165
+  orig: 110, 165
+  offset: 0, 0
+  index: -1
+Main Stage/BackgroundRainbow
+  rotate: false
+  xy: 399, 436
+  size: 77, 140
+  orig: 77, 140
+  offset: 0, 0
+  index: -1
+Main Stage/fly-blue
+  rotate: false
+  xy: 148, 966
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Main Stage/Leaves-Shadow1
+  rotate: true
+  xy: 399, 578
+  size: 145, 72
+  orig: 145, 72
+  offset: 0, 0
+  index: -1
+Main Stage/Leaves-Shadow2
+  rotate: false
+  xy: 1, 941
+  size: 145, 72
+  orig: 145, 72
+  offset: 0, 0
+  index: -1
+Main Stage/Leaves-Shadow3
+  rotate: false
+  xy: 1, 646
+  size: 145, 72
+  orig: 145, 72
+  offset: 0, 0
+  index: -1
+Main Stage/Main-Liana1-Shadow
+  rotate: true
+  xy: 399, 383
+  size: 51, 81
+  orig: 51, 81
+  offset: 0, 0
+  index: -1
+Main Stage/Main-Liana2-Shadow
+  rotate: true
+  xy: 63, 581
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+Main Stage/water-ripple-1
+  rotate: true
+  xy: 478, 436
+  size: 181, 30
+  orig: 181, 30
+  offset: 0, 0
+  index: -1
+Other/air-dust
+  rotate: true
+  xy: 1, 725
+  size: 214, 120
+  orig: 214, 120
+  offset: 0, 0
+  index: -1
+Other/dust
+  rotate: true
+  xy: 123, 725
+  size: 187, 60
+  orig: 210, 91
+  offset: 8, 6
+  index: -1
+Other/Smoke
+  rotate: false
+  xy: 401, 215
+  size: 100, 88
+  orig: 100, 88
+  offset: 0, 0
+  index: -1
+WhiteGradient-2
+  rotate: false
+  xy: 148, 646
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+WhiteGradient-3
+  rotate: false
+  xy: 148, 914
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

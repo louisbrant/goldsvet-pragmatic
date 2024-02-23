@@ -1,0 +1,194 @@
+
+Special messages.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Common/big glow
+  rotate: false
+  xy: 1, 1
+  size: 792, 355
+  orig: 792, 355
+  offset: 0, 0
+  index: -1
+Common/dust
+  rotate: true
+  xy: 1, 1586
+  size: 420, 181
+  orig: 420, 181
+  offset: 0, 0
+  index: -1
+Glow/A flash 1
+  rotate: false
+  xy: 209, 943
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+Glow/A sparkle 1
+  rotate: true
+  xy: 209, 850
+  size: 91, 62
+  orig: 91, 62
+  offset: 0, 0
+  index: -1
+Glow/Aztec_lights
+  rotate: false
+  xy: 1, 358
+  size: 785, 175
+  orig: 785, 175
+  offset: 0, 0
+  index: -1
+Glow/Aztec_stars
+  rotate: false
+  xy: 225, 745
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+Glow/BW_lights
+  rotate: false
+  xy: 184, 1029
+  size: 595, 127
+  orig: 595, 127
+  offset: 0, 0
+  index: -1
+Glow/glow
+  rotate: false
+  xy: 184, 1158
+  size: 552, 496
+  orig: 552, 496
+  offset: 0, 0
+  index: -1
+Glow/Mega_lights
+  rotate: true
+  xy: 781, 913
+  size: 671, 206
+  orig: 671, 206
+  offset: 0, 0
+  index: -1
+Glow/S1A big sparkle
+  rotate: true
+  xy: 153, 745
+  size: 103, 70
+  orig: 103, 70
+  offset: 0, 0
+  index: -1
+Glow/S2_lights
+  rotate: false
+  xy: 1, 535
+  size: 737, 208
+  orig: 737, 208
+  offset: 0, 0
+  index: -1
+Glow/SBW_lights
+  rotate: true
+  xy: 795, 174
+  size: 737, 215
+  orig: 737, 215
+  offset: 0, 0
+  index: -1
+Glow/Shine
+  rotate: true
+  xy: 740, 535
+  size: 492, 39
+  orig: 492, 39
+  offset: 0, 0
+  index: -1
+Glow/SMABW_big_lights
+  rotate: false
+  xy: 1, 745
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Glow/SMABW_biglights2
+  rotate: false
+  xy: 795, 1
+  size: 227, 171
+  orig: 227, 171
+  offset: 0, 0
+  index: -1
+Glow/SMABW_rays
+  rotate: false
+  xy: 1, 897
+  size: 206, 112
+  orig: 206, 112
+  offset: 0, 0
+  index: -1
+
+Special messages2.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Text/Aztec_gold
+  rotate: false
+  xy: 1, 233
+  size: 785, 200
+  orig: 785, 200
+  offset: 0, 0
+  index: -1
+Text/Aztec_plate
+  rotate: true
+  xy: 904, 1
+  size: 368, 104
+  orig: 368, 104
+  offset: 0, 0
+  index: -1
+Text/BW_gold
+  rotate: false
+  xy: 1, 1248
+  size: 595, 125
+  orig: 595, 125
+  offset: 0, 0
+  index: -1
+Text/BW_plate
+  rotate: true
+  xy: 653, 1046
+  size: 569, 126
+  orig: 569, 126
+  offset: 0, 0
+  index: -1
+Text/Mega_gold
+  rotate: false
+  xy: 1, 824
+  size: 671, 220
+  orig: 671, 220
+  offset: 0, 0
+  index: -1
+Text/Mega_plate
+  rotate: false
+  xy: 1, 1046
+  size: 650, 200
+  orig: 650, 200
+  offset: 0, 0
+  index: -1
+Text/S2_gold
+  rotate: true
+  xy: 788, 371
+  size: 737, 220
+  orig: 737, 220
+  offset: 0, 0
+  index: -1
+Text/SBW_gold
+  rotate: false
+  xy: 1, 435
+  size: 737, 185
+  orig: 737, 185
+  offset: 0, 0
+  index: -1
+Text/SBW_plate
+  rotate: false
+  xy: 1, 1
+  size: 901, 230
+  orig: 901, 230
+  offset: 0, 0
+  index: -1
+Text/SM_plate
+  rotate: false
+  xy: 1, 622
+  size: 713, 200
+  orig: 713, 200
+  offset: 0, 0
+  index: -1

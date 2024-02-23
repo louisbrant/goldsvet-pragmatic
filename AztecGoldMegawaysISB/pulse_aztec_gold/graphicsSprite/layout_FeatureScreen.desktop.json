@@ -1,0 +1,1226 @@
+{
+  "skeleton": {
+    "images": "images/"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "root!@326130",
+      "parent": "root",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "WideBackground",
+      "parent": "root!@326130",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "FeatureScreenModuleAssets",
+      "parent": "root!@326130",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Normal",
+      "parent": "WideBackground",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "content_landscape",
+      "parent": "FeatureScreenModuleAssets",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Background",
+      "parent": "content_landscape",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "features",
+      "parent": "content_landscape",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Logo",
+      "parent": "content_landscape",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "MainUI",
+      "parent": "content_landscape",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    }
+  ],
+  "slots": [
+    {
+      "name": "Preloader_BG",
+      "bone": "Normal",
+      "attachment": "Preloader_BG",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Feature_Frame_2",
+      "bone": "features",
+      "attachment": "Feature_Frame_2",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Feature_Frame_1",
+      "bone": "features",
+      "attachment": "Feature_Frame_1",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Feature_5",
+      "bone": "features",
+      "attachment": "Feature_5",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "IntroScreenDescription1_7",
+      "bone": "features",
+      "attachment": "IntroScreenDescription1_7",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Feature_4",
+      "bone": "features",
+      "attachment": "Feature_4",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "IntroScreenDescription1_6",
+      "bone": "features",
+      "attachment": "IntroScreenDescription1_6",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Feature_3",
+      "bone": "features",
+      "attachment": "Feature_3",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "IntroScreenDescription1_5",
+      "bone": "features",
+      "attachment": "IntroScreenDescription1_5",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Feature_2",
+      "bone": "features",
+      "attachment": "Feature_2",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "IntroScreenDescription1_4",
+      "bone": "features",
+      "attachment": "IntroScreenDescription1_4",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "IntroScreenDescription1_3",
+      "bone": "features",
+      "attachment": "IntroScreenDescription1_3",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Feature_1",
+      "bone": "features",
+      "attachment": "Feature_1",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "IntroScreenDescription1_2",
+      "bone": "features",
+      "attachment": "IntroScreenDescription1_2",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "IntroScreenDescription1_1",
+      "bone": "features",
+      "attachment": "IntroScreenDescription1_1",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "AGM_Logo",
+      "bone": "Logo",
+      "attachment": "AGM_Logo",
+      "components": [],
+      "visibleAtInit": true
+    }
+  ],
+  "skins": {
+    "default": {
+      "Preloader_BG": {
+        "Preloader_BG": {
+          "x": 1584,
+          "y": 720,
+          "width": 1584,
+          "height": 720,
+          "rotation": 0,
+          "scaleX": 2,
+          "scaleY": 2,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            792,
+            360
+          ],
+          "offsetMax": [
+            2376,
+            1080
+          ],
+          "visibleSelf": true,
+          "name": "Preloader_BG",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "Feature_Frame_2": {
+        "Feature_Frame_2": {
+          "x": 2215,
+          "y": 657,
+          "width": -1271,
+          "height": 1146,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2850.5,
+            84
+          ],
+          "offsetMax": [
+            1579.5,
+            1230
+          ],
+          "visibleSelf": true,
+          "name": "feature_reel_frame",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "Feature_Frame_1": {
+        "Feature_Frame_1": {
+          "x": 945,
+          "y": 657,
+          "width": 1271,
+          "height": 1146,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            309.5,
+            84
+          ],
+          "offsetMax": [
+            1580.5,
+            1230
+          ],
+          "visibleSelf": true,
+          "name": "feature_reel_frame",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "Feature_5": {
+        "Feature_5": {
+          "x": 2420,
+          "y": 884,
+          "width": 794,
+          "height": 553,
+          "rotation": 0,
+          "scaleX": 0.85,
+          "scaleY": 0.85,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2023,
+            607.5
+          ],
+          "offsetMax": [
+            2817,
+            1160.5
+          ],
+          "visibleSelf": true,
+          "name": "Feature5",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "IntroScreenDescription1_7": {
+        "IntroScreenDescription1_7": {
+          "x": 2429,
+          "y": 1136,
+          "width": 747,
+          "height": 72,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2055.5,
+            1100
+          ],
+          "offsetMax": [
+            2802.5,
+            1172
+          ],
+          "visibleSelf": true,
+          "name": "IntroScreenDescription1_7",
+          "type": "textField",
+          "properties": {
+            "content": "TRIGGERED ON ANY SPIN\n",
+            "fontName": "Arial",
+            "fontSize": "45",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "bold",
+            "colors": [
+              "f9eed0"
+            ],
+            "gradientType": "horizontal",
+            "fillGradientStops": [
+              0.2,
+              0.2
+            ],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "7e0c0c",
+            "dropShadowAlpha": 5,
+            "dropShadowAngle": 90,
+            "dropShadowBlur": 10,
+            "dropShadowDistance": 10,
+            "wordWrap": false,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 747,
+            "lineHeight": 60,
+            "padding": 45,
+            "trim": true
+          }
+        }
+      },
+      "Feature_4": {
+        "Feature_4": {
+          "x": 2420,
+          "y": 403,
+          "width": 783,
+          "height": 509,
+          "rotation": 0,
+          "scaleX": 0.8999999999999773,
+          "scaleY": 0.8999999999999773,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2028.5,
+            148.5
+          ],
+          "offsetMax": [
+            2811.5,
+            657.5
+          ],
+          "visibleSelf": true,
+          "name": "Feature4",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "IntroScreenDescription1_6": {
+        "IntroScreenDescription1_6": {
+          "x": 2418,
+          "y": 176,
+          "width": 742,
+          "height": 76,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            2047,
+            138
+          ],
+          "offsetMax": [
+            2789,
+            214
+          ],
+          "visibleSelf": true,
+          "name": "IntroScreenDescription1_6",
+          "type": "textField",
+          "properties": {
+            "content": "WATCH OUT FOR MODIFIERS",
+            "fontName": "Arial",
+            "fontSize": "45",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "bold",
+            "colors": [
+              "f9eed0"
+            ],
+            "gradientType": "horizontal",
+            "fillGradientStops": [
+              0.2,
+              0.2
+            ],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "7e0c0c",
+            "dropShadowAlpha": 5,
+            "dropShadowAngle": 90,
+            "dropShadowBlur": 10,
+            "dropShadowDistance": 10,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 742,
+            "lineHeight": 40,
+            "padding": 45,
+            "trim": true
+          }
+        }
+      },
+      "Feature_3": {
+        "Feature_3": {
+          "x": 1579,
+          "y": 692,
+          "width": 702,
+          "height": 463,
+          "rotation": 0,
+          "scaleX": 1.13,
+          "scaleY": 1.13,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1228,
+            460.5
+          ],
+          "offsetMax": [
+            1930,
+            923.5
+          ],
+          "visibleSelf": true,
+          "name": "Feature3wide",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "IntroScreenDescription1_5": {
+        "IntroScreenDescription1_5": {
+          "x": 1584,
+          "y": 991,
+          "width": 801,
+          "height": 165,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1183.5,
+            908.5
+          ],
+          "offsetMax": [
+            1984.5,
+            1073.5
+          ],
+          "visibleSelf": true,
+          "name": "IntroScreenDescription1_5",
+          "type": "textField",
+          "properties": {
+            "content": "ANY WIN TRIGGERS \nA CASCADE!",
+            "fontName": "Arial",
+            "fontSize": "45",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "bold",
+            "colors": [
+              "f8c616"
+            ],
+            "gradientType": "horizontal",
+            "fillGradientStops": [
+              0.2,
+              0.2
+            ],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "f3d026",
+            "dropShadowAlpha": 5,
+            "dropShadowAngle": 90,
+            "dropShadowBlur": 10,
+            "dropShadowDistance": 10,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 801,
+            "lineHeight": 45,
+            "padding": 45,
+            "trim": true
+          }
+        }
+      },
+      "Feature_2": {
+        "Feature_2": {
+          "x": 747,
+          "y": 908,
+          "width": 756,
+          "height": 493,
+          "rotation": 0,
+          "scaleX": 0.64,
+          "scaleY": 0.64,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            369,
+            661.5
+          ],
+          "offsetMax": [
+            1125,
+            1154.5
+          ],
+          "visibleSelf": true,
+          "name": "Feature_2",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "IntroScreenDescription1_4": {
+        "IntroScreenDescription1_4": {
+          "x": 735,
+          "y": 1110,
+          "width": 730,
+          "height": 130,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            370,
+            1045
+          ],
+          "offsetMax": [
+            1100,
+            1175
+          ],
+          "visibleSelf": true,
+          "name": "IntroScreenDescription1_4",
+          "type": "textField",
+          "properties": {
+            "content": "WATCH OUT FOR THE MINI,\nMAJOR AND MEGA SUN DISC SCATTERS!",
+            "fontName": "Arial",
+            "fontSize": "45",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "bold",
+            "colors": [
+              "f9eed0"
+            ],
+            "gradientType": "horizontal",
+            "fillGradientStops": [
+              0.2,
+              0.2
+            ],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "7e0c0c",
+            "dropShadowAlpha": 5,
+            "dropShadowAngle": 90,
+            "dropShadowBlur": 10,
+            "dropShadowDistance": 10,
+            "wordWrap": true,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 730,
+            "lineHeight": 45,
+            "padding": 45,
+            "trim": true
+          }
+        }
+      },
+      "IntroScreenDescription1_3": {
+        "IntroScreenDescription1_3": {
+          "x": 740,
+          "y": 710,
+          "width": 730,
+          "height": 100,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            375,
+            660
+          ],
+          "offsetMax": [
+            1105,
+            760
+          ],
+          "visibleSelf": true,
+          "name": "IntroScreenDescription1_3",
+          "type": "textField",
+          "properties": {
+            "content": "FILL AN ENTIRE COLUMN \nTO WIN THE MULTIPLIER\n",
+            "fontName": "Arial",
+            "fontSize": "45",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "bold",
+            "colors": [
+              "f9eed0"
+            ],
+            "gradientType": "horizontal",
+            "fillGradientStops": [
+              0.2,
+              0.2
+            ],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "7e0c0c",
+            "dropShadowAlpha": 5,
+            "dropShadowAngle": 90,
+            "dropShadowBlur": 10,
+            "dropShadowDistance": 10,
+            "wordWrap": false,
+            "breakWords": true,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 730,
+            "lineHeight": 45,
+            "padding": 45,
+            "trim": true
+          }
+        }
+      },
+      "Feature_1": {
+        "Feature_1": {
+          "x": 739,
+          "y": 384,
+          "width": 756,
+          "height": 476,
+          "rotation": 0,
+          "scaleX": 0.7,
+          "scaleY": 0.7,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            361,
+            146
+          ],
+          "offsetMax": [
+            1117,
+            622
+          ],
+          "visibleSelf": true,
+          "name": "Feature_1",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "IntroScreenDescription1_2": {
+        "IntroScreenDescription1_2": {
+          "x": 740,
+          "y": 585,
+          "width": 730,
+          "height": 81,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            375,
+            544.5
+          ],
+          "offsetMax": [
+            1105,
+            625.5
+          ],
+          "visibleSelf": true,
+          "name": "IntroScreenDescription1_2",
+          "type": "textField",
+          "properties": {
+            "content": " TRIGGER AZTEC GOLD CASH RESPINS!",
+            "fontName": "Arial",
+            "fontSize": "45",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "bold",
+            "colors": [
+              "f9eed0"
+            ],
+            "gradientType": "horizontal",
+            "fillGradientStops": [
+              0.2,
+              0.2
+            ],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "7e0c0c",
+            "dropShadowAlpha": 5,
+            "dropShadowAngle": 90,
+            "dropShadowBlur": 10,
+            "dropShadowDistance": 10,
+            "wordWrap": true,
+            "breakWords": false,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 730,
+            "lineHeight": 45,
+            "padding": 45,
+            "trim": true
+          }
+        }
+      },
+      "IntroScreenDescription1_1": {
+        "IntroScreenDescription1_1": {
+          "x": 740,
+          "y": 193,
+          "width": 730,
+          "height": 93,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            375,
+            146.5
+          ],
+          "offsetMax": [
+            1105,
+            239.5
+          ],
+          "visibleSelf": true,
+          "name": "IntroScreenDescription1_1",
+          "type": "textField",
+          "properties": {
+            "content": "5 OR MORE SUN DISC \nSCATTERS",
+            "fontName": "Arial",
+            "fontSize": "45",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "bold",
+            "colors": [
+              "f9eed0"
+            ],
+            "gradientType": "horizontal",
+            "fillGradientStops": [
+              0.2,
+              0.2
+            ],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 0,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "7e0c0c",
+            "dropShadowAlpha": 5,
+            "dropShadowAngle": 90,
+            "dropShadowBlur": 10,
+            "dropShadowDistance": 10,
+            "wordWrap": false,
+            "breakWords": false,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 730,
+            "lineHeight": 45,
+            "padding": 45,
+            "trim": true
+          }
+        }
+      },
+      "AGM_Logo": {
+        "AGM_Logo": {
+          "x": 1584,
+          "y": 219,
+          "width": 684,
+          "height": 448,
+          "rotation": 0,
+          "scaleX": 0.9,
+          "scaleY": 0.9,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            1242,
+            -5
+          ],
+          "offsetMax": [
+            1926,
+            443
+          ],
+          "visibleSelf": true,
+          "name": "AGM_Logo",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      }
+    }
+  },
+  "bpm": 100
+}

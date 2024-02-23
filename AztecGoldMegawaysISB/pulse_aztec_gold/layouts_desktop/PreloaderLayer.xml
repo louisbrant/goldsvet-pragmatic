@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Layout name="preloader_pixi">
+    <Main>
+        <Element name="props" depth="-1" layerY="0" layerX="0" type="layerProperties"/>
+        
+        <Element name="bg" type="image" resource="{assetsBackground}BackgroundWide.jpg" x="0" y="0" width="1584"
+                 height="720" depth="0"/>
+        
+        
+        <Element name="gameLogo" type="image" resource="Preloader-Logo" x="165" y="52" width="600" height="396"
+                 depth="0"/>
+        
+        <Element type="container" depth="2" name="preloaderAll" x="0" y="620">
+            <Element name="stripBar" type="image" depth="0" x="400" y="0" resource="PreDarkBottomArea" width="100" height="100"/>
+            <Element name="logo" type="image" depth="0" x="731" y="30" resource="PreISBLogo" width="122" height="40"/>
+            <Element name="loadBarEmpty" type="image" depth="0" x="0" y="0" resource="PreLoadingBarEmpty" width="100" height="4"/>
+            <Element name="loadBarFull" type="image" depth="0" x="0" y="0" resource="PreLoadingBarFull" width="100" height="4"/>
+        </Element>
+    </Main>
+    <Classes>
+        
+        
+    </Classes>
+</Layout>

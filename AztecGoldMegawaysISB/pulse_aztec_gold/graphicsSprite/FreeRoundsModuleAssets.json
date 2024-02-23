@@ -1,0 +1,60 @@
+{"frames": {
+
+"x@0.5_FR-Button-Down.png":
+{
+	"frame": {"x":658,"y":798,"w":254,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":84},
+	"sourceSize": {"w":254,"h":84}
+},
+"x@0.5_FR-Button-Over.png":
+{
+	"frame": {"x":822,"y":638,"w":254,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":84},
+	"sourceSize": {"w":254,"h":84}
+},
+"x@0.5_FR-Button-Up.png":
+{
+	"frame": {"x":658,"y":888,"w":254,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":84},
+	"sourceSize": {"w":254,"h":84}
+},
+"x@0.5_FR-Popup.png":
+{
+	"frame": {"x":4,"y":4,"w":1194,"h":628},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1194,"h":628},
+	"sourceSize": {"w":1194,"h":628}
+},
+"x@0.5_FR-Roll-Over-Panel.png":
+{
+	"frame": {"x":4,"y":638,"w":648,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":648,"h":296},
+	"sourceSize": {"w":648,"h":296}
+},
+"x@0.5_FR-Star.png":
+{
+	"frame": {"x":658,"y":638,"w":158,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":158,"h":154},
+	"sourceSize": {"w":158,"h":158}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "FreeRoundsModuleAssets.png",
+	"format": "RGBA8888",
+	"size": {"w":1202,"h":1202},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:86178a243415fe207b8251ce2fd7782c:7de79a5cc0d9c8c687c2667c909ad989:9bdcb84eec95fa5feb94ca5eb3ceee54$"
+}
+}

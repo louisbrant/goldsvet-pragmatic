@@ -1,0 +1,27 @@
+
+wheelAnimation-Mobile.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Particles
+  rotate: false
+  xy: 230, 53
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
+Respins
+  rotate: false
+  xy: 169, 11
+  size: 59, 101
+  orig: 61, 102
+  offset: 1, 0
+  index: -1
+sun-rays-1
+  rotate: true
+  xy: 2, 2
+  size: 110, 165
+  orig: 110, 165
+  offset: 0, 0
+  index: -1

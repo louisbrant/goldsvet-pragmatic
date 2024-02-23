@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout name="menu_pixi">
+    <Main>
+        <Element name="props" depth="-1" layerY="0" layerX="0" type="layerProperties"/>
+        
+        
+        <Element name="menuToggle" depth="1" type="button" x="0" y="664" width="34" height="34"
+                 upState="UIMenuButtonUp" pressedState="UIMenuButtonDown" overState="UIMenuButtonOver"
+                 disabledState="UIMenuButtonDisable"/>
+        <Element name="UICheatToolButton" depth="1" type="button" x="130" y="664" width="34" height="34"
+                 upState="UICheatToolButtonUp" pressedState="UICheatToolButtonDown" overState="UICheatToolButtonOver"
+                 disabledState="UICheatToolButtonDisable"/>
+        <Element name="isoftbetlogo" type="image" depth="3" x="0" y="707" resource="iSoftBetLogo" width="47"
+                 height="10"/>
+        <Element name="clock" class="textValue"/>
+        
+            <Element name="paytableWaysTitle" class="paytableWaysTitle" x="0" y="638" visible="false"/>
+        
+        <Element name="menuContainer" depth="0" type="container" x="350" y="200">
+            <Element name="menuBg" depth="0" type="image" resource="SettingsBackground" x="0" y="0" width="48"
+                     height="215"/>
+            <Element name="menuBgArrow" depth="0" type="image" resource="SettingsArrowBackground" x="15" y="215"
+                     width="18" height="9"/>
+        </Element>
+    </Main>
+    <Styles>
+        <FontStyle name="sbStyleValue" fontSize="10" fontColor="0xF6F4F6" align="center" vAlign="center"/>
+    </Styles>
+    <Classes>
+        
+        <Class name="textValue" depth="3" type="textField" x="0" y="705" width="75" height="15"
+               style="sbStyleValue" singleLine="true" labelFont="noto_sanscondensed_bold"/>
+        <Class name="paytableWaysTitle" depth="3" type="textField" x="160" y="0" width="100" height="15" singleLine="true"
+               strokeThickness="4" stroke="000000" lineJoin="round" labelFontSize="30" labelFontColor="0xffffff"
+               align="center" vAlign="center"/>
+        
+    </Classes>
+</Layout>

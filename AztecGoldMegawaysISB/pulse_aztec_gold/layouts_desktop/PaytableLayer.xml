@@ -1,0 +1,21 @@
+<Layout name="paytable_pixi">
+    <Main>
+        <Element name="props" depth="-1" layerX="0" layerY="0" type="layerProperties"/>
+        <Element name="paytableTitleBg" depth="1" x="0" y="0" width="1584" height="25" resource="SettingsTitleBackground" type="image"/>
+        <Element name="menuPaytableButton" keyTranslate="menuPaytableButton" depth="2" x="0" y="0" width="1584" height="25" class="paytableTitle" type="textField"/>
+        <Element name="ptBackButton" keyTranslate="ptBackButton" depth="3" x="746" y="669" labelX="0" labelY="0" width="92" height="25" labelWidth="80" labelHeight="20" upState="GenericButtonUp" pressedState="GenericButtonDown" overState="GenericButtonOver" disabledState="GenericButtonDisable" class="backLabel" type="button"/>
+
+        <Element name="ptMainContainer" depth="0" type="scrollingContainer" x="0" y="24" width="1584" height="656">
+            <Element name="rulesMainButton" type="container" x="448" y="3310" depth="0">
+                <Element name="ptRulesButton" keyTranslate="menuRulesButton" depth="3" x="0" y="0" labelX="0"
+                         labelY="0" width="92" height="25" labelWidth="80" labelHeight="20" upState="GenericButtonUp"
+                         pressedState="GenericButtonDown" overState="GenericButtonOver" disabledState="GenericButtonDisable"
+                         class="backLabel" type="button"/>
+            </Element>
+        </Element>
+    </Main>
+    <Classes>
+        <Class name="paytableTitle" type="textField" labelFontSize="16" align="center" vAlign="center" labelFontColor="0xFFFFFF"/>
+        <Class name="backLabel" type="textField" labelFontSize="15" align="center" vAlign="center" labelFontColor="0x000000"/>
+    </Classes>
+</Layout>

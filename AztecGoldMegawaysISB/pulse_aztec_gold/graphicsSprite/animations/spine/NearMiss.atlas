@@ -1,0 +1,34 @@
+
+NearMiss.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Water-reflection
+  rotate: true
+  xy: 333, 104
+  size: 150, 283
+  orig: 151, 285
+  offset: 0, 1
+  index: -1
+fly-yellow
+  rotate: false
+  xy: 618, 165
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+light-1
+  rotate: false
+  xy: 333, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+sun-rays-1
+  rotate: true
+  xy: 2, 35
+  size: 219, 329
+  orig: 219, 329
+  offset: 0, 0
+  index: -1

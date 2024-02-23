@@ -1,0 +1,355 @@
+
+FeaturesAnimations.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FrameGlow/Frame01
+  rotate: false
+  xy: 332, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame02
+  rotate: false
+  xy: 1, 222
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame03
+  rotate: false
+  xy: 634, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame04
+  rotate: false
+  xy: 303, 303
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame05
+  rotate: false
+  xy: 1, 524
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame06
+  rotate: false
+  xy: 605, 303
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame07
+  rotate: false
+  xy: 303, 605
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame08
+  rotate: false
+  xy: 1, 826
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame09
+  rotate: false
+  xy: 605, 605
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame10
+  rotate: false
+  xy: 303, 907
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame11
+  rotate: false
+  xy: 1, 1128
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame12
+  rotate: false
+  xy: 605, 907
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame13
+  rotate: false
+  xy: 1, 1430
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame14
+  rotate: false
+  xy: 1, 1732
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+FrameGlow/Frame15
+  rotate: false
+  xy: 303, 1209
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Glows/Light-1-red
+  rotate: false
+  xy: 907, 560
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Glows/light-1
+  rotate: false
+  xy: 907, 662
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Glows/MA-diamond-sparkle
+  rotate: false
+  xy: 907, 433
+  size: 108, 125
+  orig: 108, 125
+  offset: 0, 0
+  index: -1
+Glows/Rays-8
+  rotate: false
+  xy: 826, 1387
+  size: 124, 119
+  orig: 124, 119
+  offset: 0, 0
+  index: -1
+Glows/ShockWave
+  rotate: false
+  xy: 907, 316
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+Glows/sun-rays-1
+  rotate: true
+  xy: 1, 1
+  size: 219, 329
+  orig: 219, 329
+  offset: 0, 0
+  index: -1
+Multipliers/x3_glow
+  rotate: false
+  xy: 936, 1
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1
+Multipliers/x4_glow
+  rotate: false
+  xy: 936, 64
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1
+Multipliers/x5_glow
+  rotate: false
+  xy: 936, 127
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1
+Multipliers/x6_glow
+  rotate: false
+  xy: 936, 190
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1
+Multipliers/x7_glow
+  rotate: false
+  xy: 936, 253
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1
+SunDisc/Bg-Glow
+  rotate: false
+  xy: 605, 1209
+  size: 219, 204
+  orig: 219, 204
+  offset: 0, 0
+  index: -1
+SunDisc/Overlay-Glow
+  rotate: true
+  xy: 826, 1209
+  size: 176, 180
+  orig: 176, 180
+  offset: 0, 0
+  index: -1
+
+FeaturesAnimations2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FullFrame
+  rotate: true
+  xy: 1256, 1
+  size: 395, 690
+  orig: 395, 690
+  offset: 0, 0
+  index: -1
+Gold-Symbol-12-1
+  rotate: false
+  xy: 1844, 1222
+  size: 185, 145
+  orig: 185, 145
+  offset: 0, 0
+  index: -1
+Gold-Symbol-12-2
+  rotate: true
+  xy: 1918, 941
+  size: 185, 120
+  orig: 185, 120
+  offset: 0, 0
+  index: -1
+Gold-Symbol-12-3
+  rotate: false
+  xy: 1657, 1273
+  size: 185, 104
+  orig: 185, 104
+  offset: 0, 0
+  index: -1
+Gold-Symbol-12-4
+  rotate: true
+  xy: 1948, 1
+  size: 185, 92
+  orig: 185, 92
+  offset: 0, 0
+  index: -1
+Gold-Symbol-12
+  rotate: false
+  xy: 1657, 1086
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+increment
+  rotate: false
+  xy: 1657, 605
+  size: 318, 182
+  orig: 318, 182
+  offset: 0, 0
+  index: -1
+increment2
+  rotate: false
+  xy: 1657, 421
+  size: 360, 182
+  orig: 360, 182
+  offset: 0, 0
+  index: -1
+Multipliers/Frame-Glow
+  rotate: false
+  xy: 1657, 1379
+  size: 136, 108
+  orig: 136, 108
+  offset: 0, 0
+  index: -1
+Multipliers/Multiplier-Frame
+  rotate: false
+  xy: 1657, 909
+  size: 259, 175
+  orig: 259, 175
+  offset: 0, 0
+  index: -1
+Multipliers/x3_gold
+  rotate: false
+  xy: 1948, 343
+  size: 88, 76
+  orig: 88, 76
+  offset: 0, 0
+  index: -1
+Multipliers/x4_gold
+  rotate: false
+  xy: 1950, 789
+  size: 88, 74
+  orig: 88, 74
+  offset: 0, 0
+  index: -1
+Multipliers/x5_gold
+  rotate: false
+  xy: 1948, 266
+  size: 89, 75
+  orig: 89, 75
+  offset: 0, 0
+  index: -1
+Multipliers/x6_gold
+  rotate: false
+  xy: 1948, 188
+  size: 89, 76
+  orig: 89, 76
+  offset: 0, 0
+  index: -1
+Multipliers/x7_gold
+  rotate: false
+  xy: 1950, 865
+  size: 79, 74
+  orig: 79, 74
+  offset: 0, 0
+  index: -1
+SunDisc/Leaf1
+  rotate: true
+  xy: 1977, 605
+  size: 103, 50
+  orig: 103, 50
+  offset: 0, 0
+  index: -1
+SunDisc/Leaf2
+  rotate: false
+  xy: 1844, 1369
+  size: 153, 107
+  orig: 153, 107
+  offset: 0, 0
+  index: -1
+SunDisc/Leaf3
+  rotate: false
+  xy: 1844, 1086
+  size: 72, 134
+  orig: 72, 134
+  offset: 0, 0
+  index: -1
+SunDisc/Sun-Disc-Text
+  rotate: true
+  xy: 1256, 398
+  size: 980, 399
+  orig: 980, 399
+  offset: 0, 0
+  index: -1
+SunDisc/SunDisc
+  rotate: false
+  xy: 1, 1
+  size: 1253, 1160
+  orig: 1253, 1160
+  offset: 0, 0
+  index: -1
+SunDisc/Text-BG
+  rotate: false
+  xy: 1657, 789
+  size: 291, 118
+  orig: 291, 118
+  offset: 0, 0
+  index: -1

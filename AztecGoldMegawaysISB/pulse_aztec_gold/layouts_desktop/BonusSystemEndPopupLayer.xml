@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Layout name="bonus_system_end_popups_pixi">
+    <Main>
+        <Element name="props" depth="-1" layerY="0" layerX="0" type="layerProperties"/>
+        <Element name="endPopUpHolder" type="image" resource="x@0.5_FR-Popup" x="365" y="0" width="852" height="449" depth="0 "/>
+        <Element name="endPopUpTexts" type="container" x="630" y="200" depth="1">
+            <Element name="endPopUpPrizeText" type="textField" y="55" height="115" depth="3" class="dialogBody"/>
+            <Element name="resumeButton" x="95" y="170" depth="3" labelStyle="buttonLabelStyle" class="genericbutton"/>
+            <Element name="tapButton" type="container" depth="4" x="0" y="170">
+                <Element name="tapButtonLabel" type="textField" y="0" height="40" depth="3" class="dialogHeader"/>
+            </Element>
+        </Element>
+    </Main>
+    <Styles>
+        <FontStyle name="buttonLabelStyle" fontLabelY="5" fontSize="18" fontColor="0xFDC131" fontWeight="bold" align="center" vAlign="center"/>
+    </Styles>
+    <Classes>
+        <Class name="dialogHeader" labelFontSize="34" x="30" width="270" align="center" vAlign="center" labelFontColor="0xFDC131"/>
+        <Class name="dialogBody" labelFontSize="22" x="-102" width="525" align="center" vAlign="center" labelFontColor="0xffffff"/>
+        <Class name="genericbutton" labelX="0" labelY="0" width="127" height="42"
+               labelWidth="76" labelHeight="25" upState="x@0.5_FR-Button-Up" pressedState="x@0.5_FR-Button-Down"
+               overState="x@0.5_FR-Button-Over" disabledState="x@0.5_FR-Button-Down" type="button"
+               labelFontSize="18" align="center" vAlign="center" labelFontColor="0x333333"/>
+    </Classes>
+</Layout>

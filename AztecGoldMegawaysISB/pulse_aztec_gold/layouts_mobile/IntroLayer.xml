@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<Layout name="intro_pixi">
+    <Main_landscape name="Main_landscape">
+        <Element name="props" depth="-1" layerY="0" layerX="0" type="layerProperties"/>
+        
+<Element type="container" depth="1" name="content_landscape" x="0" y="0">
+    <Element type="container" depth="1" name="features" x="0" y="0"/>
+</Element>
+        
+        
+        <Element type="container" depth="2" name="strip" x="0" y="580">
+            <Element name="stripBar" type="image" depth="0" x="0" y="0" resource="PreDarkBottomArea" width="1584" height="140"/>
+            <Element type="textField" name="continueButtonLabel" depth="1" x="1070" y="0"  width="300" height="140" class="continueLabelLandscape"/>
+            <Element name="toggleHolder" type="container" depth="2" x="0" y="0">
+                <Element name="toggleButton" assetsType="" depth="0" x="197" y="45" width="50" height="50"
+                         onState="FeatCheckboxFull" offState="FeatCheckboxEmpty" type="toggleButton" defaultState="off"/>
+                <Element name="neverShowIntroLabel" class="neverShowLabelLandscape" x="257" y="0" width="400" height="140" />
+            </Element>
+        </Element>
+        
+    </Main_landscape>
+    <Main_portrait name="Main_portrait">
+        <Element name="props" depth="-1" layerY="0" layerX="0" type="layerProperties"/>
+        
+<Element type="container" depth="1" name="content_portrait" x="0" y="0">
+<Element type="container" depth="1" name="features" x="0" y="0"/>
+</Element>
+        
+        
+        <Element type="container" depth="2" name="strip" x="0" y="580">
+            <Element name="stripBar" type="image" depth="0" x="400" y="0" resource="PreDarkBottomArea" width="800" height="180"/>
+            <Element type="textField" name="continueButtonLabel" depth="10"
+                     x="802" y="14" width="440" height="180"
+                     scaleX="0.75" scaleY="0.75" 
+                     class="continueLabelPortrait"/>
+            <Element name="toggleHolder" type="container" depth="2" 
+                     x="490" y="55"
+                     scaleX="0.75" scaleY="0.75">
+                <Element name="toggleButton" assetsType="" depth="0" x="0" y="0" width="70" height="70"
+                         onState="FeatCheckboxFull" offState="FeatCheckboxEmpty" type="toggleButton" defaultState="off"/>
+                <Element name="neverShowIntroLabel" class="neverShowLabelPortrait" x="90" y="-55" width="330" height="180" />
+            </Element>
+        </Element>
+        
+    </Main_portrait>
+
+    <Classes>
+        
+        
+<Class name="continueLabelPortrait" labelFontSize="32" align="center" vAlign="center"
+       labelFontColor="0xFFFFFF"/>
+<Class name="continueLabelLandscape" labelFontSize="26" align="center" vAlign="center"
+       labelFontColor="0xFFFFFF"/>
+<Class name="neverShowLabelPortrait" type="textField" labelFontSize="32" align="left" vAlign="center"
+       labelFontColor="0xFFFFFF"/>
+<Class name="neverShowLabelLandscape" type="textField" labelFontSize="26" align="left" vAlign="center"
+       labelFontColor="0xFFFFFF"/>
+        
+        
+        <Class name="continueLabelPortrait" labelFontSize="32" align="center" vAlign="center" labelFontColor="0xFFFFFF"/>
+        <Class name="continueLabelLandscape" labelFontSize="26" align="center" vAlign="center" labelFontColor="0xFFFFFF"/>
+        <Class name="neverShowLabelPortrait" type="textField" labelFontSize="32" align="left" vAlign="center" labelFontColor="0xFFFFFF"/>
+        <Class name="neverShowLabelLandscape" type="textField" labelFontSize="26" align="left" vAlign="center" labelFontColor="0xFFFFFF"/>
+        
+        
+    </Classes>
+</Layout>

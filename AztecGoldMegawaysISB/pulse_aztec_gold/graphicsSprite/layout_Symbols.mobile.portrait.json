@@ -1,0 +1,50 @@
+{
+  "skeleton": {
+    "images": "images/"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "root!@336096",
+      "parent": "root",
+      "x": 100,
+      "y": 100,
+      "width": 200,
+      "height": 200,
+      "widthRelative": 13.88888888888889,
+      "heightRelative": 6.313131313131313,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        200,
+        200
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    }
+  ],
+  "slots": [],
+  "skins": {
+    "default": {}
+  },
+  "bpm": 100
+}

@@ -1,0 +1,1233 @@
+{
+    "frames": {
+        "MUILandscapeFreeSpinsBackground.png": {
+            "frame": {
+                "x": 4,
+                "y": 4,
+                "w": 1620,
+                "h": 124
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1620,
+                "h": 124
+            },
+            "sourceSize": {
+                "w": 1620,
+                "h": 124
+            }
+        },
+        "Cash_Respins_Text.png": {
+            "frame": {
+                "x": 4,
+                "y": 140,
+                "w": 802,
+                "h": 189
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 2,
+                "w": 802,
+                "h": 189
+            },
+            "sourceSize": {
+                "w": 803,
+                "h": 191
+            }
+        },
+        "Lower_bg.jpg": {
+            "frame": {
+                "x": 4,
+                "y": 341,
+                "w": 720,
+                "h": 632
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 720,
+                "h": 632
+            },
+            "sourceSize": {
+                "w": 720,
+                "h": 632
+            }
+        },
+        "InfoBarBackground.png": {
+            "frame": {
+                "x": 818,
+                "y": 140,
+                "w": 699,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 699,
+                "h": 50
+            },
+            "sourceSize": {
+                "w": 700,
+                "h": 50
+            }
+        },
+        "triggered_Text.png": {
+            "frame": {
+                "x": 818,
+                "y": 202,
+                "w": 594,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 594,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 594,
+                "h": 105
+            }
+        },
+        "Big_Glow.png": {
+            "frame": {
+                "x": 736,
+                "y": 341,
+                "w": 591,
+                "h": 415
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 591,
+                "h": 415
+            },
+            "sourceSize": {
+                "w": 591,
+                "h": 415
+            }
+        },
+        "MW_Glow.png": {
+            "frame": {
+                "x": 4,
+                "y": 985,
+                "w": 585,
+                "h": 427
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 585,
+                "h": 427
+            },
+            "sourceSize": {
+                "w": 585,
+                "h": 427
+            }
+        },
+        "Max_Ways.png": {
+            "frame": {
+                "x": 1339,
+                "y": 341,
+                "w": 579,
+                "h": 211
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 1,
+                "w": 579,
+                "h": 211
+            },
+            "sourceSize": {
+                "w": 579,
+                "h": 212
+            }
+        },
+        "Win-Increment-Background-Middle.png": {
+            "frame": {
+                "x": 601,
+                "y": 985,
+                "w": 534,
+                "h": 220
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 534,
+                "h": 220
+            },
+            "sourceSize": {
+                "w": 534,
+                "h": 220
+            }
+        },
+        "Megaways_Logo.png": {
+            "frame": {
+                "x": 1636,
+                "y": 4,
+                "w": 393,
+                "h": 56
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 393,
+                "h": 56
+            },
+            "sourceSize": {
+                "w": 393,
+                "h": 56
+            }
+        },
+        "Empty_Symbol_3x5-1.png": {
+            "frame": {
+                "x": 736,
+                "y": 768,
+                "w": 326,
+                "h": 196
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 326,
+                "h": 196
+            },
+            "sourceSize": {
+                "w": 326,
+                "h": 196
+            }
+        },
+        "Empty_Symbol_3x6-1.png": {
+            "frame": {
+                "x": 1339,
+                "y": 564,
+                "w": 326,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 326,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 326,
+                "h": 163
+            }
+        },
+        "Empty_Symbol_3x3-1.png": {
+            "frame": {
+                "x": 4,
+                "y": 1424,
+                "w": 326,
+                "h": 326
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 326,
+                "h": 326
+            },
+            "sourceSize": {
+                "w": 326,
+                "h": 326
+            }
+        },
+        "Empty_Symbol_3x4-1.png": {
+            "frame": {
+                "x": 342,
+                "y": 1424,
+                "w": 326,
+                "h": 245
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 326,
+                "h": 245
+            },
+            "sourceSize": {
+                "w": 326,
+                "h": 245
+            }
+        },
+        "Empty_Symbol_3x7-1.png": {
+            "frame": {
+                "x": 1677,
+                "y": 564,
+                "w": 326,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 326,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 326,
+                "h": 140
+            }
+        },
+        "Win-Big-Win-5.png": {
+            "frame": {
+                "x": 680,
+                "y": 1424,
+                "w": 123,
+                "h": 231
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 17,
+                "w": 123,
+                "h": 231
+            },
+            "sourceSize": {
+                "w": 138,
+                "h": 280
+            }
+        },
+        "Win-Big-Win-0.png": {
+            "frame": {
+                "x": 815,
+                "y": 1424,
+                "w": 122,
+                "h": 230
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 18,
+                "w": 122,
+                "h": 230
+            },
+            "sourceSize": {
+                "w": 138,
+                "h": 280
+            }
+        },
+        "Win-Big-Win-9.png": {
+            "frame": {
+                "x": 949,
+                "y": 1424,
+                "w": 136,
+                "h": 228
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 20,
+                "w": 136,
+                "h": 228
+            },
+            "sourceSize": {
+                "w": 138,
+                "h": 280
+            }
+        },
+        "Win-Big-Win-1.png": {
+            "frame": {
+                "x": 1097,
+                "y": 1424,
+                "w": 100,
+                "h": 227
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 18,
+                "y": 18,
+                "w": 100,
+                "h": 227
+            },
+            "sourceSize": {
+                "w": 138,
+                "h": 280
+            }
+        },
+        "Mega_Text.png": {
+            "frame": {
+                "x": 1074,
+                "y": 768,
+                "w": 217,
+                "h": 112
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 217,
+                "h": 112
+            },
+            "sourceSize": {
+                "w": 217,
+                "h": 112
+            }
+        },
+        "Win-Big-Win-3.png": {
+            "frame": {
+                "x": 1147,
+                "y": 985,
+                "w": 130,
+                "h": 217
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 31,
+                "w": 130,
+                "h": 217
+            },
+            "sourceSize": {
+                "w": 138,
+                "h": 280
+            }
+        },
+        "Win-Big-Win-6.png": {
+            "frame": {
+                "x": 1289,
+                "y": 985,
+                "w": 123,
+                "h": 217
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 31,
+                "w": 123,
+                "h": 217
+            },
+            "sourceSize": {
+                "w": 138,
+                "h": 280
+            }
+        },
+        "Win-Big-Win-8.png": {
+            "frame": {
+                "x": 1424,
+                "y": 985,
+                "w": 130,
+                "h": 217
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 31,
+                "w": 130,
+                "h": 217
+            },
+            "sourceSize": {
+                "w": 138,
+                "h": 280
+            }
+        },
+        "Win-Big-Win-2.png": {
+            "frame": {
+                "x": 1566,
+                "y": 985,
+                "w": 130,
+                "h": 214
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 31,
+                "w": 130,
+                "h": 214
+            },
+            "sourceSize": {
+                "w": 138,
+                "h": 280
+            }
+        },
+        "Win-Big-Win-4.png": {
+            "frame": {
+                "x": 1708,
+                "y": 985,
+                "w": 127,
+                "h": 211
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 34,
+                "w": 127,
+                "h": 211
+            },
+            "sourceSize": {
+                "w": 138,
+                "h": 280
+            }
+        },
+        "Win-Big-Win-7.png": {
+            "frame": {
+                "x": 1930,
+                "y": 341,
+                "w": 109,
+                "h": 211
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 17,
+                "y": 34,
+                "w": 109,
+                "h": 211
+            },
+            "sourceSize": {
+                "w": 138,
+                "h": 280
+            }
+        },
+        "Mini_Text.png": {
+            "frame": {
+                "x": 1303,
+                "y": 768,
+                "w": 210,
+                "h": 112
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 210,
+                "h": 112
+            },
+            "sourceSize": {
+                "w": 210,
+                "h": 112
+            }
+        },
+        "Major_text.png": {
+            "frame": {
+                "x": 1525,
+                "y": 768,
+                "w": 210,
+                "h": 112
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 210,
+                "h": 112
+            },
+            "sourceSize": {
+                "w": 210,
+                "h": 112
+            }
+        },
+        "Particle-Coin-6.png": {
+            "frame": {
+                "x": 1636,
+                "y": 72,
+                "w": 198,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 84,
+                "w": 198,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 200
+            }
+        },
+        "Particle-Coin-5.png": {
+            "frame": {
+                "x": 601,
+                "y": 1217,
+                "w": 198,
+                "h": 154
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 15,
+                "w": 198,
+                "h": 154
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 200
+            }
+        },
+        "Particle-Coin-7.png": {
+            "frame": {
+                "x": 811,
+                "y": 1217,
+                "w": 198,
+                "h": 154
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 31,
+                "w": 198,
+                "h": 154
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 200
+            }
+        },
+        "Particle-Coin-8.png": {
+            "frame": {
+                "x": 1209,
+                "y": 1424,
+                "w": 198,
+                "h": 196
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 2,
+                "w": 198,
+                "h": 196
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 200
+            }
+        },
+        "Particle-Coin-1.png": {
+            "frame": {
+                "x": 1419,
+                "y": 1424,
+                "w": 198,
+                "h": 156
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 14,
+                "w": 198,
+                "h": 156
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 200
+            }
+        },
+        "Particle-Coin-2.png": {
+            "frame": {
+                "x": 1846,
+                "y": 72,
+                "w": 198,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 84,
+                "w": 198,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 200
+            }
+        },
+        "Particle-Coin-3.png": {
+            "frame": {
+                "x": 1021,
+                "y": 1217,
+                "w": 198,
+                "h": 154
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 31,
+                "w": 198,
+                "h": 154
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 200
+            }
+        },
+        "Particle-Coin-4.png": {
+            "frame": {
+                "x": 4,
+                "y": 1762,
+                "w": 198,
+                "h": 196
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 2,
+                "w": 198,
+                "h": 196
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 200
+            }
+        },
+        "Frame-Counter-Win-0.png": {
+            "frame": {
+                "x": 1847,
+                "y": 985,
+                "w": 69,
+                "h": 119
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 17,
+                "w": 69,
+                "h": 119
+            },
+            "sourceSize": {
+                "w": 86,
+                "h": 162
+            }
+        },
+        "Frame-Counter-Win-6.png": {
+            "frame": {
+                "x": 1928,
+                "y": 985,
+                "w": 71,
+                "h": 118
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 7,
+                "y": 17,
+                "w": 71,
+                "h": 118
+            },
+            "sourceSize": {
+                "w": 86,
+                "h": 162
+            }
+        },
+        "Frame-Counter-Win-3.png": {
+            "frame": {
+                "x": 1231,
+                "y": 1217,
+                "w": 69,
+                "h": 118
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 9,
+                "y": 17,
+                "w": 69,
+                "h": 118
+            },
+            "sourceSize": {
+                "w": 86,
+                "h": 162
+            }
+        },
+        "Frame-Counter-Win-8.png": {
+            "frame": {
+                "x": 1312,
+                "y": 1217,
+                "w": 70,
+                "h": 118
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 17,
+                "w": 70,
+                "h": 118
+            },
+            "sourceSize": {
+                "w": 86,
+                "h": 162
+            }
+        },
+        "Frame-Counter-Win-9.png": {
+            "frame": {
+                "x": 1394,
+                "y": 1217,
+                "w": 71,
+                "h": 118
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 7,
+                "y": 17,
+                "w": 71,
+                "h": 118
+            },
+            "sourceSize": {
+                "w": 86,
+                "h": 162
+            }
+        },
+        "Frame-Counter-Win-5.png": {
+            "frame": {
+                "x": 1477,
+                "y": 1217,
+                "w": 69,
+                "h": 117
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 19,
+                "w": 69,
+                "h": 117
+            },
+            "sourceSize": {
+                "w": 86,
+                "h": 162
+            }
+        },
+        "Frame-Counter-Win-2.png": {
+            "frame": {
+                "x": 1558,
+                "y": 1217,
+                "w": 67,
+                "h": 117
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 10,
+                "y": 18,
+                "w": 67,
+                "h": 117
+            },
+            "sourceSize": {
+                "w": 86,
+                "h": 162
+            }
+        },
+        "Frame-Counter-Win-4.png": {
+            "frame": {
+                "x": 1637,
+                "y": 1217,
+                "w": 73,
+                "h": 114
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 21,
+                "w": 73,
+                "h": 114
+            },
+            "sourceSize": {
+                "w": 86,
+                "h": 162
+            }
+        },
+        "Frame-Counter-Win-1.png": {
+            "frame": {
+                "x": 1722,
+                "y": 1217,
+                "w": 53,
+                "h": 114
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 13,
+                "y": 21,
+                "w": 53,
+                "h": 114
+            },
+            "sourceSize": {
+                "w": 86,
+                "h": 162
+            }
+        },
+        "Frame-Counter-Win-7.png": {
+            "frame": {
+                "x": 1787,
+                "y": 1217,
+                "w": 58,
+                "h": 114
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 14,
+                "y": 21,
+                "w": 58,
+                "h": 114
+            },
+            "sourceSize": {
+                "w": 86,
+                "h": 162
+            }
+        },
+        "Frame-Counter-Win-X.png": {
+            "frame": {
+                "x": 1424,
+                "y": 202,
+                "w": 64,
+                "h": 92
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 11,
+                "y": 44,
+                "w": 64,
+                "h": 92
+            },
+            "sourceSize": {
+                "w": 86,
+                "h": 162
+            }
+        },
+        "Win-Big-Win-Comma.png": {
+            "frame": {
+                "x": 1500,
+                "y": 202,
+                "w": 48,
+                "h": 82
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 10,
+                "y": 186,
+                "w": 48,
+                "h": 82
+            },
+            "sourceSize": {
+                "w": 58,
+                "h": 280
+            }
+        },
+        "Win-Big-Win-Dot.png": {
+            "frame": {
+                "x": 1560,
+                "y": 202,
+                "w": 67,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 170,
+                "w": 67,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 67,
+                "h": 280
+            }
+        },
+        "Megaways_0.png": {
+            "frame": {
+                "x": 1639,
+                "y": 202,
+                "w": 53,
+                "h": 68
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 1,
+                "w": 53,
+                "h": 68
+            },
+            "sourceSize": {
+                "w": 59,
+                "h": 70
+            }
+        },
+        "Megaways_3.png": {
+            "frame": {
+                "x": 1704,
+                "y": 202,
+                "w": 47,
+                "h": 67
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 1,
+                "w": 47,
+                "h": 67
+            },
+            "sourceSize": {
+                "w": 49,
+                "h": 70
+            }
+        },
+        "Megaways_8.png": {
+            "frame": {
+                "x": 1763,
+                "y": 202,
+                "w": 48,
+                "h": 67
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 1,
+                "w": 48,
+                "h": 67
+            },
+            "sourceSize": {
+                "w": 55,
+                "h": 70
+            }
+        },
+        "Megaways_2.png": {
+            "frame": {
+                "x": 1823,
+                "y": 202,
+                "w": 49,
+                "h": 66
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 2,
+                "w": 49,
+                "h": 66
+            },
+            "sourceSize": {
+                "w": 54,
+                "h": 70
+            }
+        },
+        "Megaways_5.png": {
+            "frame": {
+                "x": 1884,
+                "y": 202,
+                "w": 48,
+                "h": 66
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 2,
+                "w": 48,
+                "h": 66
+            },
+            "sourceSize": {
+                "w": 54,
+                "h": 70
+            }
+        },
+        "Megaways_6.png": {
+            "frame": {
+                "x": 1944,
+                "y": 202,
+                "w": 52,
+                "h": 66
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 2,
+                "w": 52,
+                "h": 66
+            },
+            "sourceSize": {
+                "w": 62,
+                "h": 70
+            }
+        },
+        "Megaways_9.png": {
+            "frame": {
+                "x": 1747,
+                "y": 768,
+                "w": 52,
+                "h": 66
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 2,
+                "w": 52,
+                "h": 66
+            },
+            "sourceSize": {
+                "w": 62,
+                "h": 70
+            }
+        },
+        "Megaways_4.png": {
+            "frame": {
+                "x": 1811,
+                "y": 768,
+                "w": 55,
+                "h": 65
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 2,
+                "w": 55,
+                "h": 65
+            },
+            "sourceSize": {
+                "w": 61,
+                "h": 70
+            }
+        },
+        "Megaways_1.png": {
+            "frame": {
+                "x": 2008,
+                "y": 202,
+                "w": 29,
+                "h": 65
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 2,
+                "w": 29,
+                "h": 65
+            },
+            "sourceSize": {
+                "w": 34,
+                "h": 70
+            }
+        },
+        "Megaways_7.png": {
+            "frame": {
+                "x": 1878,
+                "y": 768,
+                "w": 43,
+                "h": 65
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 2,
+                "w": 43,
+                "h": 65
+            },
+            "sourceSize": {
+                "w": 55,
+                "h": 70
+            }
+        },
+        "Frame-Counter-Win-Comma.png": {
+            "frame": {
+                "x": 1529,
+                "y": 140,
+                "w": 26,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 7,
+                "y": 102,
+                "w": 26,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 40,
+                "h": 162
+            }
+        },
+        "Frame-Counter-Win-Dot.png": {
+            "frame": {
+                "x": 1567,
+                "y": 140,
+                "w": 28,
+                "h": 33
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 102,
+                "w": 28,
+                "h": 33
+            },
+            "sourceSize": {
+                "w": 44,
+                "h": 162
+            }
+        }
+    },
+    "meta": {
+        "image": "Main.mobile.landscape.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 2048,
+            "h": 2048
+        },
+        "scale": "1"
+    }
+}

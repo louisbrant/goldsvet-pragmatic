@@ -1,0 +1,33 @@
+{
+    "frames": {
+        "feature_reel_frame.png": {
+            "frame": {
+                "x": 4,
+                "y": 4,
+                "w": 1271,
+                "h": 1146
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1271,
+                "h": 1146
+            },
+            "sourceSize": {
+                "w": 1271,
+                "h": 1146
+            }
+        }
+    },
+    "meta": {
+        "image": "FeatureScreen.desktop.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 2048,
+            "h": 2048
+        },
+        "scale": "1"
+    }
+}

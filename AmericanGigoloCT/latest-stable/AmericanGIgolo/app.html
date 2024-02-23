@@ -1,0 +1,91 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0"/>
+<meta name="msapplication-tap-highlight" content="no"/>
+
+<title></title>
+<link rel="stylesheet" href="../css/start.min.css">
+<script type="text/javascript" src="../jquery-2.2.4.min.js"></script>
+<script class="scripts" type="text/javascript" src="../jquery.pixelentity.shiner.min.js"></script>
+<script type="text/javascript" srcx="../system/casino_settings1.min.js"></script>
+<script type="text/javascript" srcx="../rgs/first1.min.js"></script>
+<script type="text/javascript" srcx="../rgs/preloader2.min.js"></script>
+
+<script type="text/javascript">
+var gameName = "AmericanGIgolo",
+	gameID = "ac03c4f57645c970d593f8256e5375f3",
+	game_name = "American Gigolo";
+	
+document.title = game_name;
+	
+function loadScript( url, callback ) {
+  var script = document.createElement( "script" )
+  script.type = "text/javascript";
+  if(script.readyState) {  //IE
+    script.onreadystatechange = function() {
+      if ( script.readyState === "loaded" || script.readyState === "complete" ) {
+        script.onreadystatechange = null;
+        callback();
+      }
+    };
+  } else {  //Others
+    script.onload = function() {
+      callback();
+    };
+  }
+
+  script.src = url;
+  document.getElementsByTagName( "head" )[0].appendChild( script );
+}
+var scripts__ = 3, done__ = 0;
+$(window).on('load', function(){
+	$.each($('script[srcx]'), function(){
+		var source_ = $(this).attr('srcx');
+		loadScript(source_+'?v=' + new Date().getTime(), function() {
+		  done__++;
+			if (scripts__ === done__) {
+				_App=new App();
+				_App.createSession();
+			}
+		});
+		$(this).remove();
+	});
+})
+</script>
+</head>
+
+<body ondragstart="return false;" ondrop="return false;" class="tk-myriad-pro">
+<div id="preloader">
+	<div class="wrapper">
+		<div id="preloader_imgs_full" style="background-image:url(../images/CTLoader_interactive.png)" alt="/"></div>
+		<div class="peShiner"  style="margin: 0px auto; position: relative; padding: 0px; outline: 0px; width: 304px; height: 83px;">
+			<img src="../images/CTLoader_empty.png" width="300" height="79" data-color="fire" alt="LOGO" style="border: 0px none; outline: 0px; opacity: 0;">
+		</div>
+	</div>
+	<div id="soundBtns">
+		<div id="withSound" class="sndBtn" style="background-image:url(../interface/1024/menu_button_sound_yes.png); right:-45px"></div>
+		<div id="withoutSound" class="sndBtn" style="background-image:url(../interface/1024/menu_button_sound_no.png); left:-45px"></div>
+		<div id="textSound" style="top:100px; position:relative; text-align:center; font-size:30px"></div>
+	</div>
+</div>
+<div id="gameContainer">
+	<div id="gameLayer">
+		<div id="Top">	
+			<div id="jackpot_name"></div>
+			<div id="jackpot_frame"></div>
+		</div>
+		<div id="showWins_frame"></div>
+		<div id="menuWindow"></div>
+		<div id="congr_win"></div>
+		<div id="symbolHelp_frame"></div>
+    </div>
+	<div id="topJackpot"></div>
+    <div id="gameMenuInterface"></div>
+    <div id="gameDoubleInterface"></div>
+	<div id="helpButtons" >	</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,53 @@
+{
+    "frames": {
+        "legal_text.png": {
+            "frame": {
+                "x": 4,
+                "y": 4,
+                "w": 448,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 448,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 448,
+                "h": 49
+            }
+        },
+        "AGM_Logo.png": {
+            "frame": {
+                "x": 4,
+                "y": 65,
+                "w": 342,
+                "h": 224
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 342,
+                "h": 224
+            },
+            "sourceSize": {
+                "w": 342,
+                "h": 224
+            }
+        }
+    },
+    "meta": {
+        "image": "Preloader.mobile.landscape.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 512,
+            "h": 512
+        },
+        "scale": "1"
+    }
+}

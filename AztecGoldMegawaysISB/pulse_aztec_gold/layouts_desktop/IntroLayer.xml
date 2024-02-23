@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Layout name="intro_pixi">
+    <Main>
+        <Element name="props" depth="-1" layerY="0" layerX="0" type="layerProperties"/>
+        
+<Element type="container" depth="1" name="content_landscape" x="0" y="0" />
+        
+        
+        <Element type="container" depth="2" name="strip" x="0" y="620">
+            
+            <Element name="stripBar" type="image" depth="0" x="0" y="0" resource="PreDarkBottomArea" width="1584"
+                     height="102"/>
+            
+            <Element name="continueButton" depth="3" x="735" y="33" labelX="0" labelY="0"
+                     width="114" height="31" labelWidth="128" labelHeight="34" upState="GenericButtonUp"
+                     pressedState="GenericButtonDown"
+                     overState="GenericButtonOver" disabledState="GenericButtonDisable" class="continueLabel"
+                     type="button"/>
+            <Element name="toggleHolder" type="container" depth="2" x="190" y="38">
+                <Element name="toggleButton"  depth="0" x="4" y="1" width="23" height="23"
+                         onState="FeatCheckboxFull" offState="FeatCheckboxEmpty" type="toggleButton"
+                         defaultState="off"/>
+                <Element name="neverShowIntroLabel" class="neverShowLabel" x="32" y="-2" width="300" height="30"/>
+            </Element>
+        </Element>
+    </Main>
+    <Classes>
+        
+<Class name="continueLabel" labelFontSize="12" align="center" vAlign="center" labelFontColor="0x333333"/>
+<Class name="neverShowLabel" type="textField" labelFontSize="12.5" align="left" vAlign="center"
+       labelFontColor="0xFFFFFF"/>
+        
+    </Classes>
+</Layout>

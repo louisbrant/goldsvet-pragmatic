@@ -1,0 +1,117 @@
+
+IntroTransition-Mobile.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big glow
+  rotate: false
+  xy: 1, 1
+  size: 396, 178
+  orig: 396, 178
+  offset: 0, 0
+  index: -1
+fly-blue
+  rotate: false
+  xy: 464, 1
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Light-1-red
+  rotate: false
+  xy: 459, 119
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+light-1
+  rotate: false
+  xy: 451, 223
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+MA-diamond-sparkle
+  rotate: true
+  xy: 399, 1
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+Rays-2
+  rotate: true
+  xy: 1, 181
+  size: 286, 64
+  orig: 286, 64
+  offset: 0, 0
+  index: -1
+Rays-8
+  rotate: false
+  xy: 399, 57
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+ShockWave
+  rotate: false
+  xy: 399, 119
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Spiral1
+  rotate: false
+  xy: 244, 181
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Spiral2
+  rotate: false
+  xy: 244, 333
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Text-Glow
+  rotate: true
+  xy: 67, 275
+  size: 222, 175
+  orig: 222, 175
+  offset: 0, 0
+  index: -1
+WhiteGradient-2
+  rotate: false
+  xy: 459, 171
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+WhiteGradient-3
+  rotate: false
+  xy: 399, 179
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+
+IntroTransition-Mobile2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LOGO
+  rotate: false
+  xy: 1, 1
+  size: 397, 291
+  orig: 397, 291
+  offset: 0, 0
+  index: -1
+tree-leaves
+  rotate: false
+  xy: 1, 294
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1

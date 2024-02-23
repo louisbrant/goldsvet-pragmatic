@@ -1,0 +1,243 @@
+{
+  "Preloader.desktop": {
+    "name": "Preloader.desktop",
+    "dependencies": [
+      {
+        "path": "spritesheets/standalone/Preloader_BG.jpg",
+        "type": "image",
+        "size": 574595
+      },
+      {
+        "path": "Preloader.desktop.json",
+        "type": "layout",
+        "size": 31225
+      },
+      {
+        "path": "spritesheets/Preloader.desktop.json",
+        "type": "spritesheet",
+        "size": 407082
+      }
+    ]
+  },
+  "FeatureScreen.desktop": {
+    "name": "FeatureScreen.desktop",
+    "dependencies": [
+      {
+        "path": "spritesheets/standalone/Feature5.jpg",
+        "type": "image",
+        "size": 158735
+      },
+      {
+        "path": "fonts/DUNGEONS.TTF",
+        "type": "font",
+        "size": 11668
+      },
+      {
+        "path": "spritesheets/standalone/Feature4.jpg",
+        "type": "image",
+        "size": 237841
+      },
+      {
+        "path": "spritesheets/standalone/Feature3wide.jpg",
+        "type": "image",
+        "size": 388222
+      },
+      {
+        "path": "spritesheets/standalone/Feature_2.jpg",
+        "type": "image",
+        "size": 336570
+      },
+      {
+        "path": "spritesheets/standalone/Feature_1.jpg",
+        "type": "image",
+        "size": 347095
+      },
+      {
+        "path": "FeatureScreen.desktop.json",
+        "type": "layout",
+        "size": 96043
+      },
+      {
+        "path": "spritesheets/FeatureScreen.desktop.json",
+        "type": "spritesheet",
+        "size": 192351
+      }
+    ]
+  },
+  "Main.desktop": {
+    "name": "Main.desktop",
+    "dependencies": [
+      {
+        "path": "spritesheets/standalone/WideBackground.jpg",
+        "type": "image",
+        "size": 553664
+      },
+      {
+        "type": "spineWithAtlas",
+        "spine": {
+          "path": "animations/spine/NearMiss.json",
+          "type": "spine",
+          "size": 20998
+        },
+        "atlas": {
+          "path": "animations/spine/NearMiss.atlas",
+          "type": "spineAtlas",
+          "size": 485
+        }
+      },
+      {
+        "type": "spineWithAtlas",
+        "spine": {
+          "path": "animations/spine/BackgroundAnimations.json",
+          "type": "spine",
+          "size": 585700
+        },
+        "atlas": {
+          "path": "animations/spine/BackgroundAnimations-Mobile.atlas",
+          "type": "spineAtlas",
+          "size": 5174
+        }
+      },
+      {
+        "type": "spineWithAtlas",
+        "spine": {
+          "path": "animations/spine/FeaturesAnimations.json",
+          "type": "spine",
+          "size": 69619
+        },
+        "atlas": {
+          "path": "animations/spine/FeaturesAnimations.atlas",
+          "type": "spineAtlas",
+          "size": 5517
+        }
+      },
+      {
+        "type": "spineWithAtlas",
+        "spine": {
+          "path": "animations/spine/wheelAnimation.json",
+          "type": "spine",
+          "size": 54671
+        },
+        "atlas": {
+          "path": "animations/spine/wheelAnimation.atlas",
+          "type": "spineAtlas",
+          "size": 384
+        }
+      },
+      {
+        "type": "spineWithAtlas",
+        "spine": {
+          "path": "animations/spine/Special messages.json",
+          "type": "spine",
+          "size": 84810
+        },
+        "atlas": {
+          "path": "animations/spine/Special messages.atlas",
+          "type": "spineAtlas",
+          "size": 3119
+        }
+      },
+      {
+        "type": "spineWithAtlas",
+        "spine": {
+          "path": "animations/spine/IntroTransition.json",
+          "type": "spine",
+          "size": 55601
+        },
+        "atlas": {
+          "path": "animations/spine/IntroTransition-Mobile.atlas",
+          "type": "spineAtlas",
+          "size": 1785
+        }
+      },
+      {
+        "path": "Main.desktop.json",
+        "type": "layout",
+        "size": 2004110
+      },
+      {
+        "path": "spritesheets/Main.desktop.json",
+        "type": "spritesheet",
+        "size": 2278545
+      }
+    ]
+  },
+  "Symbols.desktop": {
+    "name": "Symbols.desktop",
+    "dependencies": [
+      {
+        "type": "spineWithAtlas",
+        "spine": {
+          "path": "animations/spine/All-Symbols-Animation.json",
+          "type": "spine",
+          "size": 734825
+        },
+        "atlas": {
+          "path": "animations/spine/All-Symbols-Animation.atlas",
+          "type": "spineAtlas",
+          "size": 8647
+        }
+      },
+      {
+        "path": "Symbols.desktop.json",
+        "type": "layout",
+        "size": 1125443
+      },
+      {
+        "path": "spritesheets/Symbols.desktop.json",
+        "type": "spritesheet",
+        "size": 3244410
+      },
+      {
+        "path": "spritesheets/Symbols.desktop1.json",
+        "type": "spritesheet",
+        "size": 2395658
+      }
+    ]
+  },
+  "Paytable.desktop": {
+    "name": "Paytable.desktop",
+    "dependencies": [
+      {
+        "path": "Paytable.desktop.json",
+        "type": "layout",
+        "size": 452040
+      },
+      {
+        "path": "spritesheets/Paytable.desktop.json",
+        "type": "spritesheet",
+        "size": 170360
+      }
+    ]
+  },
+  "ReSpins.desktop": {
+    "name": "ReSpins.desktop",
+    "dependencies": [
+      {
+        "path": "spritesheets/standalone/reSpins_Background.jpg",
+        "type": "image",
+        "size": 631484
+      },
+      {
+        "path": "ReSpins.desktop.json",
+        "type": "layout",
+        "size": 2071975
+      },
+      {
+        "path": "spritesheets/ReSpins.desktop.json",
+        "type": "spritesheet",
+        "size": 2298255
+      }
+    ]
+  },
+  "WinText.desktop": {
+    "name": "WinText.desktop",
+    "dependencies": [
+      {
+        "path": "WinText.desktop.json",
+        "type": "layout",
+        "size": 6851
+      }
+    ]
+  }
+}

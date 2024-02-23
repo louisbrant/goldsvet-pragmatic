@@ -1,0 +1,108 @@
+{"frames": {
+
+	"MUIBalanceStrip.png":
+	{
+		"frame": {"x":293,"y":426,"w":94,"h":94},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":94,"h":94},
+		"sourceSize": {"w":94,"h":94}
+	},
+	"MUIBottomBar.png":
+	{
+		"frame": {"x":293,"y":527,"w":94,"h":94},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":94,"h":94},
+		"sourceSize": {"w":94,"h":94}
+	},
+	"MUIRotatePhone.png":
+	{
+		"frame": {"x":426,"y":6,"w":388,"h":794},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":388,"h":794},
+		"sourceSize": {"w":388,"h":794}
+	},
+	"MUISpinButtonBackground.png":
+	{
+		"frame": {"x":6,"y":6,"w":413,"h":413},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":413,"h":413},
+		"sourceSize": {"w":413,"h":413}
+	},
+	"MUIStopButtonDisable.png":
+	{
+		"frame": {"x":6,"y":1111,"w":246,"h":250},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":246,"h":250},
+		"sourceSize": {"w":246,"h":250}
+	},
+	"MUIStopButtonDown.png":
+	{
+		"frame": {"x":259,"y":1111,"w":246,"h":250},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":246,"h":250},
+		"sourceSize": {"w":246,"h":250}
+	},
+	"MUIStopButtonOver.png":
+	{
+		"frame": {"x":821,"y":6,"w":246,"h":250},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":246,"h":250},
+		"sourceSize": {"w":246,"h":250}
+	},
+	"MUIStopButtonUp.png":
+	{
+		"frame": {"x":821,"y":263,"w":246,"h":250},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":246,"h":250},
+		"sourceSize": {"w":246,"h":250}
+	},
+	"MUISwipe.png":
+	{
+		"frame": {"x":6,"y":426,"w":280,"h":678},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":280,"h":678},
+		"sourceSize": {"w":280,"h":678}
+	},
+	"MUIToggleButtonOff.png":
+	{
+		"frame": {"x":293,"y":807,"w":342,"h":131},
+		"rotated": false,
+		"trimmed": true,
+		"spriteSourceSize": {"x":4,"y":1,"w":342,"h":131},
+		"sourceSize": {"w":350,"h":133}
+	},
+	"MUIToggleButtonOn.png":
+	{
+		"frame": {"x":293,"y":945,"w":342,"h":131},
+		"rotated": false,
+		"trimmed": true,
+		"spriteSourceSize": {"x":4,"y":1,"w":342,"h":131},
+		"sourceSize": {"w":350,"h":133}
+	},
+	"MUITouchIcon.png":
+	{
+		"frame": {"x":642,"y":807,"w":320,"h":320},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+		"sourceSize": {"w":320,"h":320}
+	}},
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "SpriteSheets3.png",
+		"format": "RGBA8888",
+		"size": {"w":2048,"h":2048},
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:5d2238d023eafaed1b2187d4ee84169c:cee941cbe0ab2c596140fc8207b89210:6a21ea143298026d5fc4969db7ef9383$"
+	}
+}

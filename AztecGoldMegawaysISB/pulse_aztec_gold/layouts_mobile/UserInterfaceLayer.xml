@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout name="user_interface_pixi">
+    <Main_landscape name="Main_landscape">
+        <Element name="props" depth="-1" layerY="0" layerX="0" type="layerProperties"/>
+        <Element name="gameplayButtonsContainer" depth="0" type="container" x="0" y="0">
+
+            <Element name="actionButtonContainer" depth="0" type="container" x="800" y="213">
+                <Element name="actionButtonBg" depth="1" type="image" resource="MUISpinButtonBackground" x="0" y="0"
+                         width="174" height="174"/>
+                <Element name="uiSpinButton" depth="2" type="button" x="19" y="19" width="136" height="136"
+                         upState="MUISpinButtonUp" pressedState="MUISpinButtonDown" overState="MUISpinButtonOver"
+                         disabledState="MUISpinButtonDisable"/>
+                <Element name="uiSkipButton" depth="2" type="button" x="19" y="19" width="136" height="136"
+                         upState="MUISkipButtonUp" pressedState="MUISkipButtonDown" overState="MUISkipButtonOver"
+                         disabledState="MUISkipButtonDisable"/>
+                <Element name="uiStopSpinButton" depth="2" type="button" x="19" y="19" width="136" height="136"
+                         upState="MUIStopButtonUp" pressedState="MUIStopButtonDown" overState="MUIStopButtonOver"
+                         disabledState="MUIStopButtonDisable"/>
+                
+                
+            </Element>
+        </Element>
+
+        <Element name="coinValuePanel" depth="2" type="scrollingContainer" x="0" y="0" width="920" height="510" mask="false">
+            <Element name="coinValueContainer" depth="1" type="container" x="130" y="0">
+                <Element name="uiTotalBet2Label" depth="1" x="55" y="0" width="660" height="60"
+                         style="mnCoinLabel" type="textField" label=""/>
+                <Element name="uiTotalBetValue" depth="1" x="55" y="35" width="660" height="120"
+                         style="mnBetValueLabel" type="textField" label="$3.00"/>
+                <Element name="uiTotalBetCoinsValue" depth="1" x="55" y="118" width="660" height="60"
+                         style="mnBetInCoinsLabel" type="textField" label="(30 coins)"/>
+                <Element name="uiCoinValueSeparator" depth="1" type="image"
+                         resource="SettingsSeparator" x="0" y="190" width="720" height="2"/>
+                <Element name="uiCoinValueLabel" depth="1" x="55" y="200" width="660" height="60"
+                         style="mnCoinLabel" type="textField" label=""/>
+                <Element name="uiCoinValueStepper" depth="2" type="stepper" minValue="0" maxValue="2000"
+                         middle="139" padding="6" x="230" y="280" width="304" height="88" fontSize="36" initial="1"/>
+
+                <Element name="coinValuePanelBetPerLineContainer" depth="1" type="container" x="0" y="400">
+                    <Element name="uiBetPerLineSeparator" depth="1" type="image"
+                             resource="SettingsSeparator" x="0" y="0" width="720" height="2"/>
+                    <Element name="menuBetPerLineValueButton" depth="1" x="55" y="10" width="660" height="60"
+                             style="mnCoinLabel" type="textField" label=""/>
+                    <Element name="uiBetPerLineStepper" depth="2" type="stepper" minValue="0" maxValue="2000"
+                             middle="139" x="230" y="80" width="304" height="88" fontSize="36" initial="1"/>
+                </Element>
+            </Element>
+            <Element name="betLevelContentsContainer" depth="0" type="container" x="0" y="0" visible="false" />
+            <Element name="coinValueHolder" depth="1" type="container" x="-240" y="200" visible="false">
+                <Element name="uiCoinValueHolderLabel" depth="1" x="55" y="200" width="660" height="60"
+                         style="mnCoinHolderLabel" type="textField" label=""/>
+                <Element name="uiCoinValueHolderValue" depth="1" x="55" y="240" width="660" height="60"
+                         style="mnCoinHolderValue" type="textField" label=""/>
+            </Element>
+        </Element>
+
+        <Element name="trademarkText" depth="3" type="textField" x="150" y="620" width="400" height="100"
+                 class="trademarkLabel"/>
+    </Main_landscape>
+    <Main_portrait name="Main_portrait">
+        <Element name="props" depth="-1" layerY="0" layerX="0" type="layerProperties"/>
+        <Element name="gameplayButtonsContainer" depth="0" type="container" x="0" y="0">
+            <Element name="portraitBGContainer" depth="0" type="container" x="0" y="0">
+                
+                
+            </Element>
+            <Element name="actionButtonContainer" depth="1" type="container" x="265" y="840" scaleX="0.75" scaleY="0.75">
+
+                <Element name="uiSpinButton" depth="2" type="button" x="30" y="30" width="270" height="270"
+                         upState="MUISpinButtonUp" pressedState="MUISpinButtonDown" overState="MUISpinButtonOver"
+                         disabledState="MUISpinButtonDisable"/>
+                <Element name="uiSkipButton" depth="2" type="button" x="30" y="30" width="270" height="270"
+                         upState="MUISkipButtonUp" pressedState="MUISkipButtonDown" overState="MUISkipButtonOver"
+                         disabledState="MUISkipButtonDisable"/>
+                <Element name="uiStopSpinButton" depth="2" type="button" x="30" y="30" width="270" height="270"
+                         upState="MUIStopButtonUp" pressedState="MUIStopButtonDown" overState="MUIStopButtonOver"
+                         disabledState="MUIStopButtonDisable"/>
+                
+                
+                <Element name="spinBG" depth="0" type="image" resource="MUISpinButtonBackground" x="0" y="0" width="330"
+                         height="330"/>
+
+            </Element>
+        </Element>
+        <Element name="coinValuePanel" depth="2" type="scrollingContainer" x="0" y="0" width="800" height="1100" mask="false">
+            <Element name="coinValueContainer" depth="1" type="container" x="20" y="10">
+                <Element name="uiTotalBet2Label" depth="1" x="55" y="0" width="660" height="60"
+                         style="mnCoinLabel" type="textField" label=""/>
+                <Element name="uiTotalBetValue" depth="1" x="55" y="35" width="660" height="120"
+                         style="mnBetValueLabel" type="textField" label="$3.00"/>
+                <Element name="uiTotalBetCoinsValue" depth="1" x="55" y="118" width="660" height="60"
+                         style="mnBetInCoinsLabel" type="textField" label="(30 coins)"/>
+                <Element name="uiCoinValueSeparator" depth="1" type="image"
+                         resource="SettingsSeparator" x="0" y="190" width="720" height="2"/>
+                <Element name="uiCoinValueLabel" depth="1" x="55" y="200" width="660" height="60"
+                         style="mnCoinLabel" type="textField" label=""/>
+                <Element name="uiCoinValueStepper" depth="2" type="stepper" minValue="0" maxValue="2000"
+                         middle="139" padding="6" x="230" y="280" width="304" height="88" fontSize="36" initial="1"/>
+
+                <Element name="coinValuePanelBetPerLineContainer" depth="1" type="container" x="0" y="400">
+                    <Element name="uiBetPerLineSeparator" depth="1" type="image"
+                             resource="SettingsSeparator" x="0" y="0" width="720" height="2"/>
+                    <Element name="menuBetPerLineValueButton" depth="1" x="55" y="10" width="660" height="60"
+                             style="mnCoinLabel" type="textField" label=""/>
+                    <Element name="uiBetPerLineStepper" depth="2" type="stepper" minValue="0" maxValue="2000"
+                             middle="139" x="230" y="80" width="304" height="88" fontSize="36" initial="1"/>
+                </Element>
+            </Element>
+            <Element name="betLevelContentsContainer" depth="0" type="container" x="0" y="0" visible="false" />
+            <Element name="coinValueHolder" depth="1" type="container" x="-40" y="0" visible="false">
+                <Element name="uiCoinValueHolderLabel" depth="1" x="55" y="0" width="200" height="60"
+                         style="mnCoinHolderLabel" type="textField" label=""/>
+                <Element name="uiCoinValueHolderValue" depth="1" x="55" y="40" width="200" height="60"
+                         style="mnCoinHolderValue" type="textField" label=""/>
+            </Element>
+        </Element>
+    </Main_portrait>
+    <Styles>
+        <FontStyle name="mnTextLandscape" fontSize="40" fontColor="0xFFFFFF" align="center" vAlign="center"/>
+        <FontStyle name="mnTextPortrait" fontSize="70" fontColor="0xFFFFFF" align="center" vAlign="center"/>
+        <FontStyle name="mnBetValueLabel" fontSize="74" fontColor="0xFFFFFF" align="center" vAlign="center"/>
+        <FontStyle name="mnBetInCoinsLabel" fontSize="21" fontColor="0xFFFFFF" align="center" vAlign="center"/>
+        <FontStyle name="mnCoinLabel" fontSize="26" fontColor="0xFFFFFF" align="center" vAlign="center"/>
+        <FontStyle name="mnCoinHolderLabel" fontSize="26" fontColor="0xFFFFFF" align="center" vAlign="center" fontFamily="noto_sanscondensed_bold"/>
+        <FontStyle name="mnCoinHolderValue" fontSize="40" fontColor="0xFFFFFF" align="center" vAlign="center" fontFamily="noto_sanscondensed_bold"/>
+    </Styles>
+    <Classes>
+        <Class name="trademarkLabel" labelFontSize="20" labelFontColor="0xA2A2A2" align="center"/>
+        <Class name="fieldValue" labelFontSize="18" labelFontColor="0xFFFFFF" align="center"/>
+        <Class name="fieldLabel" labelFontSize="12" labelFontColor="0xFFFFFF" align="center"/>
+    </Classes>
+</Layout>

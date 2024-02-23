@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout name="stripbar_pixi">
+    <Main_landscape name="Main_landscape">
+        <Element name="props" depth="-1" layerY="0" layerX="0" type="layerProperties"/>
+        <Element name="sbContainer" depth="0" type="container" x="0" y="0" width="1584" height="30">
+            <Element name="containerTop" depth="0" type="container" x="0" y="0" width="500" height="30">
+                <Element name="clock" class="textClockValueLand"/>
+            </Element>
+            <Element name="containerTopLeft" depth="0" type="container" x="0" y="0" width="50" height="30">
+                
+                <Element name="paytableWaysTitle" class="textClockValueLand" x="0" y="0" visible="false"/>
+                
+            </Element>
+            <Element name="sbBg" depth="1" type="image" resource="MainBalanceStrip" x="0" y="0" width="1584"
+                     height="30"/>
+            <Element name="sbBetContainer" depth="2" type="container" x="152" y="0">
+                <Element name="stripTotalBetLabel" class="textTitleLand" singleLine="true"/>
+                <Element name="stripTotalBetValue" class="textValueLand"/>
+            </Element>
+            <Element name="sbBalanceContainer" depth="2" type="container" x="473" y="0">
+                <Element name="stripBalanceLabel" class="textTitleLand"/>
+                <Element name="stripBalanceValue" class="textValueLand"/>
+            </Element>
+            <Element name="sbCreditContainer" depth="2" type="container" x="794" y="0">
+                <Element name="stripCreditLabel" class="textTitleLand"/>
+                <Element name="stripCreditValue" class="textValueLand"/>
+            </Element>
+            <Element name="sbWinContainer" depth="2" type="container" x="1115" y="0">
+                <Element name="stripWinLabel" class="textTitleLand"/>
+                <Element name="stripWinValue" class="textValueLand"/>
+            </Element>
+        </Element>
+        <Element name="sbContainerBonus" depth="2" type="container" x="0" y="0" width="1584" height="30">
+            <Element name="sbBalanceContainerBonus" depth="2" type="container" x="870" y="0">
+                <Element name="stripBalanceBonusLabel" class="textTitleLand"/>
+            </Element>
+        </Element>
+    </Main_landscape>
+    <Main_portrait name="Main_portrait">
+        <Element name="props" depth="-1" layerY="0" layerX="0" type="layerProperties"/>
+        <Element name="sbContainer" depth="0" type="container" x="0" y="0" width="1584" height="100">
+            <Element name="sbContainerBottom" depth="0" type="container" x="0" y="0" width="1584" height="50">
+                <Element name="trademarkText" depth="3" type="textField" x="310" y="-25" width="400" height="100"
+                         class="trademarkLabel"/>
+                <Element name="sbBg" class="bgPortraitDown"/>
+                <Element name="sbLogo" depth="2" type="image" resource="iSoftBetLogo" x="745" y="15" width="94"
+                         height="20"/>
+                <Element name="clock" class="textClockValuePort"/>
+                
+                <Element name="paytableWaysTitle" class="textClockValuePort" x="360" y="0"
+                         width="300" height="50" visible="false"/>
+                
+            </Element>
+            <Element name="sbContainerBottom" depth="0" type="container" x="302" y="-50" width="1584" height="50">
+                <Element name="sbBgBottom" class="bgPortrait"/>
+                <Element name="sbCreditContainer" depth="2" type="container" x="130" y="0">
+                    <Element name="stripCreditLabel" class="textTitlePort"/>
+                    <Element name="stripCreditValue" class="textValuePort"/>
+                </Element>
+                <Element name="sbBalanceContainer" depth="2" type="container" x="490" y="0">
+                    <Element name="stripBalanceLabel" class="textTitlePort"/>
+                    <Element name="stripBalanceValue" class="textValuePort"/>
+                </Element>
+                <Element name="sbContainerBonus" depth="2" type="container" x="560" y="0">
+                    <Element name="stripBalanceBonusLabel" class="textTitlePort" align="center"/>
+                </Element>
+            </Element>
+
+            <Element name="sbContainerCenter" depth="0" type="container" x="302" y="-700" width="1584" height="50">
+                <Element name="sbBgCenter" class="bgPortrait"/>
+                <Element name="sbBetContainer" depth="2" type="container" x="130" y="0">
+                    <Element name="stripTotalBetLabel" class="textTitlePort" singleLine="true"/>
+                    <Element name="stripTotalBetValue" class="textValuePort"/>
+                </Element>
+                <Element name="sbWinContainer" depth="2" type="container" x="490" y="0">
+                    <Element name="stripWinLabel" class="textTitlePort"/>
+                    <Element name="stripWinValue" class="textValuePort"/>
+                </Element>
+            </Element>
+        </Element>
+    </Main_portrait>
+    <Styles>
+        
+        <FontStyle name="sbStyleLabelLand" fontSize="22" fontColor="0x898789" align="right" vAlign="center" fontFamily="noto_sanscondensed_bold"/>
+        <FontStyle name="sbStyleValueLand" fontSize="22" fontColor="0xF6F4F6" align="left" vAlign="center" fontFamily="noto_sanscondensed_bold"/>
+        <FontStyle name="sbStyleLabelPort" fontSize="35" fontColor="0x898789" align="right" vAlign="center" fontFamily="noto_sanscondensed_bold"/>
+        <FontStyle name="sbStyleValuePort" fontSize="35" fontColor="0xF6F4F6" align="left" vAlign="center" fontFamily="noto_sanscondensed_bold"/>
+        
+    </Styles>
+    <Classes>
+        
+        <Class name="trademarkLabel" labelFontSize="20" labelFontColor="0xA2A2A2" align="center"/>
+        <Class name="textTitleLand" depth="3" type="textField" x="0" y="0" width="150" height="30"
+               style="sbStyleLabelLand" singleLine="true"/>
+        <Class name="textValueLand" depth="3" type="textField" x="160" y="0" width="150" height="30"
+               style="sbStyleValueLand" singleLine="true"/>
+        <Class name="textTitlePort" depth="3" type="textField" x="0" y="0" width="180" height="50"
+               style="sbStyleLabelPort" singleLine="true"/>
+        <Class name="textValuePort" depth="3" type="textField" x="180" y="0" width="180" height="50"
+               style="sbStyleValuePort" singleLine="true"/>
+
+        <Class name="textClockValueLand" depth="3" type="textField" x="160" y="0" width="150" height="30" singleLine="true"
+               strokeThickness="4" stroke="000000" lineJoin="round" labelFontSize="26" labelFontColor="0xffffff"
+               align="left" vAlign="center" labelFont="noto_sanscondensed_bold"/>
+        <Class name="textClockValuePort" depth="3" type="textField" x="235" y="0" width="470" height="50" singleLine="true"
+               strokeThickness="4" stroke="000000" lineJoin="round" labelFontSize="30" labelFontColor="0xffffff"
+               align="left" vAlign="center" labelFont="noto_sanscondensed_bold"/>
+
+        <Class name="bgPortrait" depth="1" type="image" resource="MainBalanceStrip" x="-50" y="0" height="50"
+               width="1584"/>
+        <Class name="bgPortraitDown" depth="1" type="image" resource="MUIBottomBar" x="0" y="0" height="50"
+               width="1584"/>
+        
+    </Classes>
+</Layout>

@@ -1,0 +1,40 @@
+<Layout name="paytable_pixi">
+    <Main_landscape name="Main_landscape">
+        <Element name="props" depth="-1" layerX="0" layerY="0" type="layerProperties"/>
+        <Element name="paytableTitleBg" depth="1" x="0" y="0" width="960" height="25"
+                 resource="SettingsTitleBackground" type="image"/>
+        <Element name="menuPaytableButton" keyTranslate="menuPaytableButton" depth="2" x="0" y="0" width="960"
+                 height="25" class="paytableTitle" type="textField"/>
+        <Element name="ptBackButton" keyTranslate="ptBackButton" depth="3" x="746" y="669" labelX="0"
+                 labelY="0" width="92" height="25" labelWidth="80" labelHeight="20" upState="GenericButtonUp"
+                 pressedState="GenericButtonDown" overState="GenericButtonOver" disabledState="GenericButtonDisable"
+                 class="backLabel" type="button"/>
+        <Element name="ptMainContainer" depth="0" type="scrollingContainer" x="0" y="24" width="1584" height="631">
+            <Element name="rulesMainButton" type="container" x="195" y="2615" depth="0">
+                <Element name="ptRulesButton" labelFontSize="32" keyTranslate="menuRulesButton" depth="3" x="0" y="430" labelX="0" labelY="0" width="184" height="50" labelWidth="184" labelHeight="40" upState="GenericButtonUp" pressedState="GenericButtonDown" overState="GenericButtonOver" disabledState="GenericButtonDisable" class="backLabel" type="button"/>
+            </Element>
+        </Element>
+
+    </Main_landscape>
+    <Main_portrait name="Main_portrait">
+        <Element name="props" depth="-1" layerX="0" layerY="0" type="layerProperties"/>
+        <Element name="paytableTitleBg" depth="1" x="0" y="0" width="800" height="25"
+                 resource="SettingsTitleBackground" type="image"/>
+        <Element name="menuPaytableButton" keyTranslate="menuPaytableButton" depth="2" x="0" y="0" width="800"
+                 height="25" class="paytableTitle" type="textField"/>
+        <Element name="ptBackButton" keyTranslate="ptBackButton" depth="3" x="746" y="669" labelX="0"
+                 labelY="0" width="92" height="25" labelWidth="80" labelHeight="20" upState="GenericButtonUp"
+                 pressedState="GenericButtonDown" overState="GenericButtonOver" disabledState="GenericButtonDisable"
+                 class="backLabel" type="button"/>
+        <Element name="ptMainContainer" depth="0" type="scrollingContainer" x="0" y="30" width="720" height="1000">
+            <Element name="rulesMainButton" type="container" x="-90" y="4340" depth="0">
+                <Element name="ptRulesButton" labelFontSize="32" keyTranslate="menuRulesButton" depth="3" x="110" y="1365" labelX="0" labelY="0" width="184" height="50" labelWidth="184" labelHeight="40" upState="GenericButtonUp" pressedState="GenericButtonDown" overState="GenericButtonOver" disabledState="GenericButtonDisable" class="backLabel" type="button"/>
+            </Element>
+        </Element>
+    </Main_portrait>
+    <Classes>
+        <Class name="paytableTitle" type="textField" labelFontSize="32" align="center" vAlign="center"
+               labelFontColor="0xffffff"/>
+        <Class name="backLabel" labelFontSize="32" type="textField" labelFontColor="0x000000" align="center" singleLine="true"/>
+    </Classes>
+</Layout>

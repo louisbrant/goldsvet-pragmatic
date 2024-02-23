@@ -1,0 +1,173 @@
+{
+    "frames": {
+        "SettingsSeparator1.png": {
+            "frame": {
+                "x": 4,
+                "y": 4,
+                "w": 1537,
+                "h": 3
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1537,
+                "h": 3
+            },
+            "sourceSize": {
+                "w": 1537,
+                "h": 3
+            }
+        },
+        "SettingsSeparator3.png": {
+            "frame": {
+                "x": 4,
+                "y": 19,
+                "w": 1536,
+                "h": 3
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1536,
+                "h": 3
+            },
+            "sourceSize": {
+                "w": 1536,
+                "h": 3
+            }
+        },
+        "SettingsSeparator2.png": {
+            "frame": {
+                "x": 4,
+                "y": 34,
+                "w": 1536,
+                "h": 3
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1536,
+                "h": 3
+            },
+            "sourceSize": {
+                "w": 1536,
+                "h": 3
+            }
+        },
+        "Aztec-Features-Frame.png": {
+            "frame": {
+                "x": 4,
+                "y": 49,
+                "w": 1048,
+                "h": 731
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1048,
+                "h": 731
+            },
+            "sourceSize": {
+                "w": 1048,
+                "h": 731
+            }
+        },
+        "PT-Symbol-Payout.png": {
+            "frame": {
+                "x": 1064,
+                "y": 49,
+                "w": 454,
+                "h": 233
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 454,
+                "h": 233
+            },
+            "sourceSize": {
+                "w": 454,
+                "h": 233
+            }
+        },
+        "Megaways1.png": {
+            "frame": {
+                "x": 1064,
+                "y": 294,
+                "w": 400,
+                "h": 276
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 400,
+                "h": 276
+            },
+            "sourceSize": {
+                "w": 400,
+                "h": 276
+            }
+        },
+        "Megaways3.png": {
+            "frame": {
+                "x": 1530,
+                "y": 49,
+                "w": 213,
+                "h": 139
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 213,
+                "h": 139
+            },
+            "sourceSize": {
+                "w": 213,
+                "h": 139
+            }
+        },
+        "Megaways2.png": {
+            "frame": {
+                "x": 1755,
+                "y": 49,
+                "w": 208,
+                "h": 139
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 208,
+                "h": 139
+            },
+            "sourceSize": {
+                "w": 208,
+                "h": 139
+            }
+        }
+    },
+    "meta": {
+        "image": "Paytable.desktop.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 2048,
+            "h": 1024
+        },
+        "scale": "1"
+    }
+}

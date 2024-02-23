@@ -1,0 +1,93 @@
+{
+    "frames": {
+        "Feature_Frame.png": {
+            "frame": {
+                "x": 4,
+                "y": 4,
+                "w": 693,
+                "h": 865
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 27,
+                "y": 103,
+                "w": 693,
+                "h": 865
+            },
+            "sourceSize": {
+                "w": 720,
+                "h": 968
+            }
+        },
+        "feature_reel_frame.png": {
+            "frame": {
+                "x": 709,
+                "y": 4,
+                "w": 636,
+                "h": 573
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 636,
+                "h": 573
+            },
+            "sourceSize": {
+                "w": 636,
+                "h": 573
+            }
+        },
+        "Frame_Divider.png": {
+            "frame": {
+                "x": 1357,
+                "y": 4,
+                "w": 573,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 573,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 573,
+                "h": 16
+            }
+        },
+        "introfeathermask.png": {
+            "frame": {
+                "x": 1357,
+                "y": 32,
+                "w": 429,
+                "h": 207
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 429,
+                "h": 207
+            },
+            "sourceSize": {
+                "w": 429,
+                "h": 207
+            }
+        }
+    },
+    "meta": {
+        "image": "FeatureScreen.mobile.landscape.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 2048,
+            "h": 1024
+        },
+        "scale": "1"
+    }
+}

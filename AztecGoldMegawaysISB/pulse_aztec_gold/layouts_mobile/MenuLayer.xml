@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout name="paytable_pixi">
+    <Main_landscape name="Main_landscape">
+        <Element name="props" depth="-1" layerY="0" layerX="0" type="layerProperties"/>
+        
+        <Element name="menuContainerUiButtons" depth="0" type="container" x="0" y="0">
+            <Element name="menuToggle" depth="1" type="button" x="800" y="450" width="104" height="104"
+                     upState="MUIMenuButtonUp" pressedState="MUIMenuButtonDown" overState="MUIMenuButtonUp"
+                     disabledState=""/>
+            <Element name="UICheatToolButton" depth="1" type="button" x="800" y="450" width="104" height="104"
+                     upState="MUICheatButtonUp" pressedState="MUICheatButtonDown" overState="MUICheatButtonOver"
+                     disabledState="MUICheatButtonDisable"/>
+        </Element>
+        
+        <Element name="menuContainer" depth="2" type="container" x="0" y="0" width="1000" height="550">
+            <Element name="menuBg" depth="0" type="image" resource="SettingsBackground" x="-1" y="0" width="1001"
+                     height="550"/>
+            <Element name="menuContainerTitle" depth="3" type="container" x="0" y="0" width="1000" height="40">
+                <Element name="menuBgTitle" depth="3" type="image" resource="PTTopBarBackground" x="0" y="0"
+                         width="1000" height="40"/>
+                <Element name="menuTitle" depth="4" type="textField" x="0" y="3" width="1000" height="40"
+                         style="mnTitleLandscape" label="PAYTABLE"/>
+            </Element>
+            <Element name="menuContent" class="menuContainerLandscape" y="40" mask="true">
+                <Element name="menuContainerContent" depth="4" type="container" class="menuContainerLandscape" y="0">
+                    <Element name="menuHistoryPanel" class="menuContainerLandscape">
+                        <Element name="historyForRealMoney" depth="2" x="60" y="100" width="840" height="200"
+                                 style="mnTextBodyLandscape" type="textField"
+                                 label="The game history is available only when playing for money."/>
+                        <Element name="menuHistoryLabel" depth="20" type="button" cornerRadius="5" x="350" y="300"
+                                 width="250" height="70"
+                                 upState="MUIGenericButtonUp" pressedState="MUIGenericButtonDown"
+                                 overState="MUIGenericButtonOver" disabledState="MUIGenericButtonDIsable"
+                                 labelStyle="mnButtonLandscape" labelWidth="250" labelHeight="70"/>
+                    </Element>
+                    <Element name="ptMainContainer" class="menuContainerLandscape" x="920" y="0"/>
+                    <Element name="menuContSettings" class="menuContainerLandscape" x="1840">
+                        <Element name="menuSettingsHome" depth="20" type="button" cornerRadius="5" x="220" y="150"
+                                 width="150" height="150" upState="MUIMenuHomeButtonUp" pressedState="MUIMenuHomeButtonDown"
+                                 overState="MUIMenuHomeButtonOver" disabledState="MUIMenuHomeButtonDisable"/>
+                        <Element name="menuSoundButton" depth="20" type="toggleButton" assetsType="" cornerRadius="5"
+                                 x="610" y="150" width="150" height="150" onState="MUIMenuSoundOnButtonUp" offState="MUIMenuSoundOffButtonUp" defaultState="on"/>
+                    </Element>
+                    <Element name="apSettingsContainer" class="menuContainerLandscape" x="2760"/>
+                    <Element name="coinValuePanel" class="menuContainerLandscape" x="3680"/>
+                </Element>
+            </Element>
+            <Element name="menuContainerButtons" depth="5" type="container" x="920" y="35" width="80" height="510">
+                <Element name="menuHistoryPanelButton" y="20"
+                         upState="MUIMenuHistoryButtonUp" pressedState="MUIMenuHistoryButtonDown"
+                         overState="MUIMenuHistoryButtonUp" disabledState="MUIMenuHistoryButtonDown"
+                         class="menuButtonLandscape"/>
+                <Element name="ptMainContainerButton" y="100"
+                         upState="MUIMenuPayTableButtonUp" pressedState="MUIMenuPayTableButtonDown" disabledState="MUIMenuPayTableButtonDown"
+                         overState="MUIMenuPayTableButtonUp"
+                         class="menuButtonLandscape"/>
+                <Element name="menuContSettingsButton" y="190"
+                         upState="MUIMenuSettingsButtonUp" pressedState="MUIMenuSettingsButtonDown" disabledState="MUIMenuSettingsButtonDown"
+                         overState="MUIMenuSettingsButtonUp"
+                         class="menuButtonLandscape"/>
+                <Element name="apSettingsContainerButton" y="280"
+                         upState="MUIMenuAutoSpinButtonUp" pressedState="MUIMenuAutoSpinButtonDown" disabledState="MUIMenuAutoSpinButtonDown"
+                         overState="MUIMenuAutoSpinButtonUp"
+                         class="menuButtonLandscape"/>
+                <Element name="coinValuePanelButton" y="370"
+                         upState="MUIMenuCoinValueButtonUp" pressedState="MUIMenuCoinValueButtonDown" disabledState="MUIMenuCoinValueButtonDown"
+                         overState="MUIMenuCoinValueButtonUp"
+                         class="menuButtonLandscape"/>
+                <Element name="menuBackButton" y="450"
+                         upState="MUIMenuBackButtonUp" pressedState="MUIMenuBackButtonDown" disabledState="MUIMenuBackButtonDown"
+                         overState="MUIMenuBackButtonUp"
+                         class="menuButtonLandscape"/>
+            </Element>
+
+        </Element>
+    </Main_landscape>
+    <Main_portrait name="Main_portrait">
+        <Element name="props" depth="-1" layerY="0" layerX="0" type="layerProperties"/>
+        
+        <Element name="menuContainerUiButtons" depth="0" type="container" x="0" y="0">
+            <Element name="menuToggle" depth="1" type="button" x="700" y="1200" width="104" height="104"
+                     upState="MUIMenuButtonUp" pressedState="MUIMenuButtonDown" overState="MUIMenuButtonUp"
+                     disabledState=""/>
+            <Element name="UICheatToolButton" depth="1" type="button" x="700" y="1200" width="104" height="104"
+                     upState="MUICheatButtonUp" pressedState="MUICheatButtonDown" overState="MUICheatButtonOver"
+                     disabledState="MUICheatButtonDisable"/>
+        </Element>
+        
+        <Element name="menuContainer" depth="2" type="container" x="0" y="0" width="800" height="1300">
+            <Element name="menuBg" depth="0" type="image" resource="SettingsBackground" x="-1" y="0" width="801"
+                     height="1300"/>
+            <Element name="menuContainerTitle" depth="3" type="container" x="0" y="0" width="800" height="50">
+                <Element name="menuBgTitle" depth="3" type="image" resource="PTTopBarBackground" x="0" y="0"
+                         width="800" height="53"/>
+                <Element name="menuTitle" depth="4" type="textField" x="0" y="7" width="800" height="50"
+                         style="mnTitlePortrait" label="PAYTABLE"/>
+            </Element>
+            <Element name="menuContent" depth="4" class="menuContainerPortrait" y="50" mask="true">
+                <Element name="menuContainerContent" depth="4" class="menuContainerPortrait" y="0">
+                    <Element name="menuHistoryPanel" class="menuContainerPortrait" x="0">
+                        <Element name="historyForRealMoney" depth="2" x="50" y="250" width="700" height="200"
+                                 style="mnTextBodyPortrait" type="textField"
+                                 label="The game history is available only when playing for money."/>
+                        <Element name="menuHistoryLabel" depth="20" type="button" cornerRadius="5" x="215" y="500"
+                                 width="350" height="100"
+                                 upState="MUIGenericButtonUp" pressedState="MUIGenericButtonDown"
+                                 overState="MUIGenericButtonOver" disabledState="MUIGenericButtonDIsable"
+                                 labelStyle="mnButtonPortrait" labelWidth="350" labelHeight="100"/>
+                    </Element>
+                    <Element name="ptMainContainer" class="menuContainerPortrait" x="800" y="6"/>
+                    <Element name="menuContSettings" class="menuContainerPortrait" x="1600">
+                        <Element name="menuSettingsHome" depth="20" type="button" cornerRadius="5" x="290" y="200"
+                                 width="200" height="200" upState="MUIMenuHomeButtonUp" pressedState="MUIMenuHomeButtonDown"
+                                 overState="MUIMenuHomeButtonOver" disabledState="MUIMenuHomeButtonDisable"/>
+                        <Element name="menuSoundButton" depth="20" type="toggleButton" assetsType="" cornerRadius="5"
+                                 x="290" y="630" width="200" height="200"
+                                 onState="MUIMenuSoundOnButtonUp" offState="MUIMenuSoundOffButtonUp" defaultState="on"/>
+                    </Element>
+                    <Element name="apSettingsContainer" class="menuContainerPortrait" x="2400"/>
+                    <Element name="coinValuePanel" class="menuContainerPortrait" x="3200"/>
+                </Element>
+            </Element>
+            <Element name="menuContainerButtons" depth="3" type="container" x="20" y="1210" width="800" height="80">
+                <Element name="menuHistoryPanelButton" x="20"
+                         upState="MUIMenuHistoryButtonUp" pressedState="MUIMenuHistoryButtonDown" disabledState="MUIMenuHistoryButtonDown"
+                         overState="MUIMenuHistoryButtonUp"
+                         class="menuButtonPortrait"/>
+                <Element name="ptMainContainerButton" x="150"
+                         upState="MUIMenuPayTableButtonUp" pressedState="MUIMenuPayTableButtonDown" disabledState="MUIMenuPayTableButtonDown"
+                         overState="MUIMenuPayTableButtonUp"
+                         class="menuButtonPortrait"/>
+                <Element name="menuContSettingsButton" x="280"
+                         upState="MUIMenuSettingsButtonUp" pressedState="MUIMenuSettingsButtonDown" disabledState="MUIMenuSettingsButtonDown"
+                         overState="MUIMenuSettingsButtonUp"
+                         class="menuButtonPortrait"/>
+                <Element name="apSettingsContainerButton" x="410"
+                         upState="MUIMenuAutoSpinButtonUp" pressedState="MUIMenuAutoSpinButtonDown" disabledState="MUIMenuAutoSpinButtonDown"
+                         overState="MUIMenuAutoSpinButtonUp"
+                         class="menuButtonPortrait"/>
+                <Element name="coinValuePanelButton" x="540"
+                         upState="MUIMenuCoinValueButtonUp" pressedState="MUIMenuCoinValueButtonDown" disabledState="MUIMenuCoinValueButtonDown"
+                         overState="MUIMenuCoinValueButtonUp"
+                         class="menuButtonPortrait"/>
+                <Element name="menuBackButton" x="680"
+                         upState="MUIMenuBackButtonUp" pressedState="MUIMenuBackButtonDown" disabledState="MUIMenuBackButtonDown"
+                         overState="MUIMenuBackButtonUp"
+                         class="menuButtonPortrait"/>
+            </Element>
+        </Element>
+    </Main_portrait>
+    <Styles>
+        
+        <FontStyle name="mnButtonLandscape" fontSize="40" fontColor="0x000000" align="center" vAlign="center"/>
+        <FontStyle name="mnButtonPortrait" fontSize="70" fontColor="0x000000" align="center" vAlign="center"/>
+        <FontStyle name="mnTitleLandscape" fontSize="25" fontColor="0xFFFFFF" align="center" vAlign="center"/>
+        <FontStyle name="mnTitlePortrait" fontSize="35" fontColor="0xFFFFFF" align="center" vAlign="center"/>
+        <FontStyle name="mnTextBodyLandscape" fontSize="40" fontColor="0xFFFFFF" align="center" vAlign="center"/>
+        <FontStyle name="mnTextBodyPortrait" fontSize="50" fontColor="0xFFFFFF" align="center" vAlign="center"/>
+        
+    </Styles>
+    <Classes>
+        
+        <Class name="menuButtonLandscape" depth="5" type="button" x="10" width="50" height="50" disabledState=""/>
+        <Class name="menuButtonPortrait" depth="5" type="button" y="5" width="60" height="60" disabledState=""/>
+        <Class name="menuContainerLandscape" depth="4" type="container" x="0" y="0" width="920" height="510"/>
+        <Class name="menuContainerPortrait" depth="4" type="container" x="0" y="0" width="800" height="1140"/>
+        
+    </Classes>
+
+</Layout>

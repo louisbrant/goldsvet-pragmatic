@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout name="dialogue_boxes_pixi">
+    <Main>
+        <Element name="props" depth="-1" layerY="0" layerX="0" type="layerProperties"/>
+        <Element name="defaultDialogueBox" type="container" x="615" y="269" depth="1" visible="false">
+            <Element name="dialogueBgDefault" type="image" resource="PreErrorBackground" x="0" y="0.5" width="350"
+                     height="182" depth="0"/>
+            <Element name="errorIcon" type="image" resource="PreErrorAlertIcon" x="156" y="12" width="42.5" height="37.5"
+                     depth="1"/>
+            <Element name="separator" type="image" resource="SettingsSeparator" x="40" y="60" width="270" height="2"
+                     depth="2"/>
+            <Element name="messageDefault" type="textField" x="10" y="64" width="330" height="148" depth="3"
+                     class="dialogBody"/>
+            <Element name="defaultButton0" depth="3" class="genericbutton"/>
+            <Element name="defaultButton1" depth="4" class="genericbutton"/>
+            <Element name="defaultButton2" depth="5" class="genericbutton"/>
+        </Element>
+        <Element name="realityCheckClientDialogueBox" type="container" x="615" y="269" depth="2" visible="false">
+            <Element name="dialogueBgRCClient" type="image" resource="PreErrorBackground" x="0" y="0.5" width="350"
+                     height="182" depth="0 "/>
+            <Element name="realityCheckClientTitle" type="textField" x="10" y="0" width="330" height="40" depth="3"
+                     class="dialogHeader"/>
+            <Element name="separator" type="image" resource="SettingsSeparator" x="40" y="40" width="270" height="2"
+                     depth="2"/>
+            <Element name="messageRCClient" type="textField" x="10" y="44" width="330" height="124" depth="3"
+                     class="dialogBody"/>
+            <Element name="rcClientStepper" depth="2" type="stepper" minValue="0" maxValue="2000"
+                     middle="38" x="132" y="110" width="86" height="24" fontSize="12" initial="1"/>
+            <Element name="rcClientButton0" depth="3" class="genericbutton"/>
+            <Element name="rcClientButton1" depth="4" class="genericbutton"/>
+            <Element name="rcClientButton2" depth="5" class="genericbutton"/>
+        </Element>
+        <Element name="realityCheckServerDialogueBox" type="container" x="615" y="269" depth="3" visible="false">
+            <Element name="dialogueBgRCServer" type="image" resource="PreErrorBackground" x="0" y="0.5" width="350"
+                     height="182" depth="0 "/>
+            <Element name="realityCheckServerTitle" type="textField" x="10" y="0" width="330" height="40" depth="3"
+                     class="dialogHeader"/>
+            <Element name="separator" type="image" resource="SettingsSeparator" x="40" y="40" width="270" height="2"
+                     depth="2"/>
+            <Element name="messageRCServer" type="textField" x="10" y="44" width="330" height="124" depth="3"
+                     class="dialogBody"/>
+            <Element name="rcServerStepper" depth="2" type="stepper" minValue="0" maxValue="2000"
+                     middle="38" x="132" y="110" width="86" height="24" fontSize="12" initial="1"/>
+            <Element name="rcServerButton0" depth="3" class="genericbutton"/>
+            <Element name="rcServerButton1" depth="4" class="genericbutton"/>
+            <Element name="rcServerButton2" depth="5" class="genericbutton"/>
+        </Element>
+    </Main>
+    <Classes>
+        <Class name="dialogHeader" labelFontSize="14" align="center" vAlign="center" labelFontColor="0xffffff"/>
+        <Class name="dialogBody" labelFontSize="10" align="center" vAlign="center" labelFontColor="0xffffff"/>
+        <Class name="genericbutton" labelX="-1" labelY="0" width="92" height="25" x="10" y="140"
+               labelWidth="92" labelHeight="25" upState="GenericButtonUp" pressedState="GenericButtonDown"
+               overState="GenericButtonOver" disabledState="GenericButtonDisable" type="button"
+               labelFontSize="10" align="center" vAlign="center" labelFontColor="0x333333"/>
+    </Classes>
+</Layout>
